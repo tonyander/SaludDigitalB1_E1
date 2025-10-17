@@ -1,0 +1,3001 @@
+id_paciente,nombre,edad,sexo,distrito,servicio,fecha_atencion,monto
+P0001,Carlos Ruiz,74,,Magdalena,Pediatría,2023-08-28,0.0
+P0002,Andrea Soto,0,M,Desconocido,Ginecología,2025-03-31,0.0
+P0003,Jorge Díaz,61,,Baños del Inca,General,2025-07-12,775.0
+P0004,Lucía Mendoza,54,,Baños del Inca,Traumatología,2025-08-31,0.0
+P0005,Pedro León,0,M,Matara,Odontología,2025-06-23,0.0
+P0006,Lucía Mendoza,0,,Magdalena,Ginecología,2023-05-29,0.0
+P0007,Carlos Ruiz,0,,Magdalena,Ginecología,2023-08-30,718.83
+P0008,Pedro León,0,F,Chetilla,Pediatría,2025-03-19,392.53
+P0009,Lucía Mendoza,6,M,Baños del Inca,Ginecología,2023-12-19,0.0
+P0010,Diego Ramos,76,,Desconocido,Odontología,2023-08-06,0.0
+P0011,Carlos Ruiz,64,F,Cajamarca,Traumatología,2025-12-28,0.0
+P0012,Jorge Díaz,80,M,Cajamarca,Traumatología,2025-03-01,0.0
+P0013,Diego Ramos,0,,Los Baños,Pediatría,2025-03-05,0.0
+P0014,Pedro León,21,,Magdalena,Medicina General,2023-03-26,0.0
+P0015,María García,0,M,Baños del Inca,General,2025-04-08,0.0
+P0016,Carmen Flores,0,F,Encañada,Medicina General,2025-12-26,0.0
+P0017,Ana Torres,0,M,Jesús,Medicina General,2025-06-30,0.0
+P0018,María García,47,M,Cajamarca,Medicina General,2023-08-18,0.0
+P0019,Diego Ramos,0,M,Los Baños,Ginecología,2025-09-07,0.0
+P0020,Jorge Díaz,0,,Matara,General,2025-10-02,0.0
+P0021,Diego Ramos,48,F,Jesús,Ginecología,2025-05-16,0.0
+P0022,Carlos Ruiz,16,F,Jesús,Traumatología,2024-07-06,0.0
+P0023,Luis Pérez,0,F,Los Baños,Traumatología,2023-10-27,193.83
+P0024,Ana Torres,42,F,Magdalena,Pediatría,2024-03-03,0.0
+P0025,Lucía Mendoza,0,,Encañada,Pediatría,2024-05-15,731.19
+P0026,Lucía Mendoza,50,,Los Baños,Ginecología,2025-04-29,0.0
+P0027,Luis Pérez,81,M,Jesús,Odontología,2024-09-13,0.0
+P0028,Ana Torres,38,M,Magdalena,Pediatría,2025-02-05,294.23
+P0029,Andrea Soto,47,M,Jesús,Medicina General,2025-12-21,0.0
+P0030,Luis Pérez,6,,Encañada,Pediatría,2024-01-18,0.0
+P0031,Luis Pérez,0,,Encañada,General,2023-08-26,113.85
+P0032,Pedro León,0,,Cajamarca,Pediatría,2023-12-26,328.9
+P0033,Ana Torres,0,F,Chetilla,Ginecología,2023-08-19,0.0
+P0034,Luis Pérez,40,M,Chetilla,Odontología,2025-11-02,0.0
+P0035,Andrea Soto,0,F,Matara,Pediatría,2025-12-15,0.0
+P0036,Jorge Díaz,24,,Chetilla,Odontología,2025-10-09,0.0
+P0037,Diego Ramos,20,,Cajamarca,General,2023-10-17,0.0
+P0038,Pedro León,0,F,Baños del Inca,Medicina General,2025-11-29,99.61
+P0039,Pedro León,0,M,Magdalena,Ginecología,2023-07-23,0.0
+P0040,Diego Ramos,0,,Jesús,Traumatología,2023-08-04,0.0
+P0041,Jorge Díaz,0,M,Magdalena,Ginecología,2025-04-22,0.0
+P0042,Carlos Ruiz,0,M,Baños del Inca,Ginecología,2024-10-19,206.98
+P0043,Carmen Flores,0,M,Magdalena,Traumatología,2023-12-05,0.0
+P0044,Carmen Flores,0,M,Cajamarca,Ginecología,2024-07-03,0.0
+P0045,Lucía Mendoza,0,,Desconocido,Odontología,2023-12-18,0.0
+P0046,Diego Ramos,28,M,Magdalena,Pediatría,2023-11-26,84.5
+P0047,Pedro León,51,M,Chetilla,Odontología,2025-06-11,0.0
+P0048,Carmen Flores,0,M,Jesús,General,2024-03-29,576.27
+P0049,Diego Ramos,65,,Cajamarca,Ginecología,2023-03-31,0.0
+P0050,Carlos Ruiz,0,F,Magdalena,Pediatría,2024-07-02,0.0
+P0051,María García,34,,Jesús,General,2023-04-28,0.0
+P0052,Luis Pérez,0,F,Jesús,Pediatría,2025-06-13,642.65
+P0053,Andrea Soto,0,,Desconocido,General,2023-09-09,0.0
+P0054,Jorge Díaz,0,M,Magdalena,Ginecología,2024-06-08,0.0
+P0055,Diego Ramos,32,M,Baños del Inca,Pediatría,2024-09-24,401.45
+P0056,Carmen Flores,0,F,Jesús,General,2025-10-28,198.12
+P0057,Carlos Ruiz,34,,Chetilla,Odontología,2024-02-14,0.0
+P0058,Carlos Ruiz,0,F,Jesús,Odontología,2024-01-03,0.0
+P0059,Diego Ramos,6,F,Chetilla,Pediatría,2025-12-24,552.97
+P0060,Andrea Soto,83,,Baños del Inca,General,2025-10-24,118.07
+P0061,Andrea Soto,37,F,Magdalena,Ginecología,2023-11-12,0.0
+P0062,Jorge Díaz,9,,Matara,Pediatría,2025-02-16,0.0
+P0063,Jorge Díaz,0,F,Jesús,Odontología,2024-01-26,225.16
+P0064,Andrea Soto,61,,Encañada,Medicina General,2024-02-26,0.0
+P0065,Andrea Soto,70,,Chetilla,General,2025-03-31,0.0
+P0066,Andrea Soto,39,F,Desconocido,Traumatología,2025-04-14,0.0
+P0067,Carlos Ruiz,0,,Baños del Inca,General,2025-01-04,0.0
+P0068,Carlos Ruiz,0,F,Matara,Traumatología,2025-01-31,0.0
+P0069,Andrea Soto,52,M,Magdalena,Pediatría,2025-09-29,0.0
+P0070,María García,0,M,Baños del Inca,Odontología,2025-01-07,269.37
+P0071,Pedro León,0,F,Chetilla,Pediatría,2024-08-29,315.6
+P0072,Diego Ramos,0,,Magdalena,Odontología,2025-06-14,478.18
+P0073,María García,0,M,Cajamarca,Pediatría,2023-03-31,0.0
+P0074,Pedro León,38,F,Matara,Pediatría,2024-11-22,0.0
+P0075,Carmen Flores,0,,Jesús,Ginecología,2024-11-13,0.0
+P0076,Pedro León,0,M,Desconocido,Odontología,2025-07-01,0.0
+P0077,Pedro León,0,,Cajamarca,Traumatología,2023-05-26,306.1
+P0078,Pedro León,0,,Chetilla,Odontología,2023-04-01,0.0
+P0079,Lucía Mendoza,0,F,Jesús,General,2023-07-21,0.0
+P0080,Pedro León,0,,Los Baños,Odontología,2023-05-28,371.97
+P0081,Andrea Soto,0,,Matara,Medicina General,2024-05-27,316.58
+P0082,Pedro León,0,M,Baños del Inca,Ginecología,2023-04-14,0.0
+P0083,Ana Torres,84,,Chetilla,Medicina General,2024-04-09,401.57
+P0084,Ana Torres,82,M,Jesús,Odontología,2024-02-17,0.0
+P0085,Diego Ramos,0,,Los Baños,Medicina General,2025-02-01,0.0
+P0086,Carmen Flores,0,,Encañada,Pediatría,2023-06-27,0.0
+P0087,Diego Ramos,0,F,Desconocido,Pediatría,2023-06-26,0.0
+P0088,Ana Torres,16,,Magdalena,Medicina General,2023-12-07,0.0
+P0089,María García,0,M,Jesús,Traumatología,2025-04-27,536.99
+P0090,Diego Ramos,45,M,Chetilla,General,2024-11-08,0.0
+P0091,Carlos Ruiz,0,,Cajamarca,Odontología,2024-03-06,0.0
+P0092,Carlos Ruiz,0,F,Encañada,Odontología,2023-01-19,0.0
+P0093,Lucía Mendoza,78,F,Chetilla,Ginecología,2023-11-27,0.0
+P0094,María García,0,,Baños del Inca,Traumatología,2024-08-25,256.98
+P0095,Jorge Díaz,50,M,Cajamarca,Traumatología,2023-04-17,0.0
+P0096,María García,0,,Baños del Inca,Pediatría,2025-06-19,0.0
+P0097,Pedro León,70,,Encañada,Ginecología,2024-04-24,0.0
+P0098,María García,0,F,Los Baños,Traumatología,2024-08-01,0.0
+P0099,Jorge Díaz,0,,Chetilla,General,2023-03-18,0.0
+P0100,Carlos Ruiz,61,M,Chetilla,Odontología,2023-03-16,0.0
+P0101,Carmen Flores,61,,Jesús,Medicina General,2025-06-05,0.0
+P0102,Pedro León,0,M,Baños del Inca,Ginecología,2025-11-04,704.48
+P0103,Carlos Ruiz,19,,Chetilla,Odontología,2023-04-01,190.87
+P0104,Carmen Flores,76,,Baños del Inca,Pediatría,2024-06-14,0.0
+P0105,Carmen Flores,0,,Baños del Inca,Medicina General,2025-10-01,0.0
+P0106,Lucía Mendoza,0,M,Matara,Odontología,2024-06-02,616.44
+P0107,Diego Ramos,0,M,Chetilla,Odontología,2023-10-01,208.02
+P0108,Lucía Mendoza,0,F,Matara,Ginecología,2023-07-15,67.7
+P0109,Pedro León,0,M,Baños del Inca,Odontología,2025-07-30,475.97
+P0110,Carmen Flores,21,M,Cajamarca,Odontología,2023-10-30,0.0
+P0111,Diego Ramos,0,,Encañada,Odontología,2023-08-30,0.0
+P0112,Lucía Mendoza,43,F,Desconocido,Pediatría,2025-07-19,569.37
+P0113,Ana Torres,42,,Los Baños,Medicina General,2024-04-09,0.0
+P0114,Jorge Díaz,0,M,Baños del Inca,Ginecología,2025-05-04,0.0
+P0115,Andrea Soto,0,,Jesús,General,2025-12-28,0.0
+P0116,María García,0,,Los Baños,Odontología,2024-11-23,0.0
+P0117,Andrea Soto,0,M,Magdalena,Ginecología,2024-08-02,262.17
+P0118,Lucía Mendoza,0,,Matara,Medicina General,2024-05-29,121.45
+P0119,María García,0,M,Matara,Pediatría,2024-12-27,0.0
+P0120,Diego Ramos,0,F,Jesús,Odontología,2024-08-31,670.99
+P0121,Diego Ramos,0,,Encañada,General,2023-09-09,298.53
+P0122,Andrea Soto,0,,Desconocido,Pediatría,2024-07-31,0.0
+P0123,Andrea Soto,0,F,Jesús,General,2023-08-24,0.0
+P0124,Andrea Soto,83,F,Los Baños,Medicina General,2024-10-26,0.0
+P0125,Pedro León,90,M,Jesús,Medicina General,2024-05-30,0.0
+P0126,Jorge Díaz,0,,Magdalena,Pediatría,2024-09-14,412.17
+P0127,Carmen Flores,0,F,Cajamarca,Odontología,2024-01-28,0.0
+P0128,Andrea Soto,0,,Cajamarca,General,2024-02-28,0.0
+P0129,Lucía Mendoza,0,F,Baños del Inca,Traumatología,2024-12-23,0.0
+P0130,María García,0,F,Encañada,Pediatría,2025-08-29,796.52
+P0131,Diego Ramos,0,M,Desconocido,Ginecología,2023-05-09,0.0
+P0132,Luis Pérez,41,M,Matara,Medicina General,2023-10-23,0.0
+P0133,Lucía Mendoza,13,M,Desconocido,Traumatología,2023-04-26,0.0
+P0134,Lucía Mendoza,0,F,Matara,Traumatología,2024-02-17,765.16
+P0135,María García,0,M,Matara,Pediatría,2024-04-19,301.9
+P0136,Carlos Ruiz,0,,Matara,General,2024-02-28,58.6
+P0137,Luis Pérez,0,,Baños del Inca,Medicina General,2024-05-12,0.0
+P0138,Carmen Flores,0,F,Desconocido,General,2024-03-07,0.0
+P0139,Jorge Díaz,0,F,Los Baños,General,2023-03-31,0.0
+P0140,Pedro León,0,M,Cajamarca,Medicina General,2025-03-11,304.89
+P0141,Ana Torres,81,,Encañada,Pediatría,2024-07-24,0.0
+P0142,Ana Torres,0,,Cajamarca,Medicina General,2024-01-20,221.95
+P0143,Luis Pérez,0,,Jesús,Traumatología,2023-03-16,0.0
+P0144,Jorge Díaz,55,,Chetilla,Medicina General,2023-07-04,245.04
+P0145,Diego Ramos,0,F,Encañada,Odontología,2024-10-11,0.0
+P0146,María García,0,,Jesús,Traumatología,2023-10-30,0.0
+P0147,Jorge Díaz,0,,Los Baños,General,2024-05-29,0.0
+P0148,Carmen Flores,0,,Magdalena,Ginecología,2023-12-07,0.0
+P0149,Ana Torres,0,F,Desconocido,Medicina General,2025-01-29,254.44
+P0150,Lucía Mendoza,0,M,Chetilla,Ginecología,2023-02-07,0.0
+P0151,Pedro León,0,F,Matara,Ginecología,2023-03-02,0.0
+P0152,Carmen Flores,4,F,Jesús,Ginecología,2024-05-31,60.18
+P0153,Carmen Flores,3,F,Matara,Traumatología,2024-06-11,0.0
+P0154,Carlos Ruiz,0,,Baños del Inca,Pediatría,2025-12-18,253.63
+P0155,Lucía Mendoza,0,F,Desconocido,Pediatría,2023-01-27,61.16
+P0156,Ana Torres,0,,Los Baños,General,2024-05-09,600.46
+P0157,María García,0,,Encañada,General,2024-11-12,666.66
+P0158,Carlos Ruiz,19,M,Jesús,Traumatología,2023-06-17,484.26
+P0159,Carlos Ruiz,0,M,Chetilla,Medicina General,2023-03-23,0.0
+P0160,Pedro León,70,M,Magdalena,General,2024-03-26,591.09
+P0161,Diego Ramos,0,F,Baños del Inca,Pediatría,2023-07-11,0.0
+P0162,Luis Pérez,0,M,Jesús,Medicina General,2025-12-24,224.01
+P0163,Carlos Ruiz,28,M,Matara,Odontología,2023-11-19,393.15
+P0164,Andrea Soto,0,F,Baños del Inca,Odontología,2023-01-02,0.0
+P0165,Pedro León,0,M,Cajamarca,Medicina General,2024-07-27,373.98
+P0166,Jorge Díaz,0,F,Chetilla,General,2023-12-27,0.0
+P0167,Luis Pérez,0,,Matara,Pediatría,2025-10-30,261.77
+P0168,Ana Torres,21,F,Los Baños,Traumatología,2024-09-25,0.0
+P0169,Pedro León,0,M,Magdalena,Pediatría,2025-06-13,587.92
+P0170,Pedro León,0,M,Cajamarca,Medicina General,2024-11-27,491.82
+P0171,Jorge Díaz,0,M,Desconocido,General,2025-04-23,0.0
+P0172,Ana Torres,68,M,Jesús,Medicina General,2023-01-22,538.45
+P0173,Jorge Díaz,0,M,Matara,Medicina General,2023-11-09,0.0
+P0174,Pedro León,0,M,Matara,General,2023-06-30,0.0
+P0175,Carmen Flores,84,M,Cajamarca,Ginecología,2023-08-23,0.0
+P0176,Carmen Flores,0,M,Jesús,Pediatría,2025-01-02,296.36
+P0177,Pedro León,17,F,Desconocido,Ginecología,2023-10-31,190.1
+P0178,Diego Ramos,22,,Desconocido,Odontología,2023-07-05,0.0
+P0179,María García,0,M,Magdalena,Medicina General,2023-02-01,0.0
+P0180,Lucía Mendoza,20,M,Baños del Inca,Pediatría,2023-01-24,0.0
+P0181,Diego Ramos,68,M,Encañada,Medicina General,2025-01-20,0.0
+P0182,Jorge Díaz,0,,Jesús,Odontología,2024-07-14,0.0
+P0183,Andrea Soto,0,,Desconocido,Traumatología,2024-03-14,326.64
+P0184,Diego Ramos,0,F,Jesús,Ginecología,2024-10-10,0.0
+P0185,Carmen Flores,0,,Encañada,Traumatología,2023-10-10,0.0
+P0186,Luis Pérez,0,M,Los Baños,Pediatría,2024-12-03,0.0
+P0187,Pedro León,0,M,Cajamarca,Medicina General,2024-07-10,0.0
+P0188,Luis Pérez,71,F,Jesús,Medicina General,2025-01-05,0.0
+P0189,Andrea Soto,0,F,Desconocido,Pediatría,2023-03-08,452.57
+P0190,Carmen Flores,60,,Desconocido,Odontología,2024-12-09,0.0
+P0191,Pedro León,0,,Los Baños,Pediatría,2023-03-29,0.0
+P0192,Lucía Mendoza,0,M,Encañada,Ginecología,2024-11-29,0.0
+P0193,Ana Torres,64,F,Cajamarca,Ginecología,2023-05-17,0.0
+P0194,Jorge Díaz,0,M,Magdalena,General,2024-01-19,133.99
+P0195,Lucía Mendoza,0,F,Baños del Inca,Medicina General,2025-02-17,0.0
+P0196,Carlos Ruiz,0,M,Cajamarca,Pediatría,2024-02-12,0.0
+P0197,Lucía Mendoza,0,M,Baños del Inca,Odontología,2025-05-12,0.0
+P0198,Carmen Flores,0,,Baños del Inca,Pediatría,2023-01-26,740.89
+P0199,Andrea Soto,0,M,Encañada,Pediatría,2023-01-20,539.29
+P0200,Ana Torres,36,F,Cajamarca,Pediatría,2024-07-30,0.0
+P0201,Ana Torres,0,F,Matara,Ginecología,2024-08-03,324.41
+P0202,Carmen Flores,0,M,Baños del Inca,Medicina General,2024-05-04,0.0
+P0203,Andrea Soto,0,M,Matara,Odontología,2025-12-18,0.0
+P0204,Ana Torres,16,,Chetilla,Traumatología,2024-06-12,0.0
+P0205,Ana Torres,0,F,Desconocido,General,2025-06-15,444.52
+P0206,Ana Torres,0,,Chetilla,General,2024-05-04,0.0
+P0207,Pedro León,51,M,Matara,Traumatología,2025-01-11,0.0
+P0208,Luis Pérez,17,,Jesús,Odontología,2025-04-19,0.0
+P0209,Carmen Flores,0,F,Los Baños,Traumatología,2023-09-05,0.0
+P0210,María García,0,M,Jesús,Odontología,2024-01-05,0.0
+P0211,María García,5,,Cajamarca,General,2023-07-14,51.97
+P0212,Luis Pérez,24,M,Matara,Odontología,2024-06-01,0.0
+P0213,María García,0,,Baños del Inca,Pediatría,2023-06-27,0.0
+P0214,Pedro León,79,F,Desconocido,Pediatría,2024-11-16,0.0
+P0215,Luis Pérez,7,,Baños del Inca,Medicina General,2025-05-28,787.94
+P0216,Carmen Flores,0,,Matara,General,2025-08-17,601.79
+P0217,Lucía Mendoza,0,F,Matara,Traumatología,2023-12-08,0.0
+P0218,Diego Ramos,9,M,Baños del Inca,Traumatología,2024-04-11,347.79
+P0219,Lucía Mendoza,0,F,Chetilla,Medicina General,2023-05-30,227.15
+P0220,Diego Ramos,0,,Matara,General,2025-01-30,276.74
+P0221,Pedro León,36,M,Los Baños,Ginecología,2024-08-22,0.0
+P0222,Luis Pérez,0,M,Desconocido,Medicina General,2023-05-30,0.0
+P0223,Andrea Soto,0,F,Jesús,Odontología,2025-01-12,0.0
+P0224,María García,53,F,Jesús,Odontología,2024-01-17,0.0
+P0225,Jorge Díaz,0,M,Baños del Inca,Ginecología,2023-01-01,367.98
+P0226,Ana Torres,0,F,Chetilla,General,2025-09-22,0.0
+P0227,Diego Ramos,87,F,Encañada,Traumatología,2023-07-12,0.0
+P0228,Pedro León,0,,Jesús,Ginecología,2023-04-19,533.62
+P0229,Pedro León,2,F,Baños del Inca,Medicina General,2024-05-23,440.67
+P0230,Carmen Flores,0,M,Desconocido,Traumatología,2025-11-23,0.0
+P0231,Jorge Díaz,0,M,Baños del Inca,General,2023-08-14,0.0
+P0232,Andrea Soto,0,M,Desconocido,Odontología,2025-11-05,0.0
+P0233,Andrea Soto,0,,Desconocido,General,2023-06-08,0.0
+P0234,Jorge Díaz,25,M,Jesús,Traumatología,2025-03-20,0.0
+P0235,Carlos Ruiz,0,M,Jesús,Pediatría,2025-05-08,439.43
+P0236,Ana Torres,0,M,Los Baños,Pediatría,2023-12-18,0.0
+P0237,Luis Pérez,0,M,Baños del Inca,General,2024-05-21,0.0
+P0238,María García,0,,Los Baños,Pediatría,2024-06-28,0.0
+P0239,Carlos Ruiz,0,M,Matara,Ginecología,2024-03-02,717.71
+P0240,Lucía Mendoza,74,F,Jesús,Traumatología,2024-04-01,363.79
+P0241,Luis Pérez,75,,Desconocido,Pediatría,2023-11-01,0.0
+P0242,Diego Ramos,0,,Baños del Inca,General,2025-03-10,0.0
+P0243,Jorge Díaz,0,F,Matara,General,2023-10-25,529.16
+P0244,Lucía Mendoza,0,,Magdalena,Traumatología,2025-05-27,519.18
+P0245,Diego Ramos,0,F,Chetilla,Traumatología,2023-03-20,0.0
+P0246,Lucía Mendoza,0,,Cajamarca,General,2025-07-27,0.0
+P0247,Luis Pérez,0,,Los Baños,Ginecología,2025-08-30,538.67
+P0248,Lucía Mendoza,0,F,Magdalena,General,2025-09-22,0.0
+P0249,Luis Pérez,0,,Chetilla,Medicina General,2023-03-20,472.6
+P0250,Jorge Díaz,0,M,Magdalena,Pediatría,2025-03-09,0.0
+P0251,Andrea Soto,0,F,Matara,Odontología,2023-01-04,0.0
+P0252,Lucía Mendoza,0,F,Magdalena,General,2023-07-20,795.23
+P0253,Carlos Ruiz,0,F,Encañada,Traumatología,2023-03-02,0.0
+P0254,Luis Pérez,71,M,Jesús,Traumatología,2025-02-06,232.52
+P0255,Ana Torres,0,F,Cajamarca,Traumatología,2025-05-08,0.0
+P0256,María García,0,M,Magdalena,Medicina General,2024-07-10,0.0
+P0257,Diego Ramos,0,,Cajamarca,Odontología,2025-12-13,0.0
+P0258,Diego Ramos,0,,Desconocido,Ginecología,2024-08-11,0.0
+P0259,Andrea Soto,0,F,Chetilla,General,2024-11-19,0.0
+P0260,María García,66,F,Los Baños,General,2024-07-27,0.0
+P0261,Diego Ramos,0,,Jesús,Pediatría,2024-08-19,400.02
+P0262,Andrea Soto,0,M,Matara,General,2025-04-06,0.0
+P0263,Lucía Mendoza,0,,Jesús,Traumatología,2024-06-07,0.0
+P0264,Andrea Soto,0,M,Chetilla,Odontología,2024-05-23,0.0
+P0265,Lucía Mendoza,0,F,Jesús,Traumatología,2024-08-06,0.0
+P0266,Carlos Ruiz,87,M,Jesús,General,2024-05-29,0.0
+P0267,Luis Pérez,0,F,Baños del Inca,General,2024-05-07,371.24
+P0268,Carmen Flores,0,,Desconocido,Odontología,2024-07-22,0.0
+P0269,María García,0,M,Jesús,Odontología,2023-10-04,0.0
+P0270,María García,0,M,Los Baños,Ginecología,2024-03-20,0.0
+P0271,Carmen Flores,0,,Cajamarca,Medicina General,2024-05-15,0.0
+P0272,Lucía Mendoza,0,,Los Baños,Medicina General,2024-11-27,0.0
+P0273,Diego Ramos,1,F,Desconocido,Ginecología,2025-01-03,0.0
+P0274,Carlos Ruiz,0,M,Jesús,Medicina General,2024-05-01,0.0
+P0275,Ana Torres,0,,Jesús,Traumatología,2025-01-06,0.0
+P0276,Carmen Flores,76,,Cajamarca,Pediatría,2024-12-11,558.77
+P0277,Jorge Díaz,0,,Baños del Inca,General,2023-12-28,0.0
+P0278,Lucía Mendoza,0,,Encañada,Medicina General,2023-05-19,0.0
+P0279,Jorge Díaz,0,F,Los Baños,Traumatología,2023-12-15,0.0
+P0280,Diego Ramos,47,F,Desconocido,Traumatología,2024-01-17,0.0
+P0281,Carmen Flores,29,,Chetilla,General,2024-12-26,0.0
+P0282,Pedro León,0,F,Los Baños,Odontología,2023-07-25,0.0
+P0283,Luis Pérez,0,F,Jesús,Ginecología,2025-11-18,55.15
+P0284,Lucía Mendoza,0,F,Los Baños,General,2025-05-16,0.0
+P0285,Ana Torres,51,F,Matara,Medicina General,2023-11-20,0.0
+P0286,Andrea Soto,0,F,Baños del Inca,Pediatría,2025-08-04,0.0
+P0287,Ana Torres,0,F,Magdalena,Pediatría,2025-10-10,0.0
+P0288,Diego Ramos,0,,Los Baños,Ginecología,2025-09-09,797.74
+P0289,Lucía Mendoza,0,M,Jesús,Ginecología,2025-10-21,0.0
+P0290,Diego Ramos,0,F,Jesús,Medicina General,2023-03-01,193.65
+P0291,Diego Ramos,0,,Baños del Inca,Pediatría,2023-07-01,0.0
+P0292,María García,0,,Magdalena,Medicina General,2025-05-19,0.0
+P0293,Diego Ramos,0,,Desconocido,General,2023-09-10,496.65
+P0294,Diego Ramos,13,,Matara,Odontología,2024-08-09,0.0
+P0295,Lucía Mendoza,0,F,Chetilla,General,2025-02-04,0.0
+P0296,Carmen Flores,65,,Desconocido,General,2023-01-22,0.0
+P0297,Carlos Ruiz,0,F,Matara,Medicina General,2023-01-10,533.47
+P0298,Diego Ramos,80,F,Encañada,Traumatología,2024-11-09,0.0
+P0299,Diego Ramos,0,F,Magdalena,Pediatría,2025-09-08,541.47
+P0300,María García,67,M,Baños del Inca,Odontología,2024-12-24,0.0
+P0301,Andrea Soto,0,M,Magdalena,Ginecología,2023-01-06,0.0
+P0302,Pedro León,0,M,Cajamarca,Traumatología,2023-02-07,0.0
+P0303,Andrea Soto,0,,Cajamarca,General,2023-10-06,0.0
+P0304,Pedro León,0,F,Baños del Inca,Pediatría,2025-11-13,0.0
+P0305,Ana Torres,85,F,Magdalena,Pediatría,2023-10-30,542.38
+P0306,Jorge Díaz,0,F,Los Baños,Odontología,2024-04-08,232.51
+P0307,Andrea Soto,0,F,Magdalena,Ginecología,2023-04-17,575.69
+P0308,Luis Pérez,46,,Desconocido,General,2024-05-26,108.86
+P0309,Diego Ramos,0,,Encañada,Ginecología,2025-09-16,115.4
+P0310,Luis Pérez,0,,Desconocido,Medicina General,2024-11-15,0.0
+P0311,Diego Ramos,0,M,Jesús,Medicina General,2025-02-05,497.34
+P0312,María García,0,M,Los Baños,Traumatología,2024-08-03,0.0
+P0313,Lucía Mendoza,4,M,Desconocido,General,2024-03-15,649.75
+P0314,Ana Torres,0,F,Cajamarca,Medicina General,2024-04-27,131.29
+P0315,Pedro León,0,M,Encañada,General,2024-06-12,0.0
+P0316,Diego Ramos,0,M,Baños del Inca,Medicina General,2024-05-17,688.74
+P0317,Jorge Díaz,0,F,Magdalena,Odontología,2025-01-05,0.0
+P0318,Pedro León,17,M,Encañada,Odontología,2024-10-17,632.11
+P0319,Andrea Soto,0,,Matara,Medicina General,2023-02-18,0.0
+P0320,Lucía Mendoza,0,F,Magdalena,General,2023-04-26,0.0
+P0321,Jorge Díaz,0,,Desconocido,Odontología,2023-09-09,0.0
+P0322,Carmen Flores,83,F,Jesús,Medicina General,2025-05-27,0.0
+P0323,Andrea Soto,0,F,Encañada,General,2023-05-13,179.56
+P0324,Pedro León,0,M,Magdalena,Ginecología,2023-01-01,585.69
+P0325,Luis Pérez,0,,Magdalena,General,2024-09-05,0.0
+P0326,Diego Ramos,0,M,Cajamarca,Traumatología,2023-01-19,0.0
+P0327,Lucía Mendoza,0,F,Desconocido,Pediatría,2025-07-18,0.0
+P0328,Luis Pérez,0,,Matara,Odontología,2025-07-08,0.0
+P0329,Jorge Díaz,0,,Desconocido,Ginecología,2025-07-24,0.0
+P0330,María García,82,F,Chetilla,Traumatología,2023-02-15,0.0
+P0331,Carlos Ruiz,0,M,Los Baños,Ginecología,2025-09-29,0.0
+P0332,Diego Ramos,74,M,Magdalena,Ginecología,2023-07-18,0.0
+P0333,Jorge Díaz,0,,Desconocido,General,2023-12-03,0.0
+P0334,Ana Torres,75,F,Magdalena,Medicina General,2023-08-23,0.0
+P0335,Ana Torres,0,,Matara,Medicina General,2023-06-04,424.15
+P0336,Carlos Ruiz,0,M,Encañada,General,2023-01-14,0.0
+P0337,Lucía Mendoza,78,M,Jesús,Pediatría,2025-06-23,0.0
+P0338,Carmen Flores,0,,Magdalena,Ginecología,2023-11-22,0.0
+P0339,Diego Ramos,0,M,Cajamarca,Odontología,2025-07-21,222.3
+P0340,Carmen Flores,0,F,Magdalena,Traumatología,2023-09-16,213.35
+P0341,Diego Ramos,0,M,Encañada,Pediatría,2025-08-12,0.0
+P0342,Carlos Ruiz,0,F,Encañada,General,2024-09-28,0.0
+P0343,Diego Ramos,34,F,Los Baños,Odontología,2023-08-05,0.0
+P0344,Luis Pérez,0,M,Magdalena,Medicina General,2025-05-06,263.81
+P0345,Ana Torres,56,F,Jesús,Ginecología,2025-10-15,0.0
+P0346,Carmen Flores,0,F,Magdalena,Odontología,2023-01-08,623.51
+P0347,Ana Torres,0,F,Cajamarca,General,2023-07-16,54.32
+P0348,Carlos Ruiz,0,F,Desconocido,Odontología,2023-10-02,699.75
+P0349,Lucía Mendoza,0,F,Baños del Inca,Traumatología,2024-06-16,399.17
+P0350,Andrea Soto,0,F,Matara,Ginecología,2024-04-16,0.0
+P0351,Lucía Mendoza,37,,Desconocido,Traumatología,2023-03-24,63.51
+P0352,Jorge Díaz,0,M,Los Baños,Medicina General,2025-12-09,0.0
+P0353,Carmen Flores,0,M,Encañada,Odontología,2023-04-23,0.0
+P0354,Pedro León,0,F,Cajamarca,General,2025-11-03,0.0
+P0355,Ana Torres,0,,Baños del Inca,Traumatología,2023-04-15,0.0
+P0356,Andrea Soto,0,F,Chetilla,Ginecología,2025-07-24,0.0
+P0357,Jorge Díaz,0,F,Cajamarca,Pediatría,2023-08-20,0.0
+P0358,Luis Pérez,65,F,Los Baños,Medicina General,2025-11-02,653.79
+P0359,Pedro León,38,,Magdalena,Pediatría,2024-02-07,623.41
+P0360,Jorge Díaz,33,,Los Baños,Odontología,2025-06-06,623.99
+P0361,Carmen Flores,35,,Baños del Inca,Medicina General,2023-05-22,0.0
+P0362,Carlos Ruiz,85,,Matara,Ginecología,2025-07-15,0.0
+P0363,Diego Ramos,59,M,Matara,Medicina General,2025-04-15,0.0
+P0364,Lucía Mendoza,65,M,Los Baños,Ginecología,2024-02-09,0.0
+P0365,Pedro León,0,,Chetilla,Pediatría,2024-05-31,0.0
+P0366,Lucía Mendoza,0,F,Jesús,Traumatología,2024-05-04,0.0
+P0367,Lucía Mendoza,29,M,Matara,Pediatría,2023-03-30,0.0
+P0368,Pedro León,0,F,Chetilla,Ginecología,2024-12-10,0.0
+P0369,Luis Pérez,35,F,Desconocido,Odontología,2024-11-22,0.0
+P0370,Jorge Díaz,0,F,Chetilla,Odontología,2025-12-10,0.0
+P0371,Ana Torres,0,M,Cajamarca,General,2024-02-08,0.0
+P0372,Carmen Flores,49,,Matara,Odontología,2023-07-20,528.53
+P0373,María García,76,F,Jesús,Traumatología,2025-05-26,0.0
+P0374,Carlos Ruiz,0,F,Magdalena,Traumatología,2024-04-20,0.0
+P0375,Jorge Díaz,0,F,Los Baños,General,2024-05-17,0.0
+P0376,María García,0,,Cajamarca,Odontología,2024-06-26,313.51
+P0377,Diego Ramos,67,,Desconocido,General,2025-05-17,433.72
+P0378,Ana Torres,0,F,Matara,Medicina General,2024-04-18,444.51
+P0379,Carlos Ruiz,0,F,Magdalena,General,2025-03-03,0.0
+P0380,Luis Pérez,58,,Desconocido,General,2023-01-03,570.16
+P0381,Carmen Flores,0,M,Encañada,Medicina General,2025-04-20,0.0
+P0382,Jorge Díaz,0,F,Magdalena,Odontología,2025-10-12,0.0
+P0383,Pedro León,0,F,Los Baños,Pediatría,2025-03-15,0.0
+P0384,Carlos Ruiz,0,F,Matara,Medicina General,2024-08-09,0.0
+P0385,Carlos Ruiz,0,F,Jesús,Traumatología,2024-12-29,0.0
+P0386,Luis Pérez,0,F,Desconocido,Ginecología,2025-08-05,0.0
+P0387,Jorge Díaz,42,,Cajamarca,Ginecología,2025-11-26,367.56
+P0388,Pedro León,0,F,Baños del Inca,Ginecología,2024-06-08,425.24
+P0389,Ana Torres,88,,Encañada,Ginecología,2025-10-30,0.0
+P0390,Luis Pérez,25,,Encañada,Pediatría,2025-04-26,0.0
+P0391,María García,35,M,Magdalena,Medicina General,2023-11-29,0.0
+P0392,Carlos Ruiz,0,F,Encañada,Traumatología,2024-08-25,77.94
+P0393,María García,0,M,Cajamarca,Ginecología,2024-03-20,679.16
+P0394,María García,36,M,Magdalena,Medicina General,2023-03-07,0.0
+P0395,Pedro León,0,F,Cajamarca,General,2024-08-30,280.39
+P0396,Diego Ramos,0,,Matara,General,2023-01-15,636.46
+P0397,María García,0,M,Magdalena,Traumatología,2024-01-26,0.0
+P0398,Carmen Flores,0,,Matara,General,2025-02-22,481.73
+P0399,Ana Torres,0,M,Magdalena,General,2025-07-15,0.0
+P0400,Andrea Soto,0,,Chetilla,Traumatología,2023-11-28,0.0
+P0401,Ana Torres,39,M,Encañada,Medicina General,2023-11-16,690.75
+P0402,Lucía Mendoza,0,F,Matara,Ginecología,2025-11-08,0.0
+P0403,Diego Ramos,0,F,Magdalena,Ginecología,2024-02-07,0.0
+P0404,Luis Pérez,0,F,Magdalena,Traumatología,2025-03-28,0.0
+P0405,María García,0,M,Chetilla,Pediatría,2025-05-17,0.0
+P0406,Diego Ramos,88,F,Cajamarca,Ginecología,2023-01-22,0.0
+P0407,María García,0,,Chetilla,General,2024-08-31,0.0
+P0408,Pedro León,8,,Jesús,Pediatría,2024-08-04,0.0
+P0409,Luis Pérez,38,M,Chetilla,Traumatología,2023-04-01,486.07
+P0410,Ana Torres,0,F,Jesús,Traumatología,2025-11-28,0.0
+P0411,María García,0,M,Baños del Inca,Traumatología,2024-07-11,0.0
+P0412,Jorge Díaz,0,F,Encañada,Ginecología,2025-08-13,0.0
+P0413,Carlos Ruiz,70,F,Magdalena,Medicina General,2023-04-12,785.52
+P0414,Diego Ramos,70,F,Matara,Ginecología,2025-07-17,0.0
+P0415,María García,52,M,Cajamarca,Medicina General,2025-10-13,0.0
+P0416,Diego Ramos,0,,Cajamarca,Pediatría,2024-02-15,0.0
+P0417,Jorge Díaz,58,,Matara,General,2025-05-20,0.0
+P0418,Ana Torres,0,F,Desconocido,Pediatría,2024-03-21,529.62
+P0419,María García,0,F,Cajamarca,Pediatría,2023-01-10,0.0
+P0420,Diego Ramos,15,F,Baños del Inca,Pediatría,2023-07-14,0.0
+P0421,Carlos Ruiz,0,,Matara,Traumatología,2023-11-16,0.0
+P0422,Pedro León,62,F,Chetilla,Medicina General,2025-04-02,0.0
+P0423,Andrea Soto,0,M,Matara,Medicina General,2023-05-07,0.0
+P0424,Luis Pérez,0,M,Encañada,Medicina General,2025-06-14,0.0
+P0425,Andrea Soto,0,,Chetilla,Traumatología,2025-02-06,0.0
+P0426,Carlos Ruiz,0,F,Desconocido,Odontología,2023-02-21,0.0
+P0427,Ana Torres,40,M,Chetilla,Traumatología,2023-03-28,0.0
+P0428,Carmen Flores,0,M,Jesús,Medicina General,2023-05-20,0.0
+P0429,Ana Torres,0,F,Los Baños,Odontología,2023-10-29,0.0
+P0430,Pedro León,0,F,Magdalena,General,2023-03-26,0.0
+P0431,Pedro León,70,M,Jesús,Traumatología,2025-11-03,0.0
+P0432,Ana Torres,0,,Matara,Odontología,2024-10-21,0.0
+P0433,Carlos Ruiz,85,M,Encañada,Pediatría,2024-04-15,0.0
+P0434,Ana Torres,0,M,Baños del Inca,Medicina General,2024-03-18,0.0
+P0435,Carlos Ruiz,0,,Desconocido,Odontología,2025-12-21,0.0
+P0436,Pedro León,42,F,Baños del Inca,Pediatría,2024-03-24,0.0
+P0437,Carlos Ruiz,83,,Magdalena,Odontología,2024-12-04,0.0
+P0438,Andrea Soto,37,M,Desconocido,Pediatría,2025-11-21,0.0
+P0439,Ana Torres,0,M,Baños del Inca,Medicina General,2025-04-07,0.0
+P0440,María García,0,F,Magdalena,Pediatría,2024-10-19,0.0
+P0441,Carlos Ruiz,67,,Desconocido,General,2025-03-28,0.0
+P0442,Jorge Díaz,12,,Encañada,Traumatología,2023-02-01,0.0
+P0443,Jorge Díaz,0,F,Jesús,General,2025-07-07,0.0
+P0444,Diego Ramos,0,M,Chetilla,Medicina General,2024-12-24,278.39
+P0445,Diego Ramos,0,M,Los Baños,Pediatría,2023-09-08,0.0
+P0446,Luis Pérez,0,M,Los Baños,Ginecología,2024-05-04,429.11
+P0447,Diego Ramos,0,,Desconocido,Pediatría,2024-12-24,0.0
+P0448,Pedro León,74,F,Matara,General,2025-06-26,0.0
+P0449,Carmen Flores,0,M,Chetilla,General,2025-07-25,0.0
+P0450,Jorge Díaz,28,F,Encañada,General,2025-12-27,0.0
+P0451,Pedro León,0,M,Magdalena,General,2023-10-08,0.0
+P0452,Diego Ramos,0,,Chetilla,Ginecología,2024-06-04,0.0
+P0453,Andrea Soto,0,F,Cajamarca,Traumatología,2023-03-21,508.58
+P0454,Ana Torres,0,M,Cajamarca,General,2025-07-02,0.0
+P0455,Ana Torres,0,F,Desconocido,Ginecología,2024-02-23,0.0
+P0456,Andrea Soto,31,,Desconocido,Odontología,2024-11-24,0.0
+P0457,Luis Pérez,0,M,Baños del Inca,Medicina General,2023-07-04,466.91
+P0458,Jorge Díaz,0,M,Matara,Pediatría,2023-07-27,0.0
+P0459,Pedro León,32,M,Desconocido,Ginecología,2025-09-28,0.0
+P0460,Andrea Soto,0,M,Magdalena,Ginecología,2025-05-20,0.0
+P0461,Carmen Flores,60,F,Jesús,Traumatología,2025-06-20,0.0
+P0462,Ana Torres,0,M,Chetilla,Medicina General,2024-09-14,0.0
+P0463,Carlos Ruiz,0,,Chetilla,Ginecología,2025-05-29,447.83
+P0464,Carlos Ruiz,84,F,Magdalena,Ginecología,2024-01-06,0.0
+P0465,Carmen Flores,0,F,Baños del Inca,Pediatría,2024-08-19,602.4
+P0466,Carmen Flores,21,F,Cajamarca,Traumatología,2023-05-25,765.39
+P0467,Diego Ramos,51,F,Los Baños,Odontología,2024-05-15,0.0
+P0468,Lucía Mendoza,0,F,Encañada,Odontología,2025-06-13,0.0
+P0469,Lucía Mendoza,0,F,Chetilla,Medicina General,2024-09-16,333.45
+P0470,Jorge Díaz,0,,Baños del Inca,Medicina General,2024-07-20,0.0
+P0471,Ana Torres,85,M,Baños del Inca,Traumatología,2025-09-26,121.28
+P0472,Jorge Díaz,81,F,Magdalena,Odontología,2023-08-19,344.05
+P0473,Andrea Soto,0,,Matara,Traumatología,2025-11-28,0.0
+P0474,Andrea Soto,0,M,Los Baños,Odontología,2024-03-30,0.0
+P0475,Lucía Mendoza,0,F,Jesús,Ginecología,2025-03-02,227.1
+P0476,Ana Torres,34,F,Cajamarca,Ginecología,2023-03-25,0.0
+P0477,Carlos Ruiz,71,F,Jesús,Odontología,2023-02-03,0.0
+P0478,Diego Ramos,0,,Chetilla,Pediatría,2024-10-16,188.09
+P0479,Pedro León,0,F,Los Baños,Odontología,2023-01-19,0.0
+P0480,Diego Ramos,31,,Matara,General,2023-04-23,0.0
+P0481,Jorge Díaz,0,,Desconocido,Ginecología,2024-01-01,0.0
+P0482,Luis Pérez,45,,Baños del Inca,Traumatología,2023-12-18,0.0
+P0483,Carmen Flores,0,,Encañada,Medicina General,2023-07-09,0.0
+P0484,Ana Torres,0,,Matara,Odontología,2023-07-31,0.0
+P0485,Carlos Ruiz,0,M,Encañada,Medicina General,2023-10-10,0.0
+P0486,Pedro León,77,M,Encañada,Pediatría,2024-10-05,0.0
+P0487,Lucía Mendoza,47,M,Magdalena,Traumatología,2023-04-20,0.0
+P0488,Ana Torres,61,,Jesús,Traumatología,2023-09-09,0.0
+P0489,Pedro León,0,,Los Baños,Pediatría,2024-01-12,0.0
+P0490,María García,62,M,Chetilla,Odontología,2023-10-12,0.0
+P0491,Jorge Díaz,0,,Los Baños,Ginecología,2023-09-30,191.27
+P0492,Carlos Ruiz,0,M,Desconocido,Medicina General,2025-02-11,0.0
+P0493,Andrea Soto,0,F,Jesús,Pediatría,2025-01-08,478.8
+P0494,Carlos Ruiz,0,F,Magdalena,Traumatología,2025-12-07,0.0
+P0495,Andrea Soto,0,M,Baños del Inca,Ginecología,2024-08-07,245.36
+P0496,Andrea Soto,0,M,Matara,Medicina General,2024-12-06,0.0
+P0497,Andrea Soto,0,F,Cajamarca,General,2025-03-01,0.0
+P0498,Jorge Díaz,53,F,Cajamarca,Pediatría,2024-01-09,260.88
+P0499,Luis Pérez,83,M,Magdalena,Odontología,2025-04-20,0.0
+P0500,Carmen Flores,0,,Cajamarca,Odontología,2023-04-10,629.15
+P0501,Jorge Díaz,0,M,Baños del Inca,Odontología,2023-09-02,0.0
+P0502,Carlos Ruiz,0,,Baños del Inca,Traumatología,2024-08-12,0.0
+P0503,María García,0,F,Matara,Pediatría,2025-11-26,0.0
+P0504,Andrea Soto,46,M,Los Baños,Odontología,2025-06-24,0.0
+P0505,Ana Torres,45,,Encañada,Pediatría,2023-12-18,0.0
+P0506,Pedro León,72,,Encañada,Odontología,2023-03-21,0.0
+P0507,Ana Torres,0,F,Baños del Inca,Pediatría,2025-04-05,225.4
+P0508,Jorge Díaz,29,M,Desconocido,Medicina General,2023-07-04,590.43
+P0509,Jorge Díaz,24,,Chetilla,Odontología,2025-04-23,623.04
+P0510,Pedro León,0,F,Chetilla,Odontología,2024-02-14,0.0
+P0511,Diego Ramos,0,F,Jesús,Odontología,2025-01-19,0.0
+P0512,Carmen Flores,61,,Encañada,Pediatría,2023-07-31,141.09
+P0513,Ana Torres,50,F,Desconocido,Pediatría,2025-11-11,680.61
+P0514,Ana Torres,40,,Baños del Inca,Ginecología,2025-10-04,0.0
+P0515,Diego Ramos,0,M,Los Baños,General,2024-09-03,0.0
+P0516,Carmen Flores,0,M,Magdalena,General,2024-02-01,0.0
+P0517,Luis Pérez,0,M,Matara,Odontología,2023-01-23,0.0
+P0518,Carlos Ruiz,66,,Jesús,Traumatología,2024-02-04,0.0
+P0519,Andrea Soto,44,M,Magdalena,General,2025-08-24,206.23
+P0520,Ana Torres,3,,Los Baños,Ginecología,2023-08-10,563.22
+P0521,Lucía Mendoza,3,M,Matara,Odontología,2024-07-19,0.0
+P0522,María García,4,F,Los Baños,Medicina General,2024-12-13,0.0
+P0523,Luis Pérez,30,F,Cajamarca,Pediatría,2023-02-04,0.0
+P0524,Carlos Ruiz,48,M,Baños del Inca,Ginecología,2025-01-09,0.0
+P0525,María García,3,,Matara,General,2024-07-28,0.0
+P0526,Luis Pérez,0,F,Baños del Inca,General,2024-04-25,200.33
+P0527,Carlos Ruiz,0,F,Baños del Inca,General,2024-07-11,535.33
+P0528,Carlos Ruiz,0,,Magdalena,Traumatología,2023-12-21,0.0
+P0529,Lucía Mendoza,0,M,Cajamarca,Odontología,2025-12-14,0.0
+P0530,Carmen Flores,64,M,Jesús,General,2023-11-06,0.0
+P0531,Carmen Flores,0,,Los Baños,Medicina General,2024-01-04,307.96
+P0532,Carlos Ruiz,52,,Cajamarca,Traumatología,2025-10-17,727.43
+P0533,Lucía Mendoza,0,,Encañada,Traumatología,2025-12-22,0.0
+P0534,Jorge Díaz,0,F,Chetilla,Ginecología,2025-09-13,0.0
+P0535,Ana Torres,58,,Magdalena,Ginecología,2024-04-12,617.99
+P0536,Lucía Mendoza,16,,Chetilla,General,2023-08-11,0.0
+P0537,Pedro León,70,M,Baños del Inca,Traumatología,2024-04-24,0.0
+P0538,María García,0,F,Encañada,Odontología,2023-04-18,0.0
+P0539,María García,58,,Jesús,Traumatología,2025-11-27,0.0
+P0540,Ana Torres,0,F,Baños del Inca,Pediatría,2025-08-29,0.0
+P0541,Carlos Ruiz,0,,Cajamarca,Traumatología,2024-05-08,0.0
+P0542,Diego Ramos,33,M,Desconocido,Pediatría,2023-09-21,0.0
+P0543,Pedro León,0,M,Matara,Medicina General,2023-12-08,0.0
+P0544,Ana Torres,0,M,Encañada,Traumatología,2024-02-02,0.0
+P0545,Carlos Ruiz,0,F,Baños del Inca,General,2023-12-24,259.36
+P0546,Luis Pérez,0,F,Magdalena,Medicina General,2025-03-29,0.0
+P0547,María García,0,F,Desconocido,General,2024-10-12,0.0
+P0548,Diego Ramos,0,,Magdalena,Odontología,2023-11-14,0.0
+P0549,Carmen Flores,1,F,Los Baños,Medicina General,2023-03-19,0.0
+P0550,Jorge Díaz,0,M,Desconocido,Odontología,2025-07-20,138.53
+P0551,Carlos Ruiz,0,,Desconocido,Ginecología,2025-01-21,664.23
+P0552,Diego Ramos,11,M,Magdalena,General,2024-01-24,520.26
+P0553,María García,0,F,Matara,Odontología,2023-04-21,530.89
+P0554,María García,67,F,Encañada,Ginecología,2023-05-25,790.01
+P0555,Carlos Ruiz,0,,Desconocido,Medicina General,2025-12-02,469.8
+P0556,Ana Torres,0,F,Chetilla,Odontología,2024-12-12,781.29
+P0557,Lucía Mendoza,0,F,Cajamarca,Ginecología,2024-07-21,0.0
+P0558,Carlos Ruiz,82,F,Los Baños,General,2023-02-17,313.11
+P0559,Carlos Ruiz,0,M,Jesús,Pediatría,2023-06-28,0.0
+P0560,Ana Torres,57,F,Encañada,Ginecología,2025-04-01,0.0
+P0561,Andrea Soto,0,F,Matara,General,2025-07-23,0.0
+P0562,María García,0,,Los Baños,Pediatría,2023-02-05,0.0
+P0563,Luis Pérez,53,M,Desconocido,Ginecología,2023-08-14,0.0
+P0564,Lucía Mendoza,0,,Encañada,General,2024-05-22,781.78
+P0565,Luis Pérez,0,M,Cajamarca,Odontología,2023-03-18,0.0
+P0566,Diego Ramos,3,M,Baños del Inca,Traumatología,2025-07-29,0.0
+P0567,Pedro León,73,F,Los Baños,Pediatría,2024-03-27,0.0
+P0568,Andrea Soto,0,M,Jesús,Odontología,2025-12-14,0.0
+P0569,Lucía Mendoza,0,M,Los Baños,Medicina General,2025-06-13,277.88
+P0570,Ana Torres,0,F,Encañada,Pediatría,2025-07-02,0.0
+P0571,Lucía Mendoza,0,M,Jesús,Pediatría,2024-03-04,530.93
+P0572,Luis Pérez,0,F,Chetilla,Ginecología,2023-09-16,667.46
+P0573,Ana Torres,0,M,Desconocido,Medicina General,2023-03-26,0.0
+P0574,Ana Torres,0,F,Jesús,Medicina General,2024-03-29,0.0
+P0575,María García,80,M,Magdalena,Odontología,2024-05-09,0.0
+P0576,Luis Pérez,0,,Encañada,Pediatría,2025-06-02,711.02
+P0577,Luis Pérez,49,F,Jesús,Traumatología,2024-04-12,177.51
+P0578,Carmen Flores,0,F,Baños del Inca,Medicina General,2025-10-22,0.0
+P0579,Luis Pérez,3,F,Chetilla,Ginecología,2023-01-31,0.0
+P0580,Diego Ramos,0,M,Baños del Inca,Odontología,2025-12-24,343.14
+P0581,María García,0,M,Magdalena,General,2023-05-31,0.0
+P0582,Pedro León,0,,Desconocido,General,2023-04-13,0.0
+P0583,Lucía Mendoza,60,,Encañada,General,2024-11-03,0.0
+P0584,Lucía Mendoza,0,F,Desconocido,Odontología,2023-08-14,0.0
+P0585,María García,0,F,Jesús,Pediatría,2023-02-24,0.0
+P0586,Lucía Mendoza,0,M,Encañada,Traumatología,2024-02-06,0.0
+P0587,Andrea Soto,0,M,Cajamarca,Ginecología,2025-08-11,0.0
+P0588,Ana Torres,88,F,Magdalena,Medicina General,2025-11-05,254.31
+P0589,Carlos Ruiz,0,M,Chetilla,Traumatología,2023-02-25,417.11
+P0590,Luis Pérez,27,M,Desconocido,General,2025-05-15,176.77
+P0591,Carlos Ruiz,0,,Los Baños,Pediatría,2023-10-20,624.37
+P0592,María García,14,,Matara,Medicina General,2024-05-03,565.73
+P0593,Pedro León,0,,Los Baños,Pediatría,2023-05-19,0.0
+P0594,Diego Ramos,0,M,Cajamarca,Traumatología,2024-10-09,0.0
+P0595,Ana Torres,0,,Chetilla,Odontología,2025-12-28,0.0
+P0596,Ana Torres,79,F,Cajamarca,Odontología,2023-06-30,307.91
+P0597,Luis Pérez,0,M,Chetilla,Pediatría,2024-07-13,376.72
+P0598,Carlos Ruiz,0,,Magdalena,Traumatología,2025-02-03,0.0
+P0599,Carlos Ruiz,0,,Los Baños,Medicina General,2023-06-28,0.0
+P0600,Ana Torres,89,F,Cajamarca,Pediatría,2023-07-31,0.0
+P0601,Carlos Ruiz,0,M,Encañada,Traumatología,2024-03-14,0.0
+P0602,Andrea Soto,0,M,Baños del Inca,Medicina General,2025-05-25,521.02
+P0603,Carlos Ruiz,0,M,Encañada,Traumatología,2023-04-25,739.78
+P0604,Jorge Díaz,0,,Matara,Medicina General,2023-04-11,0.0
+P0605,María García,0,M,Baños del Inca,Medicina General,2024-05-23,0.0
+P0606,Jorge Díaz,0,F,Jesús,Ginecología,2023-03-08,0.0
+P0607,Andrea Soto,0,F,Los Baños,Odontología,2023-06-01,0.0
+P0608,Pedro León,0,M,Cajamarca,Ginecología,2024-09-13,0.0
+P0609,Ana Torres,0,,Matara,Odontología,2025-08-08,677.55
+P0610,Diego Ramos,0,F,Baños del Inca,Pediatría,2024-07-25,0.0
+P0611,Luis Pérez,34,,Chetilla,Medicina General,2025-01-16,0.0
+P0612,Ana Torres,72,F,Cajamarca,Odontología,2025-10-04,0.0
+P0613,Luis Pérez,0,F,Encañada,Ginecología,2024-04-18,0.0
+P0614,Luis Pérez,58,F,Matara,Ginecología,2023-10-23,0.0
+P0615,Diego Ramos,0,F,Matara,Traumatología,2023-05-28,148.23
+P0616,Pedro León,56,,Cajamarca,Odontología,2025-06-10,341.32
+P0617,Diego Ramos,46,F,Magdalena,General,2023-09-04,254.15
+P0618,María García,0,M,Chetilla,General,2024-03-11,725.72
+P0619,Ana Torres,4,M,Desconocido,General,2024-09-29,124.79
+P0620,Luis Pérez,6,F,Matara,Medicina General,2025-08-13,218.39
+P0621,Lucía Mendoza,0,M,Chetilla,Traumatología,2024-12-04,477.84
+P0622,Lucía Mendoza,8,,Desconocido,Ginecología,2023-11-25,86.63
+P0623,Diego Ramos,0,F,Matara,Ginecología,2025-01-28,0.0
+P0624,Lucía Mendoza,0,F,Matara,Pediatría,2023-03-31,0.0
+P0625,Lucía Mendoza,0,,Baños del Inca,Traumatología,2025-09-22,671.82
+P0626,Lucía Mendoza,13,M,Encañada,Ginecología,2024-02-15,0.0
+P0627,Pedro León,0,F,Desconocido,Medicina General,2023-01-08,0.0
+P0628,Carmen Flores,0,F,Los Baños,Medicina General,2024-10-28,0.0
+P0629,Carmen Flores,61,F,Magdalena,Pediatría,2023-05-13,0.0
+P0630,Andrea Soto,1,M,Magdalena,Traumatología,2025-04-25,0.0
+P0631,Pedro León,71,M,Baños del Inca,Pediatría,2024-06-29,0.0
+P0632,María García,0,F,Desconocido,Ginecología,2025-12-31,0.0
+P0633,Andrea Soto,0,,Magdalena,Ginecología,2025-04-05,537.1
+P0634,María García,74,,Chetilla,Medicina General,2023-10-31,388.98
+P0635,Pedro León,0,F,Chetilla,Pediatría,2023-06-15,275.62
+P0636,Andrea Soto,0,F,Chetilla,Medicina General,2023-11-23,175.95
+P0637,Jorge Díaz,0,M,Jesús,Traumatología,2024-08-05,0.0
+P0638,Ana Torres,0,,Jesús,Ginecología,2024-09-23,0.0
+P0639,Carmen Flores,0,,Desconocido,General,2025-11-03,0.0
+P0640,Ana Torres,0,M,Desconocido,Medicina General,2023-02-13,0.0
+P0641,Jorge Díaz,0,,Jesús,Traumatología,2024-04-03,0.0
+P0642,Pedro León,80,F,Jesús,Medicina General,2023-03-10,0.0
+P0643,Carmen Flores,63,F,Magdalena,Ginecología,2025-01-11,0.0
+P0644,Pedro León,0,F,Desconocido,General,2024-09-28,587.61
+P0645,Diego Ramos,0,F,Los Baños,Ginecología,2024-05-28,0.0
+P0646,Luis Pérez,0,F,Chetilla,Odontología,2023-08-15,0.0
+P0647,Diego Ramos,0,F,Los Baños,Medicina General,2025-10-28,0.0
+P0648,María García,0,F,Magdalena,General,2025-09-26,232.63
+P0649,Carmen Flores,53,M,Magdalena,Traumatología,2024-10-29,330.85
+P0650,Luis Pérez,0,F,Cajamarca,Ginecología,2024-02-25,0.0
+P0651,Ana Torres,50,M,Los Baños,Pediatría,2025-08-31,251.52
+P0652,Andrea Soto,20,,Los Baños,Traumatología,2023-09-05,0.0
+P0653,Andrea Soto,0,M,Matara,Pediatría,2023-10-02,0.0
+P0654,Ana Torres,0,M,Jesús,Pediatría,2025-03-08,0.0
+P0655,Carmen Flores,0,,Cajamarca,General,2023-02-09,0.0
+P0656,Carmen Flores,87,F,Cajamarca,Pediatría,2025-06-15,0.0
+P0657,Lucía Mendoza,0,F,Encañada,Medicina General,2025-10-02,0.0
+P0658,Diego Ramos,62,F,Baños del Inca,Odontología,2023-02-26,0.0
+P0659,Lucía Mendoza,0,M,Matara,General,2025-11-19,0.0
+P0660,Jorge Díaz,0,F,Baños del Inca,Traumatología,2023-03-22,0.0
+P0661,Pedro León,0,F,Jesús,Ginecología,2024-07-01,0.0
+P0662,Ana Torres,18,,Baños del Inca,General,2024-04-10,0.0
+P0663,Luis Pérez,0,M,Encañada,Odontología,2025-03-06,0.0
+P0664,Jorge Díaz,0,F,Chetilla,General,2025-12-26,0.0
+P0665,Pedro León,0,,Chetilla,Medicina General,2025-02-10,0.0
+P0666,Luis Pérez,0,F,Jesús,General,2025-02-01,0.0
+P0667,Jorge Díaz,0,F,Chetilla,Medicina General,2025-01-31,0.0
+P0668,Lucía Mendoza,0,F,Encañada,Odontología,2024-05-15,682.26
+P0669,Pedro León,0,F,Cajamarca,General,2023-03-17,0.0
+P0670,María García,89,,Magdalena,General,2023-08-30,0.0
+P0671,Lucía Mendoza,12,M,Magdalena,Traumatología,2023-12-02,231.2
+P0672,Andrea Soto,4,,Matara,Pediatría,2025-10-30,0.0
+P0673,Carmen Flores,26,M,Jesús,Pediatría,2025-01-22,0.0
+P0674,Lucía Mendoza,0,F,Jesús,Pediatría,2024-07-27,0.0
+P0675,Ana Torres,0,M,Cajamarca,General,2023-04-11,0.0
+P0676,Jorge Díaz,0,,Magdalena,General,2023-12-30,0.0
+P0677,Luis Pérez,0,M,Los Baños,Odontología,2025-03-03,0.0
+P0678,Lucía Mendoza,0,F,Jesús,Medicina General,2024-11-03,0.0
+P0679,Andrea Soto,0,,Jesús,Pediatría,2024-04-29,0.0
+P0680,Diego Ramos,39,M,Magdalena,Pediatría,2024-09-29,0.0
+P0681,Pedro León,2,M,Cajamarca,Pediatría,2024-06-08,0.0
+P0682,Carmen Flores,0,M,Matara,Pediatría,2023-10-17,0.0
+P0683,Diego Ramos,0,F,Cajamarca,Traumatología,2024-04-11,0.0
+P0684,María García,0,F,Jesús,Pediatría,2023-08-22,0.0
+P0685,Lucía Mendoza,0,F,Matara,Odontología,2023-12-06,61.75
+P0686,Andrea Soto,0,,Magdalena,Ginecología,2023-03-02,0.0
+P0687,Ana Torres,35,M,Matara,Traumatología,2025-03-11,346.79
+P0688,Carlos Ruiz,0,M,Cajamarca,Traumatología,2025-03-14,0.0
+P0689,María García,0,F,Chetilla,Pediatría,2024-12-29,0.0
+P0690,Diego Ramos,0,,Baños del Inca,Medicina General,2024-09-19,349.23
+P0691,Ana Torres,0,F,Magdalena,Traumatología,2024-04-07,0.0
+P0692,Lucía Mendoza,0,M,Chetilla,Ginecología,2023-08-23,0.0
+P0693,Lucía Mendoza,0,F,Chetilla,Traumatología,2024-08-25,0.0
+P0694,Andrea Soto,0,,Magdalena,Odontología,2023-03-25,573.34
+P0695,Carmen Flores,0,,Encañada,Ginecología,2024-10-20,0.0
+P0696,Carmen Flores,5,F,Magdalena,Traumatología,2025-10-19,482.51
+P0697,Andrea Soto,13,M,Magdalena,Traumatología,2023-04-27,482.86
+P0698,Ana Torres,0,M,Baños del Inca,Pediatría,2023-11-24,251.37
+P0699,Ana Torres,84,F,Chetilla,Odontología,2023-02-15,0.0
+P0700,Carlos Ruiz,83,F,Los Baños,Ginecología,2024-10-15,166.51
+P0701,Lucía Mendoza,0,,Baños del Inca,Ginecología,2024-03-19,0.0
+P0702,Andrea Soto,33,M,Magdalena,Medicina General,2023-05-02,0.0
+P0703,Jorge Díaz,0,,Cajamarca,General,2025-03-06,0.0
+P0704,María García,0,,Jesús,Traumatología,2023-10-06,0.0
+P0705,Ana Torres,0,M,Matara,Traumatología,2024-12-14,0.0
+P0706,Luis Pérez,59,,Baños del Inca,General,2023-02-08,0.0
+P0707,María García,0,M,Cajamarca,Medicina General,2024-12-07,0.0
+P0708,Luis Pérez,0,F,Chetilla,Medicina General,2024-03-10,0.0
+P0709,Diego Ramos,0,F,Desconocido,Ginecología,2024-04-07,559.36
+P0710,Lucía Mendoza,0,M,Matara,General,2025-01-04,302.34
+P0711,Luis Pérez,0,,Magdalena,Ginecología,2023-11-07,0.0
+P0712,Jorge Díaz,0,F,Matara,Medicina General,2025-06-30,394.88
+P0713,Luis Pérez,0,,Desconocido,Medicina General,2024-01-10,0.0
+P0714,Carmen Flores,0,M,Jesús,Medicina General,2023-05-21,0.0
+P0715,María García,48,F,Los Baños,General,2025-04-19,0.0
+P0716,Pedro León,0,M,Los Baños,General,2023-11-09,0.0
+P0717,Andrea Soto,83,,Encañada,Medicina General,2024-09-23,0.0
+P0718,Ana Torres,0,,Matara,General,2025-11-04,377.93
+P0719,Pedro León,0,F,Jesús,Odontología,2023-11-12,0.0
+P0720,Ana Torres,0,F,Baños del Inca,Pediatría,2025-11-04,0.0
+P0721,Jorge Díaz,0,F,Matara,General,2024-09-08,0.0
+P0722,Diego Ramos,0,F,Encañada,Medicina General,2024-04-30,0.0
+P0723,María García,0,,Jesús,Odontología,2025-12-13,0.0
+P0724,Ana Torres,0,F,Cajamarca,Odontología,2025-03-04,0.0
+P0725,María García,69,F,Chetilla,General,2025-10-30,0.0
+P0726,Carlos Ruiz,18,F,Desconocido,Medicina General,2024-07-15,0.0
+P0727,Pedro León,0,M,Magdalena,Medicina General,2024-08-01,544.72
+P0728,Pedro León,0,,Baños del Inca,Odontología,2024-09-26,0.0
+P0729,Lucía Mendoza,0,,Matara,Pediatría,2023-03-17,452.67
+P0730,Lucía Mendoza,24,M,Desconocido,Medicina General,2025-05-22,412.8
+P0731,Carmen Flores,0,F,Chetilla,Pediatría,2025-01-15,0.0
+P0732,Lucía Mendoza,44,M,Encañada,Odontología,2024-04-14,306.01
+P0733,Lucía Mendoza,31,M,Cajamarca,Ginecología,2025-07-23,64.85
+P0734,Jorge Díaz,0,,Cajamarca,Medicina General,2023-08-06,466.07
+P0735,Jorge Díaz,0,,Los Baños,Ginecología,2025-06-01,612.36
+P0736,Carlos Ruiz,0,M,Chetilla,Traumatología,2023-07-05,0.0
+P0737,Carmen Flores,37,F,Encañada,Odontología,2023-03-06,700.98
+P0738,Luis Pérez,0,M,Magdalena,General,2023-07-26,0.0
+P0739,Carmen Flores,0,F,Desconocido,Odontología,2024-07-24,0.0
+P0740,Jorge Díaz,49,F,Magdalena,Odontología,2023-02-17,0.0
+P0741,Ana Torres,0,,Los Baños,Odontología,2025-12-04,0.0
+P0742,Pedro León,0,F,Encañada,Ginecología,2024-09-16,484.6
+P0743,Carmen Flores,0,,Desconocido,Pediatría,2025-08-30,0.0
+P0744,Pedro León,0,M,Chetilla,Pediatría,2025-06-27,222.47
+P0745,Luis Pérez,0,M,Cajamarca,Traumatología,2023-05-22,0.0
+P0746,Andrea Soto,0,,Jesús,Ginecología,2024-12-19,387.55
+P0747,Diego Ramos,0,M,Jesús,Pediatría,2023-10-31,0.0
+P0748,Luis Pérez,0,F,Chetilla,Ginecología,2023-12-25,0.0
+P0749,Carmen Flores,41,,Matara,Odontología,2023-07-08,0.0
+P0750,Diego Ramos,0,F,Desconocido,Odontología,2023-07-28,0.0
+P0751,Diego Ramos,0,,Encañada,Traumatología,2023-04-27,0.0
+P0752,María García,0,M,Baños del Inca,Ginecología,2025-07-02,232.8
+P0753,Jorge Díaz,0,F,Encañada,Odontología,2023-02-05,0.0
+P0754,Lucía Mendoza,38,,Los Baños,Ginecología,2024-07-11,323.59
+P0755,Jorge Díaz,0,,Baños del Inca,Pediatría,2023-02-26,0.0
+P0756,María García,0,,Encañada,Ginecología,2024-01-08,0.0
+P0757,Carmen Flores,0,M,Encañada,Medicina General,2025-04-22,0.0
+P0758,María García,0,M,Matara,Ginecología,2023-08-28,0.0
+P0759,Andrea Soto,0,F,Encañada,General,2023-12-19,0.0
+P0760,Carmen Flores,13,,Baños del Inca,Odontología,2024-01-04,0.0
+P0761,Lucía Mendoza,0,F,Cajamarca,Traumatología,2023-09-19,0.0
+P0762,Carmen Flores,83,M,Matara,Traumatología,2023-10-09,755.96
+P0763,Luis Pérez,17,F,Chetilla,Medicina General,2025-10-15,0.0
+P0764,Jorge Díaz,0,,Baños del Inca,General,2023-06-08,214.76
+P0765,Jorge Díaz,0,M,Magdalena,Traumatología,2023-03-05,0.0
+P0766,Andrea Soto,0,,Baños del Inca,Odontología,2025-04-29,0.0
+P0767,Diego Ramos,0,M,Chetilla,General,2024-01-04,170.91
+P0768,Ana Torres,0,M,Baños del Inca,Pediatría,2025-12-16,0.0
+P0769,Jorge Díaz,0,F,Los Baños,Ginecología,2023-03-17,0.0
+P0770,Pedro León,0,,Desconocido,Traumatología,2023-07-16,0.0
+P0771,Carmen Flores,0,M,Baños del Inca,Medicina General,2024-06-08,0.0
+P0772,Carlos Ruiz,85,,Los Baños,Traumatología,2023-09-06,118.41
+P0773,Luis Pérez,82,M,Jesús,Traumatología,2023-05-23,0.0
+P0774,María García,0,F,Baños del Inca,Ginecología,2025-12-14,0.0
+P0775,Jorge Díaz,0,,Desconocido,Ginecología,2025-07-27,0.0
+P0776,Ana Torres,0,F,Los Baños,Pediatría,2025-03-28,0.0
+P0777,Carmen Flores,0,F,Baños del Inca,Ginecología,2024-05-06,0.0
+P0778,Ana Torres,0,,Chetilla,Ginecología,2023-12-16,0.0
+P0779,Andrea Soto,0,,Baños del Inca,Odontología,2024-07-31,0.0
+P0780,Ana Torres,0,M,Baños del Inca,Ginecología,2023-06-16,0.0
+P0781,Jorge Díaz,0,F,Magdalena,General,2023-09-23,754.08
+P0782,Carmen Flores,0,F,Baños del Inca,Medicina General,2025-09-06,0.0
+P0783,Pedro León,0,F,Matara,General,2023-07-08,553.1
+P0784,Lucía Mendoza,0,M,Cajamarca,Pediatría,2023-12-04,0.0
+P0785,Diego Ramos,0,F,Baños del Inca,Odontología,2025-09-21,0.0
+P0786,Carlos Ruiz,0,M,Los Baños,Odontología,2023-11-10,327.53
+P0787,Pedro León,0,M,Jesús,Medicina General,2024-07-15,394.62
+P0788,María García,34,M,Baños del Inca,Traumatología,2024-09-04,741.01
+P0789,Luis Pérez,74,,Matara,Ginecología,2025-07-07,0.0
+P0790,Luis Pérez,39,,Matara,General,2024-07-13,391.63
+P0791,María García,0,F,Los Baños,Traumatología,2025-09-30,0.0
+P0792,Carlos Ruiz,38,M,Magdalena,Pediatría,2025-12-18,590.46
+P0793,Diego Ramos,0,F,Chetilla,Ginecología,2023-05-26,0.0
+P0794,Lucía Mendoza,0,M,Magdalena,Odontología,2023-06-26,0.0
+P0795,Andrea Soto,0,F,Desconocido,General,2024-07-27,0.0
+P0796,Pedro León,0,,Jesús,Medicina General,2024-06-06,0.0
+P0797,Jorge Díaz,18,F,Los Baños,Odontología,2023-03-19,460.45
+P0798,Carmen Flores,50,,Baños del Inca,Odontología,2025-10-21,250.73
+P0799,Carlos Ruiz,0,M,Matara,Odontología,2024-01-22,0.0
+P0800,Carmen Flores,0,F,Jesús,Odontología,2024-12-24,0.0
+P0801,Jorge Díaz,0,F,Baños del Inca,Traumatología,2025-08-01,0.0
+P0802,Jorge Díaz,54,F,Cajamarca,Pediatría,2025-06-26,0.0
+P0803,María García,0,M,Matara,Pediatría,2025-07-21,0.0
+P0804,Ana Torres,59,F,Matara,General,2025-06-29,0.0
+P0805,Pedro León,0,,Magdalena,Ginecología,2024-05-07,0.0
+P0806,Jorge Díaz,72,F,Magdalena,Traumatología,2023-05-30,312.62
+P0807,Andrea Soto,0,M,Cajamarca,Pediatría,2025-10-24,0.0
+P0808,Luis Pérez,0,F,Desconocido,Medicina General,2025-04-26,0.0
+P0809,Andrea Soto,71,,Chetilla,Pediatría,2023-01-28,0.0
+P0810,Luis Pérez,0,F,Jesús,Traumatología,2024-09-29,264.42
+P0811,Andrea Soto,20,M,Los Baños,Odontología,2025-12-28,562.93
+P0812,Lucía Mendoza,0,,Jesús,Odontología,2025-12-23,0.0
+P0813,Carlos Ruiz,0,F,Matara,Odontología,2025-06-11,134.9
+P0814,Carlos Ruiz,13,M,Encañada,Ginecología,2023-01-14,0.0
+P0815,Pedro León,0,,Los Baños,General,2025-09-12,0.0
+P0816,Jorge Díaz,0,,Matara,Medicina General,2024-06-08,0.0
+P0817,Diego Ramos,26,,Desconocido,Pediatría,2025-07-18,0.0
+P0818,Carmen Flores,0,F,Los Baños,Pediatría,2024-02-27,0.0
+P0819,Luis Pérez,0,,Desconocido,Ginecología,2024-09-22,0.0
+P0820,Ana Torres,62,M,Cajamarca,Traumatología,2023-02-25,0.0
+P0821,María García,0,F,Chetilla,Medicina General,2023-11-29,0.0
+P0822,Andrea Soto,0,M,Chetilla,Traumatología,2025-08-17,0.0
+P0823,María García,3,F,Baños del Inca,Ginecología,2025-12-02,0.0
+P0824,María García,0,F,Jesús,Ginecología,2023-10-13,550.94
+P0825,Luis Pérez,0,F,Encañada,Pediatría,2023-12-16,0.0
+P0826,Carlos Ruiz,0,,Jesús,Odontología,2023-10-22,0.0
+P0827,Pedro León,0,M,Cajamarca,Medicina General,2023-05-27,0.0
+P0828,Luis Pérez,82,M,Magdalena,Ginecología,2024-03-03,0.0
+P0829,Jorge Díaz,0,M,Matara,Pediatría,2025-07-27,472.11
+P0830,Andrea Soto,15,F,Matara,Medicina General,2025-06-11,0.0
+P0831,Jorge Díaz,49,,Matara,Medicina General,2023-12-18,670.93
+P0832,Carmen Flores,0,M,Los Baños,General,2025-08-02,0.0
+P0833,Carmen Flores,13,M,Encañada,Medicina General,2024-11-29,0.0
+P0834,Pedro León,71,M,Chetilla,Odontología,2023-12-02,716.14
+P0835,Luis Pérez,0,,Desconocido,Traumatología,2023-06-15,0.0
+P0836,Diego Ramos,24,,Chetilla,General,2025-04-12,358.86
+P0837,Ana Torres,0,,Matara,Medicina General,2024-06-25,0.0
+P0838,Lucía Mendoza,0,M,Baños del Inca,Traumatología,2023-08-15,544.67
+P0839,Lucía Mendoza,71,F,Baños del Inca,General,2023-05-29,246.03
+P0840,Lucía Mendoza,0,F,Matara,Pediatría,2023-05-18,0.0
+P0841,Carmen Flores,0,F,Matara,Medicina General,2023-07-07,0.0
+P0842,María García,50,,Desconocido,Medicina General,2025-06-05,459.25
+P0843,Andrea Soto,0,,Chetilla,Pediatría,2024-07-22,0.0
+P0844,Jorge Díaz,0,F,Jesús,Odontología,2024-07-05,0.0
+P0845,María García,0,,Desconocido,Traumatología,2023-06-03,0.0
+P0846,Carmen Flores,21,M,Matara,Ginecología,2025-02-13,0.0
+P0847,Jorge Díaz,0,,Cajamarca,Medicina General,2025-12-17,0.0
+P0848,Diego Ramos,55,,Cajamarca,Odontología,2024-04-12,0.0
+P0849,Ana Torres,0,,Magdalena,General,2025-01-04,0.0
+P0850,Luis Pérez,0,M,Magdalena,Pediatría,2025-02-10,0.0
+P0851,Ana Torres,0,F,Magdalena,Pediatría,2025-02-05,0.0
+P0852,Jorge Díaz,2,M,Los Baños,Odontología,2023-05-24,0.0
+P0853,Andrea Soto,40,F,Cajamarca,Traumatología,2025-06-16,0.0
+P0854,Pedro León,0,M,Magdalena,General,2025-11-25,0.0
+P0855,Ana Torres,0,M,Jesús,Ginecología,2024-05-20,0.0
+P0856,María García,66,F,Cajamarca,Odontología,2025-08-16,428.75
+P0857,Ana Torres,0,M,Matara,Traumatología,2025-05-09,0.0
+P0858,Jorge Díaz,0,F,Los Baños,Odontología,2024-01-21,552.26
+P0859,María García,0,F,Cajamarca,Pediatría,2025-04-27,0.0
+P0860,Carlos Ruiz,62,,Encañada,Traumatología,2025-03-06,753.36
+P0861,Jorge Díaz,32,M,Chetilla,Traumatología,2024-04-01,0.0
+P0862,Pedro León,0,F,Matara,Ginecología,2025-12-21,289.7
+P0863,Jorge Díaz,48,F,Jesús,Medicina General,2023-04-30,0.0
+P0864,Jorge Díaz,0,,Matara,Ginecología,2024-04-15,83.06
+P0865,Diego Ramos,0,,Jesús,Ginecología,2023-06-05,0.0
+P0866,Pedro León,0,M,Los Baños,Ginecología,2023-12-14,469.12
+P0867,Ana Torres,0,F,Chetilla,Odontología,2024-10-15,244.38
+P0868,Pedro León,0,,Matara,Odontología,2025-09-25,0.0
+P0869,Pedro León,0,,Baños del Inca,Odontología,2025-07-06,0.0
+P0870,Andrea Soto,0,F,Chetilla,Ginecología,2025-12-27,0.0
+P0871,Pedro León,0,F,Los Baños,General,2025-09-29,714.5
+P0872,Diego Ramos,35,F,Baños del Inca,Ginecología,2024-08-10,265.95
+P0873,Diego Ramos,77,M,Chetilla,Odontología,2023-06-01,651.79
+P0874,Pedro León,0,,Magdalena,Pediatría,2023-01-08,0.0
+P0875,Jorge Díaz,46,M,Baños del Inca,General,2023-06-04,0.0
+P0876,Lucía Mendoza,0,M,Cajamarca,General,2023-10-13,0.0
+P0877,Andrea Soto,0,,Magdalena,Ginecología,2024-09-20,0.0
+P0878,Pedro León,75,,Desconocido,Traumatología,2025-06-07,0.0
+P0879,Ana Torres,0,,Cajamarca,General,2025-06-17,0.0
+P0880,Ana Torres,0,,Matara,Pediatría,2023-09-29,0.0
+P0881,Pedro León,42,F,Jesús,Ginecología,2024-03-18,0.0
+P0882,Luis Pérez,85,F,Desconocido,General,2025-10-08,676.63
+P0883,Jorge Díaz,0,,Encañada,Traumatología,2024-04-14,0.0
+P0884,María García,0,M,Cajamarca,Odontología,2024-12-01,0.0
+P0885,Luis Pérez,0,,Chetilla,General,2024-07-27,0.0
+P0886,Ana Torres,0,,Encañada,Pediatría,2023-06-19,0.0
+P0887,María García,32,F,Matara,Ginecología,2023-02-21,0.0
+P0888,Diego Ramos,0,,Baños del Inca,Ginecología,2025-01-23,0.0
+P0889,Luis Pérez,0,M,Jesús,Medicina General,2023-04-29,0.0
+P0890,Pedro León,62,M,Jesús,Odontología,2025-10-05,0.0
+P0891,Andrea Soto,0,,Magdalena,Ginecología,2023-08-12,273.26
+P0892,María García,0,M,Chetilla,Medicina General,2024-11-06,0.0
+P0893,María García,0,F,Cajamarca,Medicina General,2023-08-09,0.0
+P0894,Jorge Díaz,0,,Los Baños,Pediatría,2025-10-12,632.87
+P0895,Diego Ramos,0,F,Encañada,General,2025-10-20,299.91
+P0896,Carmen Flores,0,M,Matara,General,2025-01-02,463.29
+P0897,Jorge Díaz,11,,Jesús,General,2025-08-27,0.0
+P0898,Andrea Soto,0,F,Los Baños,Pediatría,2023-06-09,0.0
+P0899,Andrea Soto,0,M,Cajamarca,Medicina General,2025-08-10,0.0
+P0900,Andrea Soto,0,M,Matara,General,2024-03-03,288.92
+P0901,Lucía Mendoza,0,M,Encañada,Pediatría,2023-11-20,356.1
+P0902,Ana Torres,0,,Magdalena,Odontología,2024-06-11,0.0
+P0903,Lucía Mendoza,51,M,Chetilla,Odontología,2023-01-30,0.0
+P0904,Carlos Ruiz,0,F,Cajamarca,Odontología,2023-03-02,0.0
+P0905,Ana Torres,0,,Los Baños,Traumatología,2023-04-29,464.54
+P0906,Lucía Mendoza,0,,Desconocido,Odontología,2023-12-08,0.0
+P0907,Ana Torres,0,M,Encañada,General,2024-08-28,0.0
+P0908,Diego Ramos,0,,Encañada,Ginecología,2024-12-30,276.16
+P0909,Diego Ramos,0,,Desconocido,Pediatría,2025-06-29,0.0
+P0910,Pedro León,0,M,Encañada,Pediatría,2023-01-09,542.81
+P0911,Pedro León,0,F,Chetilla,Ginecología,2025-12-26,0.0
+P0912,Lucía Mendoza,0,F,Magdalena,Pediatría,2024-04-22,561.12
+P0913,María García,0,M,Magdalena,General,2023-08-16,656.8
+P0914,Lucía Mendoza,45,M,Cajamarca,Medicina General,2025-02-14,352.87
+P0915,María García,0,,Magdalena,Traumatología,2024-04-24,375.59
+P0916,Ana Torres,83,F,Los Baños,Traumatología,2025-09-23,0.0
+P0917,Jorge Díaz,0,F,Baños del Inca,Ginecología,2025-12-14,0.0
+P0918,Diego Ramos,0,M,Jesús,Odontología,2024-02-07,0.0
+P0919,Andrea Soto,0,M,Chetilla,Medicina General,2023-05-30,0.0
+P0920,Pedro León,79,M,Baños del Inca,Pediatría,2023-06-06,168.92
+P0921,Diego Ramos,75,,Cajamarca,Traumatología,2025-02-28,0.0
+P0922,Andrea Soto,0,F,Jesús,Pediatría,2025-06-28,0.0
+P0923,Lucía Mendoza,0,,Desconocido,Traumatología,2023-02-21,0.0
+P0924,Ana Torres,0,,Matara,Traumatología,2023-11-16,0.0
+P0925,Pedro León,0,M,Cajamarca,General,2024-06-15,0.0
+P0926,María García,0,M,Encañada,Pediatría,2023-06-23,0.0
+P0927,María García,65,M,Jesús,Ginecología,2024-12-20,387.95
+P0928,Luis Pérez,0,F,Los Baños,Pediatría,2024-02-09,420.38
+P0929,Ana Torres,0,F,Los Baños,Pediatría,2023-07-29,0.0
+P0930,Pedro León,0,M,Los Baños,Odontología,2024-07-27,248.74
+P0931,Carlos Ruiz,0,,Matara,Odontología,2025-03-19,0.0
+P0932,Lucía Mendoza,0,M,Baños del Inca,General,2024-04-20,0.0
+P0933,Luis Pérez,36,,Magdalena,Odontología,2023-11-18,0.0
+P0934,Pedro León,0,F,Encañada,Medicina General,2023-02-28,232.74
+P0935,Lucía Mendoza,37,,Jesús,Ginecología,2023-02-14,338.19
+P0936,Ana Torres,0,,Magdalena,General,2025-01-18,0.0
+P0937,Jorge Díaz,0,F,Desconocido,Traumatología,2024-01-08,389.53
+P0938,Diego Ramos,0,F,Los Baños,Ginecología,2024-07-27,438.39
+P0939,María García,89,F,Baños del Inca,Medicina General,2024-10-31,0.0
+P0940,Diego Ramos,0,F,Chetilla,Odontología,2024-04-13,421.59
+P0941,Luis Pérez,0,,Cajamarca,Traumatología,2023-07-09,0.0
+P0942,Carmen Flores,0,F,Encañada,Medicina General,2025-02-04,0.0
+P0943,Andrea Soto,0,M,Jesús,Traumatología,2024-05-21,480.31
+P0944,Carmen Flores,0,M,Encañada,Medicina General,2024-03-06,0.0
+P0945,Carmen Flores,0,M,Desconocido,Pediatría,2023-04-30,753.43
+P0946,Carlos Ruiz,40,M,Matara,Medicina General,2024-10-11,0.0
+P0947,María García,0,M,Chetilla,Pediatría,2024-06-27,0.0
+P0948,Diego Ramos,22,F,Jesús,Pediatría,2023-07-29,0.0
+P0949,Luis Pérez,15,,Chetilla,General,2024-08-22,116.88
+P0950,Carlos Ruiz,0,M,Desconocido,Medicina General,2025-02-25,777.22
+P0951,Jorge Díaz,0,,Encañada,Medicina General,2024-05-15,0.0
+P0952,Lucía Mendoza,0,M,Matara,Traumatología,2024-07-03,0.0
+P0953,Ana Torres,0,,Los Baños,Pediatría,2024-05-24,0.0
+P0954,Jorge Díaz,42,F,Jesús,Traumatología,2024-05-31,114.97
+P0955,Carlos Ruiz,0,M,Desconocido,Odontología,2025-01-09,199.16
+P0956,Carlos Ruiz,0,,Encañada,Traumatología,2024-12-29,0.0
+P0957,Diego Ramos,69,F,Chetilla,Odontología,2025-09-16,699.18
+P0958,Luis Pérez,0,M,Cajamarca,General,2024-03-24,0.0
+P0959,Andrea Soto,0,F,Magdalena,Ginecología,2024-04-28,0.0
+P0960,Andrea Soto,0,,Chetilla,Odontología,2025-04-09,159.5
+P0961,Pedro León,0,M,Chetilla,Odontología,2023-10-01,0.0
+P0962,María García,1,,Los Baños,Ginecología,2025-11-11,0.0
+P0963,María García,0,M,Jesús,General,2023-09-13,0.0
+P0964,Jorge Díaz,0,M,Los Baños,Traumatología,2024-01-26,0.0
+P0965,Carmen Flores,76,,Baños del Inca,General,2025-06-24,0.0
+P0966,Pedro León,71,F,Cajamarca,General,2023-08-13,0.0
+P0967,Luis Pérez,0,F,Cajamarca,Traumatología,2025-04-02,0.0
+P0968,Lucía Mendoza,0,M,Baños del Inca,Medicina General,2025-03-02,0.0
+P0969,Jorge Díaz,0,,Encañada,Medicina General,2024-12-04,0.0
+P0970,Carmen Flores,0,M,Desconocido,Traumatología,2024-09-06,0.0
+P0971,Andrea Soto,0,,Desconocido,General,2023-05-02,0.0
+P0972,Diego Ramos,68,M,Jesús,Odontología,2025-03-22,250.57
+P0973,María García,0,,Matara,General,2024-12-01,255.45
+P0974,Andrea Soto,0,,Encañada,Odontología,2024-03-22,0.0
+P0975,Carmen Flores,0,M,Desconocido,Medicina General,2023-10-17,0.0
+P0976,Jorge Díaz,0,,Cajamarca,Pediatría,2023-08-06,619.74
+P0977,Diego Ramos,0,M,Desconocido,General,2025-02-25,0.0
+P0978,Luis Pérez,0,,Baños del Inca,General,2023-04-01,0.0
+P0979,Jorge Díaz,0,M,Los Baños,Pediatría,2024-02-25,0.0
+P0980,Carlos Ruiz,0,,Los Baños,Odontología,2025-11-04,329.44
+P0981,Jorge Díaz,0,,Los Baños,Traumatología,2025-12-05,0.0
+P0982,Andrea Soto,0,F,Los Baños,Traumatología,2024-12-07,631.97
+P0983,Jorge Díaz,0,F,Jesús,Pediatría,2023-07-06,0.0
+P0984,Carmen Flores,8,,Matara,Pediatría,2024-12-04,0.0
+P0985,Carlos Ruiz,0,M,Los Baños,Odontología,2023-06-23,0.0
+P0986,Ana Torres,85,F,Jesús,Traumatología,2025-06-21,375.2
+P0987,Lucía Mendoza,0,,Chetilla,Pediatría,2023-09-29,342.73
+P0988,Ana Torres,59,M,Jesús,Traumatología,2024-05-23,255.9
+P0989,María García,39,,Chetilla,Traumatología,2025-02-19,0.0
+P0990,Andrea Soto,0,M,Los Baños,Odontología,2024-01-13,452.14
+P0991,Jorge Díaz,7,,Los Baños,Ginecología,2024-01-07,361.85
+P0992,Luis Pérez,0,F,Chetilla,Ginecología,2025-11-07,0.0
+P0993,Ana Torres,0,M,Chetilla,Medicina General,2024-01-22,0.0
+P0994,Pedro León,0,M,Encañada,Traumatología,2025-07-14,209.99
+P0995,Lucía Mendoza,0,,Magdalena,Ginecología,2023-12-15,240.42
+P0996,Ana Torres,0,M,Matara,Pediatría,2025-05-18,0.0
+P0997,Jorge Díaz,68,,Desconocido,Odontología,2025-07-22,237.3
+P0998,Luis Pérez,0,M,Baños del Inca,Medicina General,2025-03-05,725.33
+P0999,Jorge Díaz,56,M,Baños del Inca,Pediatría,2024-10-16,0.0
+P1000,Pedro León,10,M,Cajamarca,Odontología,2024-02-12,0.0
+P1001,Lucía Mendoza,70,M,Cajamarca,Odontología,2025-03-09,0.0
+P1002,Andrea Soto,0,M,Cajamarca,Odontología,2024-11-06,0.0
+P1003,Diego Ramos,59,,Magdalena,Medicina General,2024-12-01,0.0
+P1004,Luis Pérez,9,M,Baños del Inca,Medicina General,2023-06-15,0.0
+P1005,Pedro León,0,F,Chetilla,Traumatología,2024-12-27,0.0
+P1006,Carmen Flores,0,F,Desconocido,Pediatría,2024-02-03,0.0
+P1007,Ana Torres,0,,Cajamarca,Ginecología,2025-02-08,0.0
+P1008,Carlos Ruiz,0,M,Chetilla,Traumatología,2024-08-01,0.0
+P1009,Lucía Mendoza,0,M,Los Baños,General,2025-01-15,378.97
+P1010,María García,78,,Jesús,General,2024-12-26,0.0
+P1011,Diego Ramos,0,M,Baños del Inca,General,2024-05-30,0.0
+P1012,Andrea Soto,48,F,Baños del Inca,Odontología,2024-08-02,0.0
+P1013,Lucía Mendoza,0,M,Jesús,Traumatología,2023-12-17,0.0
+P1014,Jorge Díaz,72,,Chetilla,Odontología,2024-05-06,564.07
+P1015,Diego Ramos,0,,Cajamarca,Traumatología,2025-04-12,0.0
+P1016,Ana Torres,0,F,Magdalena,Pediatría,2025-01-05,0.0
+P1017,Carmen Flores,75,,Los Baños,Odontología,2025-03-24,0.0
+P1018,Andrea Soto,0,M,Jesús,Medicina General,2024-11-08,141.69
+P1019,Carmen Flores,0,,Encañada,Pediatría,2023-07-25,0.0
+P1020,Andrea Soto,0,M,Los Baños,Pediatría,2023-05-07,382.0
+P1021,Luis Pérez,0,F,Desconocido,Odontología,2023-02-14,0.0
+P1022,Carmen Flores,0,M,Cajamarca,Traumatología,2025-09-08,0.0
+P1023,Lucía Mendoza,0,F,Matara,Medicina General,2023-10-17,0.0
+P1024,Jorge Díaz,0,,Magdalena,Traumatología,2024-08-23,0.0
+P1025,María García,13,,Desconocido,Odontología,2025-08-13,211.47
+P1026,Carmen Flores,0,,Matara,Pediatría,2024-04-15,0.0
+P1027,Carmen Flores,0,F,Desconocido,Ginecología,2025-01-27,0.0
+P1028,Diego Ramos,0,,Matara,Traumatología,2023-09-20,145.87
+P1029,María García,0,M,Desconocido,General,2025-12-05,409.32
+P1030,Ana Torres,18,M,Magdalena,Pediatría,2025-04-15,0.0
+P1031,Pedro León,0,F,Chetilla,Traumatología,2023-06-17,55.8
+P1032,Pedro León,20,F,Jesús,General,2025-02-01,488.15
+P1033,Luis Pérez,45,F,Jesús,Ginecología,2023-10-14,377.17
+P1034,Lucía Mendoza,0,,Encañada,Traumatología,2024-09-12,0.0
+P1035,Diego Ramos,23,,Desconocido,Odontología,2024-09-08,0.0
+P1036,Carlos Ruiz,0,M,Jesús,Odontología,2024-12-25,0.0
+P1037,Diego Ramos,0,,Baños del Inca,Odontología,2025-09-05,0.0
+P1038,Andrea Soto,0,M,Los Baños,Pediatría,2024-07-16,0.0
+P1039,Ana Torres,0,,Jesús,Pediatría,2025-12-19,0.0
+P1040,Jorge Díaz,69,,Chetilla,Pediatría,2025-05-04,160.71
+P1041,Diego Ramos,0,,Los Baños,Ginecología,2024-07-18,691.82
+P1042,Carmen Flores,0,F,Baños del Inca,Medicina General,2024-01-28,531.88
+P1043,Pedro León,0,,Jesús,General,2025-07-17,0.0
+P1044,Carmen Flores,0,M,Chetilla,Pediatría,2023-06-07,106.3
+P1045,Carlos Ruiz,0,M,Matara,Odontología,2024-06-07,0.0
+P1046,Andrea Soto,0,F,Cajamarca,General,2025-03-05,0.0
+P1047,Lucía Mendoza,0,F,Chetilla,Traumatología,2024-08-22,0.0
+P1048,Carlos Ruiz,0,M,Los Baños,General,2023-11-16,126.13
+P1049,Luis Pérez,14,F,Jesús,Odontología,2024-03-31,554.91
+P1050,Diego Ramos,0,F,Los Baños,Pediatría,2025-07-30,0.0
+P1051,Carlos Ruiz,58,,Magdalena,Ginecología,2025-04-25,0.0
+P1052,Carmen Flores,48,,Cajamarca,Odontología,2024-04-16,323.06
+P1053,Pedro León,0,F,Matara,Traumatología,2023-12-11,0.0
+P1054,Pedro León,0,F,Magdalena,Medicina General,2025-01-28,0.0
+P1055,Carlos Ruiz,0,F,Baños del Inca,Odontología,2023-05-28,0.0
+P1056,María García,7,F,Baños del Inca,Odontología,2024-01-13,625.14
+P1057,Carmen Flores,0,M,Desconocido,Pediatría,2025-06-21,0.0
+P1058,Jorge Díaz,0,M,Magdalena,Odontología,2024-02-10,173.59
+P1059,Lucía Mendoza,63,M,Los Baños,Odontología,2025-07-04,0.0
+P1060,Carlos Ruiz,0,M,Cajamarca,Medicina General,2023-07-18,0.0
+P1061,Andrea Soto,0,M,Los Baños,Odontología,2024-07-01,94.71
+P1062,María García,51,,Matara,Ginecología,2025-04-27,0.0
+P1063,Ana Torres,0,M,Desconocido,Pediatría,2024-12-31,597.8
+P1064,Luis Pérez,0,F,Magdalena,Medicina General,2023-11-08,0.0
+P1065,Jorge Díaz,0,F,Chetilla,Traumatología,2025-05-14,0.0
+P1066,Diego Ramos,0,,Los Baños,Odontología,2024-02-09,0.0
+P1067,Carlos Ruiz,0,,Magdalena,Odontología,2024-01-02,0.0
+P1068,Pedro León,8,,Matara,Pediatría,2025-07-19,796.28
+P1069,Diego Ramos,0,M,Cajamarca,Ginecología,2025-02-28,0.0
+P1070,Jorge Díaz,0,F,Desconocido,General,2023-01-16,0.0
+P1071,Pedro León,0,M,Baños del Inca,General,2024-12-02,0.0
+P1072,Luis Pérez,0,,Baños del Inca,Pediatría,2025-07-12,0.0
+P1073,Jorge Díaz,0,M,Magdalena,General,2023-01-05,139.14
+P1074,María García,0,M,Cajamarca,General,2024-10-10,0.0
+P1075,Carlos Ruiz,0,,Matara,Ginecología,2023-04-02,0.0
+P1076,Jorge Díaz,0,,Desconocido,Pediatría,2025-01-17,84.39
+P1077,Luis Pérez,0,F,Chetilla,Pediatría,2023-03-27,0.0
+P1078,Luis Pérez,0,M,Chetilla,Ginecología,2023-05-07,235.26
+P1079,Lucía Mendoza,0,,Chetilla,Pediatría,2023-05-10,0.0
+P1080,Carlos Ruiz,0,,Baños del Inca,Ginecología,2024-11-20,298.86
+P1081,Ana Torres,7,M,Magdalena,Odontología,2024-05-28,0.0
+P1082,Diego Ramos,30,F,Magdalena,Medicina General,2025-11-13,0.0
+P1083,Diego Ramos,0,M,Encañada,Odontología,2023-07-29,0.0
+P1084,Carmen Flores,0,,Chetilla,Odontología,2023-04-25,0.0
+P1085,Ana Torres,0,,Cajamarca,Ginecología,2024-08-17,685.5
+P1086,Carmen Flores,0,,Baños del Inca,Pediatría,2025-01-16,0.0
+P1087,Carmen Flores,16,M,Chetilla,General,2025-03-09,0.0
+P1088,María García,0,F,Baños del Inca,Traumatología,2023-08-01,640.29
+P1089,Carmen Flores,72,,Los Baños,Traumatología,2025-05-17,0.0
+P1090,María García,0,M,Matara,Medicina General,2023-12-05,413.62
+P1091,Lucía Mendoza,87,,Los Baños,General,2023-01-22,0.0
+P1092,Carlos Ruiz,0,M,Matara,Ginecología,2024-12-10,0.0
+P1093,Luis Pérez,76,M,Desconocido,Traumatología,2023-10-24,0.0
+P1094,Pedro León,0,,Los Baños,Pediatría,2024-12-17,0.0
+P1095,Pedro León,0,M,Chetilla,Medicina General,2023-07-08,0.0
+P1096,Carlos Ruiz,89,F,Desconocido,Pediatría,2024-04-06,597.91
+P1097,Diego Ramos,0,M,Jesús,Traumatología,2023-12-02,73.55
+P1098,Andrea Soto,0,F,Matara,General,2025-07-19,0.0
+P1099,Carlos Ruiz,0,,Chetilla,Odontología,2024-09-18,0.0
+P1100,Pedro León,0,F,Chetilla,Ginecología,2023-07-03,408.05
+P1101,Pedro León,0,,Los Baños,Traumatología,2025-08-15,0.0
+P1102,Pedro León,2,M,Encañada,Medicina General,2025-02-05,0.0
+P1103,Andrea Soto,27,F,Matara,Pediatría,2023-11-11,0.0
+P1104,Ana Torres,87,M,Jesús,Medicina General,2025-01-30,0.0
+P1105,Luis Pérez,0,M,Desconocido,Traumatología,2023-08-12,764.24
+P1106,Ana Torres,0,M,Jesús,Pediatría,2024-04-29,0.0
+P1107,Andrea Soto,0,F,Chetilla,Medicina General,2023-01-26,427.36
+P1108,Pedro León,0,M,Magdalena,Ginecología,2023-01-11,0.0
+P1109,Diego Ramos,60,M,Desconocido,Pediatría,2024-01-14,0.0
+P1110,Ana Torres,0,,Baños del Inca,Odontología,2024-05-02,264.68
+P1111,Jorge Díaz,0,,Desconocido,Ginecología,2023-10-26,0.0
+P1112,Jorge Díaz,0,F,Jesús,Odontología,2024-04-28,603.37
+P1113,Andrea Soto,16,M,Matara,Pediatría,2024-11-11,0.0
+P1114,Jorge Díaz,21,F,Desconocido,Traumatología,2023-02-06,0.0
+P1115,Luis Pérez,29,F,Baños del Inca,Odontología,2023-06-20,0.0
+P1116,Carlos Ruiz,0,M,Chetilla,General,2024-01-07,0.0
+P1117,Andrea Soto,0,M,Magdalena,General,2023-12-12,0.0
+P1118,Andrea Soto,67,,Jesús,Ginecología,2023-06-20,708.67
+P1119,Carlos Ruiz,0,,Baños del Inca,Pediatría,2025-08-26,0.0
+P1120,Carmen Flores,0,M,Matara,Traumatología,2023-12-13,621.68
+P1121,Pedro León,0,F,Cajamarca,Odontología,2025-07-22,0.0
+P1122,María García,4,F,Los Baños,Pediatría,2025-04-22,0.0
+P1123,Andrea Soto,0,M,Los Baños,Ginecología,2024-02-26,0.0
+P1124,Lucía Mendoza,0,,Chetilla,Odontología,2023-05-05,546.2
+P1125,Carmen Flores,0,,Magdalena,Traumatología,2023-11-03,0.0
+P1126,Diego Ramos,64,F,Magdalena,Medicina General,2025-08-12,272.29
+P1127,Andrea Soto,79,,Magdalena,Odontología,2024-10-26,0.0
+P1128,Andrea Soto,0,,Baños del Inca,Odontología,2024-02-11,0.0
+P1129,Carmen Flores,0,,Encañada,Odontología,2023-08-16,0.0
+P1130,Jorge Díaz,26,,Jesús,Medicina General,2025-06-12,488.82
+P1131,Carmen Flores,0,,Los Baños,General,2024-03-20,0.0
+P1132,Andrea Soto,0,,Encañada,Medicina General,2024-04-10,0.0
+P1133,Carmen Flores,0,,Los Baños,Odontología,2024-05-02,779.22
+P1134,Lucía Mendoza,0,,Los Baños,General,2024-02-20,454.97
+P1135,Diego Ramos,0,,Baños del Inca,Pediatría,2024-07-13,0.0
+P1136,Pedro León,0,M,Jesús,Ginecología,2024-02-20,422.16
+P1137,María García,0,F,Jesús,Traumatología,2024-03-07,0.0
+P1138,Andrea Soto,0,,Cajamarca,Odontología,2025-11-11,296.01
+P1139,Lucía Mendoza,28,M,Jesús,Ginecología,2025-01-31,0.0
+P1140,Lucía Mendoza,0,M,Baños del Inca,Medicina General,2024-07-04,631.58
+P1141,Lucía Mendoza,0,,Magdalena,Traumatología,2023-03-26,0.0
+P1142,Carmen Flores,42,,Jesús,Odontología,2025-07-14,94.54
+P1143,Carlos Ruiz,0,F,Los Baños,General,2023-06-16,0.0
+P1144,Andrea Soto,0,F,Los Baños,Medicina General,2023-10-31,279.73
+P1145,Jorge Díaz,0,,Matara,Ginecología,2024-10-25,0.0
+P1146,Carmen Flores,83,M,Jesús,Pediatría,2025-04-18,0.0
+P1147,Jorge Díaz,0,F,Jesús,Medicina General,2023-04-19,0.0
+P1148,Carlos Ruiz,0,,Magdalena,Pediatría,2023-05-19,0.0
+P1149,Luis Pérez,88,M,Matara,Odontología,2025-01-16,552.82
+P1150,Carmen Flores,0,,Jesús,Traumatología,2025-11-17,0.0
+P1151,Pedro León,0,,Los Baños,Odontología,2025-09-09,270.09
+P1152,Luis Pérez,0,M,Encañada,Pediatría,2024-09-10,0.0
+P1153,Lucía Mendoza,0,F,Chetilla,Pediatría,2024-04-28,0.0
+P1154,Carmen Flores,0,,Chetilla,Pediatría,2023-12-30,0.0
+P1155,Ana Torres,0,,Desconocido,Traumatología,2024-05-15,0.0
+P1156,Jorge Díaz,74,,Desconocido,Medicina General,2023-10-16,0.0
+P1157,María García,0,M,Desconocido,General,2024-03-07,0.0
+P1158,Jorge Díaz,0,F,Baños del Inca,Medicina General,2024-09-12,543.75
+P1159,Carlos Ruiz,0,F,Baños del Inca,Medicina General,2025-10-08,0.0
+P1160,Diego Ramos,72,M,Cajamarca,Odontología,2025-12-06,769.97
+P1161,Ana Torres,0,M,Jesús,Odontología,2024-02-21,0.0
+P1162,Carmen Flores,0,F,Magdalena,General,2024-12-25,0.0
+P1163,Jorge Díaz,0,,Encañada,Odontología,2024-04-23,68.81
+P1164,Luis Pérez,0,F,Jesús,Pediatría,2025-10-08,0.0
+P1165,Ana Torres,0,,Cajamarca,Ginecología,2023-01-16,0.0
+P1166,María García,0,F,Los Baños,Medicina General,2023-01-27,0.0
+P1167,Pedro León,0,,Los Baños,Odontología,2025-03-28,0.0
+P1168,Pedro León,0,,Cajamarca,Ginecología,2024-06-30,0.0
+P1169,Ana Torres,0,,Desconocido,Medicina General,2024-09-11,579.63
+P1170,Jorge Díaz,20,M,Desconocido,Odontología,2023-12-25,0.0
+P1171,Jorge Díaz,55,F,Chetilla,Odontología,2025-12-30,0.0
+P1172,Carmen Flores,0,M,Chetilla,General,2024-10-16,0.0
+P1173,Diego Ramos,0,F,Chetilla,Medicina General,2024-11-26,0.0
+P1174,Jorge Díaz,0,,Cajamarca,Medicina General,2023-11-16,58.03
+P1175,Lucía Mendoza,0,M,Encañada,Pediatría,2023-09-10,0.0
+P1176,María García,11,F,Jesús,Medicina General,2025-02-05,0.0
+P1177,Carmen Flores,0,M,Chetilla,Traumatología,2024-04-05,233.51
+P1178,Diego Ramos,0,F,Magdalena,Traumatología,2025-10-09,564.16
+P1179,Lucía Mendoza,0,M,Cajamarca,Traumatología,2023-09-12,92.14
+P1180,Luis Pérez,0,,Desconocido,General,2023-08-22,259.71
+P1181,María García,0,,Desconocido,Medicina General,2024-02-15,0.0
+P1182,Diego Ramos,0,M,Desconocido,Odontología,2025-01-29,600.06
+P1183,Jorge Díaz,0,M,Matara,Medicina General,2024-05-17,0.0
+P1184,Pedro León,0,F,Encañada,General,2023-03-11,0.0
+P1185,Carmen Flores,0,F,Matara,Ginecología,2024-12-26,250.56
+P1186,Diego Ramos,0,M,Matara,General,2024-07-22,0.0
+P1187,Carlos Ruiz,0,M,Desconocido,General,2024-04-07,0.0
+P1188,María García,0,F,Los Baños,Medicina General,2023-02-13,0.0
+P1189,Diego Ramos,0,,Los Baños,Traumatología,2024-10-26,0.0
+P1190,Andrea Soto,0,F,Cajamarca,Traumatología,2023-02-16,0.0
+P1191,María García,0,F,Baños del Inca,Traumatología,2024-05-17,530.29
+P1192,Carlos Ruiz,0,F,Baños del Inca,General,2023-11-14,356.59
+P1193,Carmen Flores,29,M,Baños del Inca,Ginecología,2024-04-18,0.0
+P1194,Carmen Flores,55,M,Magdalena,Odontología,2025-06-28,0.0
+P1195,Diego Ramos,0,F,Matara,Pediatría,2024-04-29,0.0
+P1196,Andrea Soto,0,F,Los Baños,Odontología,2024-07-05,0.0
+P1197,Luis Pérez,0,,Desconocido,Ginecología,2025-12-31,0.0
+P1198,Jorge Díaz,83,M,Jesús,General,2025-08-29,0.0
+P1199,Ana Torres,73,,Desconocido,General,2023-02-06,0.0
+P1200,Ana Torres,0,M,Encañada,General,2024-06-24,0.0
+P1201,María García,0,M,Chetilla,Medicina General,2025-05-30,0.0
+P1202,Jorge Díaz,0,M,Chetilla,Medicina General,2023-06-30,0.0
+P1203,Diego Ramos,0,M,Desconocido,Traumatología,2025-04-03,0.0
+P1204,Diego Ramos,0,F,Matara,Traumatología,2023-10-02,0.0
+P1205,Ana Torres,0,M,Baños del Inca,Traumatología,2024-03-14,0.0
+P1206,Pedro León,69,F,Jesús,Ginecología,2023-06-03,0.0
+P1207,Andrea Soto,4,F,Encañada,Traumatología,2024-10-30,787.77
+P1208,Andrea Soto,0,,Los Baños,Pediatría,2025-07-24,337.5
+P1209,Lucía Mendoza,0,M,Desconocido,Ginecología,2023-08-16,0.0
+P1210,Carlos Ruiz,0,M,Chetilla,Ginecología,2023-12-06,103.34
+P1211,Jorge Díaz,0,M,Matara,Odontología,2025-12-30,466.73
+P1212,Pedro León,0,F,Los Baños,Medicina General,2024-04-13,253.52
+P1213,Diego Ramos,19,F,Magdalena,Ginecología,2024-09-08,0.0
+P1214,Carmen Flores,29,,Cajamarca,Ginecología,2025-09-16,0.0
+P1215,Carmen Flores,88,,Jesús,Ginecología,2023-06-30,346.22
+P1216,Diego Ramos,0,,Magdalena,Pediatría,2025-08-19,0.0
+P1217,Ana Torres,0,,Baños del Inca,Odontología,2023-11-10,0.0
+P1218,Pedro León,0,F,Cajamarca,Pediatría,2025-03-13,0.0
+P1219,María García,0,F,Chetilla,Odontología,2023-10-07,0.0
+P1220,María García,0,M,Encañada,Ginecología,2025-05-26,0.0
+P1221,Carmen Flores,0,F,Desconocido,Ginecología,2025-12-31,366.86
+P1222,María García,0,,Matara,Ginecología,2024-05-11,0.0
+P1223,Jorge Díaz,39,,Matara,General,2023-02-09,184.31
+P1224,Carlos Ruiz,0,M,Cajamarca,Pediatría,2025-07-21,0.0
+P1225,Andrea Soto,0,,Matara,Pediatría,2025-08-19,0.0
+P1226,Pedro León,0,F,Matara,Medicina General,2024-07-26,548.15
+P1227,Luis Pérez,0,F,Encañada,General,2023-02-28,0.0
+P1228,María García,26,F,Magdalena,Medicina General,2025-07-25,296.9
+P1229,María García,0,,Magdalena,Odontología,2024-11-06,0.0
+P1230,María García,33,,Cajamarca,Ginecología,2023-09-20,279.84
+P1231,Ana Torres,0,,Cajamarca,General,2025-05-15,0.0
+P1232,Carlos Ruiz,0,F,Matara,Odontología,2024-02-20,229.45
+P1233,Carlos Ruiz,0,M,Baños del Inca,Ginecología,2024-11-21,0.0
+P1234,Carmen Flores,0,M,Magdalena,Ginecología,2023-03-19,0.0
+P1235,Ana Torres,0,F,Jesús,Ginecología,2023-04-14,0.0
+P1236,María García,44,F,Chetilla,Odontología,2023-03-19,0.0
+P1237,Carmen Flores,68,M,Baños del Inca,Pediatría,2024-05-01,0.0
+P1238,Diego Ramos,0,M,Jesús,Pediatría,2025-07-18,0.0
+P1239,Jorge Díaz,62,M,Matara,Odontología,2025-06-10,0.0
+P1240,María García,0,F,Encañada,Pediatría,2025-07-01,0.0
+P1241,Lucía Mendoza,13,F,Chetilla,General,2024-11-04,464.39
+P1242,Diego Ramos,0,,Magdalena,Medicina General,2023-06-11,771.7
+P1243,Carmen Flores,0,,Baños del Inca,General,2025-01-29,708.16
+P1244,Lucía Mendoza,22,F,Cajamarca,Ginecología,2023-09-17,0.0
+P1245,Pedro León,69,M,Los Baños,Traumatología,2024-03-13,758.9
+P1246,Carlos Ruiz,0,,Encañada,General,2024-07-16,0.0
+P1247,Lucía Mendoza,0,,Cajamarca,Pediatría,2024-05-23,0.0
+P1248,Lucía Mendoza,0,M,Cajamarca,Pediatría,2024-06-25,0.0
+P1249,Ana Torres,0,M,Baños del Inca,Medicina General,2024-10-05,392.36
+P1250,Lucía Mendoza,82,,Los Baños,Pediatría,2025-02-18,757.08
+P1251,Lucía Mendoza,0,,Encañada,Ginecología,2025-10-04,0.0
+P1252,Lucía Mendoza,0,F,Matara,General,2025-01-02,0.0
+P1253,Lucía Mendoza,28,F,Baños del Inca,Pediatría,2023-09-16,0.0
+P1254,Carlos Ruiz,0,M,Baños del Inca,Traumatología,2025-09-23,0.0
+P1255,María García,56,M,Desconocido,Medicina General,2023-11-23,0.0
+P1256,Ana Torres,37,F,Los Baños,General,2023-08-27,0.0
+P1257,Carlos Ruiz,0,M,Cajamarca,Odontología,2024-11-19,0.0
+P1258,Ana Torres,0,,Los Baños,Medicina General,2024-08-16,0.0
+P1259,Jorge Díaz,17,F,Chetilla,Traumatología,2025-08-01,0.0
+P1260,Pedro León,0,F,Los Baños,General,2025-08-20,0.0
+P1261,Carlos Ruiz,0,,Baños del Inca,Traumatología,2023-04-12,0.0
+P1262,Pedro León,32,M,Desconocido,Medicina General,2025-11-08,0.0
+P1263,Ana Torres,0,,Cajamarca,General,2023-12-24,0.0
+P1264,Luis Pérez,26,F,Desconocido,Traumatología,2025-12-15,0.0
+P1265,Lucía Mendoza,0,,Baños del Inca,Traumatología,2023-11-22,0.0
+P1266,Carmen Flores,43,,Los Baños,Odontología,2024-03-04,0.0
+P1267,María García,0,F,Baños del Inca,Traumatología,2024-01-07,422.57
+P1268,Lucía Mendoza,0,,Matara,Odontología,2025-10-05,94.68
+P1269,Jorge Díaz,73,M,Matara,Medicina General,2025-07-21,0.0
+P1270,Diego Ramos,18,F,Desconocido,Pediatría,2024-11-18,522.89
+P1271,Ana Torres,74,F,Matara,Pediatría,2023-03-27,176.1
+P1272,Jorge Díaz,0,,Matara,Ginecología,2023-05-14,0.0
+P1273,Carlos Ruiz,0,,Los Baños,Ginecología,2024-03-14,0.0
+P1274,Luis Pérez,69,F,Los Baños,Traumatología,2024-01-04,0.0
+P1275,Diego Ramos,0,,Magdalena,Pediatría,2024-07-17,0.0
+P1276,Jorge Díaz,8,F,Encañada,General,2024-10-30,0.0
+P1277,Andrea Soto,0,M,Cajamarca,Pediatría,2023-08-13,0.0
+P1278,Carmen Flores,0,,Desconocido,Odontología,2023-12-12,0.0
+P1279,Jorge Díaz,0,,Cajamarca,Odontología,2023-09-21,435.26
+P1280,Ana Torres,0,F,Los Baños,Odontología,2024-01-27,58.21
+P1281,Lucía Mendoza,0,F,Cajamarca,Medicina General,2024-02-26,0.0
+P1282,Carmen Flores,0,M,Chetilla,Medicina General,2024-11-24,0.0
+P1283,Lucía Mendoza,48,F,Jesús,Odontología,2025-04-03,0.0
+P1284,Luis Pérez,0,M,Cajamarca,Medicina General,2023-09-30,720.27
+P1285,Carmen Flores,0,F,Baños del Inca,Medicina General,2023-07-16,354.27
+P1286,Andrea Soto,84,F,Encañada,Medicina General,2024-06-25,0.0
+P1287,Andrea Soto,0,M,Los Baños,Medicina General,2023-03-23,0.0
+P1288,Carlos Ruiz,0,M,Encañada,Ginecología,2025-05-12,0.0
+P1289,Luis Pérez,87,,Desconocido,Medicina General,2024-01-29,610.78
+P1290,Andrea Soto,0,M,Baños del Inca,Traumatología,2025-09-27,0.0
+P1291,Lucía Mendoza,0,M,Encañada,Pediatría,2023-12-01,446.0
+P1292,Diego Ramos,0,M,Jesús,General,2025-07-07,0.0
+P1293,María García,0,,Jesús,Medicina General,2025-10-26,0.0
+P1294,Diego Ramos,0,M,Cajamarca,Pediatría,2025-03-26,484.55
+P1295,Diego Ramos,13,,Matara,Odontología,2024-02-24,716.9
+P1296,María García,0,,Chetilla,Traumatología,2025-11-17,0.0
+P1297,Pedro León,0,M,Baños del Inca,Ginecología,2024-11-04,0.0
+P1298,Andrea Soto,52,F,Desconocido,General,2023-03-28,0.0
+P1299,Diego Ramos,0,M,Los Baños,General,2024-04-24,0.0
+P1300,Pedro León,65,M,Chetilla,Traumatología,2025-03-19,765.87
+P1301,María García,70,M,Jesús,Ginecología,2023-02-14,0.0
+P1302,Carmen Flores,0,M,Matara,General,2024-01-27,540.72
+P1303,Ana Torres,36,,Los Baños,Odontología,2024-12-15,0.0
+P1304,María García,44,,Cajamarca,Odontología,2023-02-05,112.8
+P1305,Lucía Mendoza,0,,Matara,Ginecología,2023-07-26,475.99
+P1306,Carlos Ruiz,0,,Baños del Inca,Ginecología,2023-06-15,0.0
+P1307,Lucía Mendoza,0,F,Cajamarca,Medicina General,2025-01-22,180.04
+P1308,Pedro León,34,,Desconocido,Medicina General,2024-10-01,258.76
+P1309,Carmen Flores,0,,Jesús,Odontología,2023-03-06,0.0
+P1310,Jorge Díaz,0,F,Los Baños,Pediatría,2023-08-21,0.0
+P1311,Lucía Mendoza,51,F,Jesús,General,2024-04-22,364.48
+P1312,Carmen Flores,10,F,Cajamarca,Traumatología,2024-08-14,733.7
+P1313,Carlos Ruiz,0,F,Matara,Ginecología,2023-05-17,231.39
+P1314,Andrea Soto,0,M,Jesús,Odontología,2023-09-29,404.62
+P1315,Carlos Ruiz,0,F,Desconocido,Traumatología,2025-03-13,0.0
+P1316,Pedro León,0,F,Chetilla,Odontología,2023-05-17,0.0
+P1317,Jorge Díaz,0,M,Chetilla,General,2023-08-14,0.0
+P1318,Andrea Soto,0,M,Matara,General,2023-03-16,677.63
+P1319,Pedro León,0,,Los Baños,Traumatología,2025-11-26,496.43
+P1320,Jorge Díaz,0,F,Magdalena,Ginecología,2024-01-20,446.04
+P1321,Carlos Ruiz,0,F,Matara,Traumatología,2023-10-31,0.0
+P1322,Lucía Mendoza,0,,Magdalena,Pediatría,2023-04-10,0.0
+P1323,Diego Ramos,0,,Cajamarca,Medicina General,2023-07-29,0.0
+P1324,Diego Ramos,10,F,Desconocido,Ginecología,2023-08-06,93.92
+P1325,Luis Pérez,0,F,Cajamarca,Odontología,2025-12-01,539.45
+P1326,Andrea Soto,0,M,Baños del Inca,Odontología,2023-10-20,615.4
+P1327,Pedro León,0,,Matara,Pediatría,2024-12-10,0.0
+P1328,Luis Pérez,0,F,Chetilla,Ginecología,2025-08-04,0.0
+P1329,Pedro León,50,,Desconocido,Medicina General,2023-10-05,0.0
+P1330,Ana Torres,0,,Chetilla,General,2024-12-25,598.27
+P1331,Carmen Flores,0,M,Magdalena,Pediatría,2024-11-11,546.18
+P1332,Carlos Ruiz,0,F,Chetilla,Ginecología,2024-01-16,0.0
+P1333,Ana Torres,0,M,Desconocido,Ginecología,2023-04-03,0.0
+P1334,Luis Pérez,60,,Chetilla,Ginecología,2024-06-09,0.0
+P1335,Luis Pérez,0,,Jesús,Traumatología,2024-11-18,614.54
+P1336,Andrea Soto,81,M,Encañada,Medicina General,2024-09-29,356.67
+P1337,Pedro León,0,M,Desconocido,General,2024-09-29,245.24
+P1338,Andrea Soto,62,M,Jesús,Medicina General,2025-10-31,0.0
+P1339,Carlos Ruiz,0,F,Baños del Inca,Ginecología,2025-05-14,0.0
+P1340,Diego Ramos,0,,Cajamarca,Medicina General,2024-03-20,0.0
+P1341,María García,0,F,Los Baños,Pediatría,2023-02-19,0.0
+P1342,Lucía Mendoza,0,M,Matara,Odontología,2024-12-25,0.0
+P1343,Jorge Díaz,86,F,Chetilla,Medicina General,2024-03-22,0.0
+P1344,Carmen Flores,26,M,Chetilla,Medicina General,2024-08-04,0.0
+P1345,Andrea Soto,25,,Magdalena,General,2024-04-14,0.0
+P1346,Carlos Ruiz,8,,Baños del Inca,Pediatría,2023-05-22,314.2
+P1347,Ana Torres,0,M,Encañada,Traumatología,2025-04-22,0.0
+P1348,Carmen Flores,0,,Desconocido,Medicina General,2024-05-21,768.22
+P1349,Jorge Díaz,82,M,Los Baños,Odontología,2023-06-16,391.97
+P1350,Pedro León,0,M,Matara,General,2025-11-04,0.0
+P1351,Carmen Flores,0,F,Jesús,Odontología,2025-07-05,419.18
+P1352,Diego Ramos,0,F,Jesús,Medicina General,2024-05-08,0.0
+P1353,Lucía Mendoza,0,F,Jesús,General,2025-01-05,397.61
+P1354,Diego Ramos,0,M,Encañada,Medicina General,2023-07-31,0.0
+P1355,Jorge Díaz,86,M,Jesús,General,2025-04-16,0.0
+P1356,Andrea Soto,88,F,Baños del Inca,Ginecología,2024-03-12,214.4
+P1357,Carmen Flores,43,M,Magdalena,Traumatología,2024-06-02,0.0
+P1358,Carmen Flores,28,,Jesús,Traumatología,2025-08-05,749.2
+P1359,Lucía Mendoza,35,F,Cajamarca,Pediatría,2024-08-02,0.0
+P1360,Pedro León,0,F,Cajamarca,Medicina General,2025-01-05,0.0
+P1361,Carlos Ruiz,79,,Encañada,Medicina General,2024-07-08,409.54
+P1362,Carlos Ruiz,15,M,Encañada,Ginecología,2023-08-28,0.0
+P1363,Luis Pérez,0,M,Desconocido,Odontología,2024-12-26,0.0
+P1364,Carlos Ruiz,0,M,Baños del Inca,Pediatría,2025-10-15,0.0
+P1365,Carmen Flores,0,M,Jesús,Ginecología,2024-12-08,0.0
+P1366,Carlos Ruiz,0,F,Cajamarca,Ginecología,2024-07-19,0.0
+P1367,Jorge Díaz,25,,Desconocido,Pediatría,2023-05-16,695.52
+P1368,Andrea Soto,15,,Jesús,Pediatría,2025-07-27,0.0
+P1369,Ana Torres,0,,Desconocido,Traumatología,2024-06-07,653.93
+P1370,Carmen Flores,0,F,Encañada,Medicina General,2023-04-13,0.0
+P1371,Carmen Flores,0,,Los Baños,Pediatría,2023-01-16,303.56
+P1372,Jorge Díaz,0,M,Baños del Inca,Odontología,2025-06-21,0.0
+P1373,Carmen Flores,0,F,Jesús,Ginecología,2025-08-17,0.0
+P1374,María García,0,F,Cajamarca,Ginecología,2025-02-21,0.0
+P1375,Luis Pérez,0,F,Encañada,Pediatría,2023-05-09,306.43
+P1376,Pedro León,73,M,Jesús,Pediatría,2024-10-27,0.0
+P1377,Diego Ramos,0,M,Matara,Odontología,2025-06-08,0.0
+P1378,Diego Ramos,12,,Desconocido,General,2023-06-28,613.91
+P1379,Diego Ramos,82,F,Matara,Traumatología,2025-12-18,0.0
+P1380,María García,27,F,Encañada,Pediatría,2025-01-11,0.0
+P1381,Carmen Flores,29,,Los Baños,Traumatología,2025-09-26,0.0
+P1382,Carlos Ruiz,35,M,Los Baños,Ginecología,2023-04-30,0.0
+P1383,Lucía Mendoza,0,,Cajamarca,Pediatría,2025-04-22,0.0
+P1384,Diego Ramos,0,,Cajamarca,Medicina General,2024-03-01,0.0
+P1385,Jorge Díaz,81,M,Jesús,Traumatología,2023-12-19,0.0
+P1386,Carlos Ruiz,0,,Los Baños,Odontología,2023-12-10,467.9
+P1387,María García,20,,Magdalena,General,2023-05-28,130.39
+P1388,Pedro León,0,M,Baños del Inca,General,2024-09-21,266.65
+P1389,Jorge Díaz,0,F,Baños del Inca,Ginecología,2024-02-04,0.0
+P1390,Jorge Díaz,0,M,Los Baños,Medicina General,2024-10-04,0.0
+P1391,Luis Pérez,0,,Desconocido,Pediatría,2024-03-12,0.0
+P1392,Andrea Soto,0,M,Baños del Inca,Medicina General,2025-02-12,0.0
+P1393,Carmen Flores,16,F,Jesús,Pediatría,2023-08-20,61.41
+P1394,Andrea Soto,0,,Encañada,Pediatría,2024-07-23,477.96
+P1395,Lucía Mendoza,0,M,Los Baños,General,2025-12-11,0.0
+P1396,Carlos Ruiz,0,F,Magdalena,Medicina General,2025-07-18,794.29
+P1397,Carlos Ruiz,0,M,Cajamarca,Ginecología,2024-03-06,0.0
+P1398,Carlos Ruiz,41,F,Desconocido,Ginecología,2024-04-06,0.0
+P1399,Ana Torres,0,M,Magdalena,Medicina General,2024-03-06,0.0
+P1400,Lucía Mendoza,0,,Desconocido,Ginecología,2024-03-24,0.0
+P1401,Diego Ramos,5,F,Los Baños,Odontología,2025-01-05,0.0
+P1402,Carmen Flores,0,,Baños del Inca,Ginecología,2024-03-17,0.0
+P1403,Andrea Soto,2,M,Cajamarca,Odontología,2023-09-30,0.0
+P1404,Lucía Mendoza,0,,Magdalena,Pediatría,2025-07-24,0.0
+P1405,Ana Torres,27,F,Encañada,Traumatología,2023-09-15,0.0
+P1406,Carmen Flores,0,F,Jesús,Odontología,2024-05-14,0.0
+P1407,María García,0,M,Cajamarca,Ginecología,2025-11-28,0.0
+P1408,Jorge Díaz,20,M,Jesús,Ginecología,2024-08-01,370.23
+P1409,Jorge Díaz,0,M,Jesús,Medicina General,2024-08-02,451.41
+P1410,Pedro León,0,,Chetilla,Pediatría,2023-03-24,779.87
+P1411,María García,0,F,Jesús,Medicina General,2023-11-07,0.0
+P1412,Carmen Flores,12,,Chetilla,Ginecología,2025-05-07,718.06
+P1413,Andrea Soto,40,,Matara,Pediatría,2024-04-20,0.0
+P1414,María García,54,,Desconocido,Medicina General,2025-02-10,0.0
+P1415,María García,0,,Matara,Medicina General,2025-06-01,625.64
+P1416,Carlos Ruiz,0,F,Cajamarca,General,2024-02-12,0.0
+P1417,Carlos Ruiz,30,F,Encañada,Traumatología,2025-05-18,245.53
+P1418,Andrea Soto,15,M,Encañada,Ginecología,2024-06-27,0.0
+P1419,Lucía Mendoza,0,,Cajamarca,Pediatría,2023-08-16,0.0
+P1420,Jorge Díaz,0,F,Chetilla,Pediatría,2024-09-28,0.0
+P1421,Andrea Soto,0,,Encañada,General,2023-10-09,0.0
+P1422,Jorge Díaz,0,M,Encañada,Ginecología,2023-08-10,493.32
+P1423,Lucía Mendoza,0,F,Matara,Traumatología,2024-11-12,396.74
+P1424,Ana Torres,0,F,Los Baños,Ginecología,2024-10-29,0.0
+P1425,María García,0,F,Jesús,Pediatría,2025-05-09,0.0
+P1426,Lucía Mendoza,77,,Matara,Pediatría,2025-12-24,606.63
+P1427,María García,73,M,Encañada,Odontología,2025-11-08,0.0
+P1428,María García,79,F,Chetilla,Pediatría,2023-10-29,0.0
+P1429,Carlos Ruiz,16,,Matara,Odontología,2025-09-06,692.52
+P1430,Jorge Díaz,0,M,Cajamarca,Ginecología,2024-07-31,0.0
+P1431,Carlos Ruiz,51,F,Los Baños,Odontología,2023-03-24,594.03
+P1432,María García,0,M,Magdalena,Medicina General,2025-10-05,548.08
+P1433,María García,0,F,Matara,Traumatología,2023-07-26,769.26
+P1434,Ana Torres,0,M,Baños del Inca,Traumatología,2023-03-28,0.0
+P1435,Pedro León,0,F,Baños del Inca,Pediatría,2023-10-10,0.0
+P1436,Pedro León,0,M,Matara,Pediatría,2025-04-12,94.05
+P1437,Jorge Díaz,26,M,Jesús,Pediatría,2025-02-06,0.0
+P1438,Luis Pérez,0,M,Magdalena,Ginecología,2025-05-21,0.0
+P1439,Jorge Díaz,73,F,Chetilla,Traumatología,2024-07-01,0.0
+P1440,Pedro León,18,F,Jesús,Odontología,2025-11-25,0.0
+P1441,Andrea Soto,0,F,Magdalena,Medicina General,2025-04-16,0.0
+P1442,Carmen Flores,44,F,Matara,Medicina General,2023-04-21,0.0
+P1443,Jorge Díaz,0,F,Los Baños,Medicina General,2025-06-05,673.39
+P1444,María García,0,M,Baños del Inca,Traumatología,2023-11-24,0.0
+P1445,Andrea Soto,6,F,Desconocido,Medicina General,2023-06-06,231.73
+P1446,Diego Ramos,0,F,Encañada,Pediatría,2025-09-21,0.0
+P1447,Luis Pérez,0,M,Los Baños,Medicina General,2025-11-11,0.0
+P1448,Carmen Flores,0,,Baños del Inca,Ginecología,2025-08-04,0.0
+P1449,Pedro León,0,M,Desconocido,Traumatología,2023-03-15,160.97
+P1450,Carmen Flores,0,,Baños del Inca,Pediatría,2023-12-12,121.88
+P1451,Luis Pérez,89,,Encañada,Pediatría,2023-12-15,0.0
+P1452,Lucía Mendoza,0,M,Matara,Pediatría,2023-07-26,620.47
+P1453,Lucía Mendoza,0,F,Cajamarca,Ginecología,2023-09-10,0.0
+P1454,Luis Pérez,0,F,Matara,Odontología,2024-06-04,0.0
+P1455,María García,0,F,Jesús,General,2023-05-19,0.0
+P1456,Pedro León,70,F,Jesús,Ginecología,2023-01-17,495.51
+P1457,Pedro León,0,F,Baños del Inca,Odontología,2024-12-23,0.0
+P1458,Jorge Díaz,27,F,Matara,Pediatría,2023-12-10,0.0
+P1459,Lucía Mendoza,0,,Chetilla,Pediatría,2023-07-31,0.0
+P1460,Lucía Mendoza,60,M,Matara,Medicina General,2023-12-25,0.0
+P1461,Lucía Mendoza,0,,Magdalena,General,2024-04-10,0.0
+P1462,María García,0,M,Encañada,Traumatología,2024-12-13,0.0
+P1463,Luis Pérez,0,,Chetilla,Ginecología,2025-10-26,0.0
+P1464,Lucía Mendoza,2,F,Chetilla,Ginecología,2023-05-05,0.0
+P1465,Lucía Mendoza,4,M,Desconocido,Odontología,2025-10-10,0.0
+P1466,María García,12,M,Jesús,Ginecología,2023-12-29,0.0
+P1467,Pedro León,18,F,Baños del Inca,Pediatría,2024-09-22,623.89
+P1468,Ana Torres,0,,Cajamarca,Pediatría,2025-08-14,0.0
+P1469,Ana Torres,0,F,Encañada,Ginecología,2025-01-16,0.0
+P1470,María García,16,M,Encañada,Medicina General,2024-02-11,0.0
+P1471,Andrea Soto,0,F,Chetilla,Odontología,2025-06-13,0.0
+P1472,Diego Ramos,25,,Cajamarca,General,2024-04-09,639.22
+P1473,Pedro León,66,M,Baños del Inca,Pediatría,2023-01-20,0.0
+P1474,Jorge Díaz,0,M,Desconocido,Odontología,2023-08-07,246.2
+P1475,Carmen Flores,0,M,Chetilla,General,2025-11-26,94.36
+P1476,Pedro León,0,,Los Baños,Medicina General,2023-01-05,0.0
+P1477,María García,0,M,Magdalena,Odontología,2023-08-18,0.0
+P1478,Ana Torres,0,,Chetilla,General,2023-03-16,0.0
+P1479,Diego Ramos,51,M,Jesús,Pediatría,2024-08-20,0.0
+P1480,Diego Ramos,0,M,Encañada,Traumatología,2023-09-20,336.79
+P1481,Carlos Ruiz,0,M,Magdalena,General,2025-02-03,0.0
+P1482,Carmen Flores,0,M,Los Baños,Traumatología,2024-08-26,523.22
+P1483,Ana Torres,0,,Baños del Inca,Odontología,2024-10-05,0.0
+P1484,Ana Torres,0,M,Los Baños,Ginecología,2025-05-06,0.0
+P1485,Diego Ramos,76,M,Jesús,Traumatología,2024-06-13,564.1
+P1486,Andrea Soto,0,,Chetilla,General,2023-09-30,606.08
+P1487,Pedro León,0,M,Chetilla,General,2024-02-21,0.0
+P1488,Ana Torres,0,,Chetilla,Pediatría,2024-09-27,440.46
+P1489,Diego Ramos,0,F,Matara,Odontología,2024-03-04,0.0
+P1490,Pedro León,0,F,Los Baños,Ginecología,2023-02-13,0.0
+P1491,Jorge Díaz,71,M,Magdalena,Odontología,2025-06-28,0.0
+P1492,Lucía Mendoza,83,F,Magdalena,Odontología,2023-01-01,567.98
+P1493,Ana Torres,0,F,Magdalena,Ginecología,2024-03-21,0.0
+P1494,Luis Pérez,22,F,Magdalena,Ginecología,2023-10-09,0.0
+P1495,Ana Torres,0,M,Jesús,Medicina General,2025-05-05,0.0
+P1496,Lucía Mendoza,36,F,Cajamarca,Medicina General,2023-08-24,0.0
+P1497,Carlos Ruiz,0,F,Los Baños,Traumatología,2025-12-09,667.23
+P1498,Andrea Soto,3,M,Magdalena,Medicina General,2023-08-18,0.0
+P1499,Ana Torres,89,M,Magdalena,Odontología,2024-11-28,0.0
+P1500,Andrea Soto,0,F,Jesús,Pediatría,2024-12-09,0.0
+P1501,Carlos Ruiz,52,F,Chetilla,Odontología,2025-08-31,0.0
+P1502,Carlos Ruiz,0,,Baños del Inca,Ginecología,2024-02-07,0.0
+P1503,María García,29,M,Jesús,Ginecología,2023-06-17,0.0
+P1504,Jorge Díaz,0,,Los Baños,General,2024-03-20,0.0
+P1505,Lucía Mendoza,0,F,Chetilla,General,2025-07-14,0.0
+P1506,Carmen Flores,0,M,Cajamarca,Ginecología,2025-04-18,0.0
+P1507,María García,0,F,Cajamarca,Pediatría,2025-04-06,0.0
+P1508,Carmen Flores,52,,Desconocido,Odontología,2024-11-30,0.0
+P1509,Carlos Ruiz,28,F,Baños del Inca,Pediatría,2024-05-05,390.21
+P1510,Jorge Díaz,0,F,Magdalena,Odontología,2025-12-13,0.0
+P1511,Luis Pérez,0,,Matara,Pediatría,2025-08-28,204.52
+P1512,Lucía Mendoza,16,M,Magdalena,Traumatología,2023-10-06,0.0
+P1513,Jorge Díaz,78,,Los Baños,Medicina General,2025-01-26,515.98
+P1514,Jorge Díaz,0,,Matara,Odontología,2025-09-03,0.0
+P1515,Ana Torres,0,M,Cajamarca,Medicina General,2025-03-12,0.0
+P1516,Diego Ramos,0,M,Baños del Inca,Odontología,2023-05-04,0.0
+P1517,Ana Torres,66,,Jesús,General,2025-11-28,429.73
+P1518,Lucía Mendoza,75,,Jesús,General,2025-08-02,0.0
+P1519,Lucía Mendoza,13,F,Encañada,Medicina General,2023-12-13,455.53
+P1520,Carlos Ruiz,0,M,Baños del Inca,Pediatría,2024-12-16,81.76
+P1521,Pedro León,0,,Jesús,Pediatría,2023-09-30,0.0
+P1522,Andrea Soto,0,,Desconocido,General,2025-08-16,439.45
+P1523,Andrea Soto,0,,Matara,Medicina General,2023-11-29,0.0
+P1524,Lucía Mendoza,0,F,Chetilla,Pediatría,2024-12-10,0.0
+P1525,Ana Torres,0,M,Cajamarca,Pediatría,2024-06-13,0.0
+P1526,Ana Torres,0,F,Desconocido,Medicina General,2025-01-11,0.0
+P1527,Andrea Soto,0,M,Jesús,Ginecología,2023-10-13,183.53
+P1528,Carmen Flores,0,F,Baños del Inca,Odontología,2023-08-15,0.0
+P1529,Ana Torres,0,M,Chetilla,General,2025-06-25,0.0
+P1530,Luis Pérez,32,,Chetilla,Medicina General,2025-06-06,684.6
+P1531,Carmen Flores,0,M,Jesús,Odontología,2024-10-15,320.56
+P1532,Pedro León,0,,Baños del Inca,Traumatología,2025-03-25,0.0
+P1533,Jorge Díaz,37,M,Matara,Medicina General,2024-10-18,84.72
+P1534,Lucía Mendoza,0,F,Matara,Traumatología,2024-05-20,0.0
+P1535,María García,0,,Chetilla,Ginecología,2023-01-05,534.39
+P1536,Carmen Flores,0,M,Cajamarca,Pediatría,2024-05-14,0.0
+P1537,Carlos Ruiz,0,,Encañada,General,2025-09-19,0.0
+P1538,Diego Ramos,0,F,Chetilla,Pediatría,2025-12-08,0.0
+P1539,Pedro León,0,F,Desconocido,Traumatología,2024-12-17,0.0
+P1540,Carmen Flores,0,M,Desconocido,Ginecología,2023-06-04,755.23
+P1541,Ana Torres,0,M,Chetilla,Pediatría,2024-06-28,0.0
+P1542,Pedro León,0,,Jesús,Pediatría,2024-10-28,0.0
+P1543,Lucía Mendoza,7,M,Jesús,General,2024-10-01,312.63
+P1544,Lucía Mendoza,11,M,Matara,Traumatología,2023-12-30,0.0
+P1545,Jorge Díaz,0,,Cajamarca,Traumatología,2025-05-07,481.77
+P1546,Diego Ramos,4,,Chetilla,General,2025-02-20,0.0
+P1547,Carlos Ruiz,0,M,Baños del Inca,Traumatología,2023-12-14,0.0
+P1548,Carmen Flores,0,M,Cajamarca,Ginecología,2025-11-28,659.0
+P1549,Ana Torres,0,M,Chetilla,Pediatría,2025-04-16,513.17
+P1550,Ana Torres,68,F,Magdalena,Traumatología,2024-08-02,0.0
+P1551,Jorge Díaz,0,F,Cajamarca,Odontología,2025-06-06,0.0
+P1552,Carmen Flores,74,,Magdalena,Ginecología,2024-11-04,0.0
+P1553,Carmen Flores,0,M,Magdalena,General,2025-12-06,719.13
+P1554,Luis Pérez,0,M,Jesús,Pediatría,2025-04-22,260.92
+P1555,Ana Torres,0,,Desconocido,Medicina General,2024-09-30,0.0
+P1556,Carlos Ruiz,0,F,Los Baños,Medicina General,2023-12-24,0.0
+P1557,Pedro León,6,,Desconocido,Pediatría,2023-01-07,0.0
+P1558,Luis Pérez,0,,Baños del Inca,Ginecología,2025-03-07,538.31
+P1559,Diego Ramos,0,,Desconocido,General,2025-01-07,743.37
+P1560,Ana Torres,0,M,Matara,Odontología,2023-10-02,0.0
+P1561,Andrea Soto,17,M,Los Baños,Traumatología,2024-12-16,0.0
+P1562,Carlos Ruiz,89,F,Baños del Inca,Pediatría,2023-12-03,608.62
+P1563,Lucía Mendoza,0,,Baños del Inca,Traumatología,2025-10-25,0.0
+P1564,Jorge Díaz,0,,Desconocido,General,2023-10-11,0.0
+P1565,Diego Ramos,0,F,Magdalena,Pediatría,2025-12-12,0.0
+P1566,María García,0,F,Desconocido,Traumatología,2024-01-02,0.0
+P1567,María García,0,M,Cajamarca,General,2025-05-27,0.0
+P1568,Ana Torres,0,M,Los Baños,Pediatría,2024-09-13,0.0
+P1569,María García,0,F,Encañada,Traumatología,2025-08-10,0.0
+P1570,Lucía Mendoza,21,M,Chetilla,Ginecología,2024-07-09,0.0
+P1571,Carmen Flores,0,M,Desconocido,Medicina General,2023-09-24,235.99
+P1572,Carmen Flores,0,F,Jesús,Odontología,2024-09-29,203.07
+P1573,Diego Ramos,0,F,Magdalena,Odontología,2023-05-10,408.46
+P1574,Pedro León,0,,Encañada,General,2025-01-04,0.0
+P1575,Ana Torres,0,M,Encañada,Ginecología,2023-10-31,0.0
+P1576,Pedro León,79,M,Encañada,Odontología,2024-11-12,0.0
+P1577,Pedro León,0,F,Chetilla,Traumatología,2024-08-04,0.0
+P1578,Luis Pérez,0,M,Baños del Inca,Traumatología,2023-01-16,589.32
+P1579,Pedro León,0,F,Desconocido,Ginecología,2023-03-25,0.0
+P1580,Andrea Soto,0,F,Jesús,Pediatría,2023-02-27,392.99
+P1581,Lucía Mendoza,3,M,Chetilla,Traumatología,2024-01-27,0.0
+P1582,Ana Torres,0,M,Desconocido,Traumatología,2023-04-06,0.0
+P1583,Carlos Ruiz,0,,Chetilla,Pediatría,2023-01-05,0.0
+P1584,Pedro León,0,F,Matara,Odontología,2025-01-21,0.0
+P1585,Diego Ramos,0,,Jesús,Odontología,2024-04-16,415.64
+P1586,María García,29,,Encañada,Medicina General,2023-12-27,0.0
+P1587,Luis Pérez,0,F,Encañada,Medicina General,2023-06-04,0.0
+P1588,Lucía Mendoza,63,,Jesús,Ginecología,2024-01-05,0.0
+P1589,Luis Pérez,0,,Encañada,Odontología,2025-09-06,115.9
+P1590,Pedro León,75,M,Los Baños,Traumatología,2025-07-10,0.0
+P1591,Ana Torres,0,,Encañada,Traumatología,2025-02-11,0.0
+P1592,Lucía Mendoza,0,F,Matara,Pediatría,2024-05-02,0.0
+P1593,María García,0,,Chetilla,Medicina General,2023-06-21,0.0
+P1594,Jorge Díaz,0,,Encañada,Pediatría,2023-08-19,0.0
+P1595,Luis Pérez,0,F,Cajamarca,Medicina General,2024-02-11,510.77
+P1596,Luis Pérez,0,M,Jesús,Odontología,2025-11-19,631.82
+P1597,Pedro León,0,,Encañada,Pediatría,2024-06-08,0.0
+P1598,Lucía Mendoza,0,M,Desconocido,Pediatría,2023-02-22,0.0
+P1599,Jorge Díaz,74,M,Los Baños,Pediatría,2024-11-02,0.0
+P1600,Carmen Flores,0,F,Magdalena,Odontología,2025-01-19,0.0
+P1601,Carlos Ruiz,0,,Los Baños,Odontología,2024-12-13,259.11
+P1602,Diego Ramos,0,F,Chetilla,Ginecología,2024-07-12,0.0
+P1603,Lucía Mendoza,0,F,Matara,Pediatría,2023-05-05,0.0
+P1604,Luis Pérez,0,,Matara,Odontología,2023-10-15,0.0
+P1605,Diego Ramos,0,F,Jesús,Medicina General,2024-10-13,371.31
+P1606,Lucía Mendoza,0,F,Matara,Medicina General,2025-12-17,0.0
+P1607,Carlos Ruiz,72,M,Desconocido,Ginecología,2024-03-19,0.0
+P1608,Lucía Mendoza,0,M,Cajamarca,Traumatología,2025-02-17,769.19
+P1609,Ana Torres,0,F,Encañada,Odontología,2024-08-11,0.0
+P1610,María García,0,F,Matara,Pediatría,2025-10-17,0.0
+P1611,Ana Torres,0,M,Encañada,General,2023-12-04,493.36
+P1612,Ana Torres,90,M,Magdalena,Odontología,2023-09-09,0.0
+P1613,Carmen Flores,56,F,Cajamarca,Odontología,2025-07-27,160.31
+P1614,María García,0,M,Encañada,Odontología,2024-11-16,0.0
+P1615,Luis Pérez,0,,Baños del Inca,Ginecología,2023-03-03,387.19
+P1616,Diego Ramos,0,,Matara,Ginecología,2023-10-19,0.0
+P1617,Ana Torres,0,,Desconocido,Medicina General,2025-06-22,0.0
+P1618,Carmen Flores,0,F,Cajamarca,Traumatología,2025-09-26,0.0
+P1619,Ana Torres,33,,Matara,Pediatría,2023-10-18,0.0
+P1620,Ana Torres,70,,Cajamarca,Traumatología,2024-06-25,0.0
+P1621,Ana Torres,0,M,Los Baños,Traumatología,2024-06-02,520.02
+P1622,Carlos Ruiz,0,F,Desconocido,Odontología,2023-08-20,557.96
+P1623,Luis Pérez,89,M,Baños del Inca,Odontología,2024-07-25,0.0
+P1624,Jorge Díaz,87,,Chetilla,Ginecología,2024-05-04,0.0
+P1625,Lucía Mendoza,0,,Matara,Ginecología,2023-12-01,0.0
+P1626,Ana Torres,0,F,Encañada,Odontología,2023-04-01,0.0
+P1627,María García,0,,Magdalena,General,2025-01-13,302.49
+P1628,Diego Ramos,0,M,Magdalena,Ginecología,2024-05-08,0.0
+P1629,Carlos Ruiz,72,M,Jesús,Ginecología,2023-04-07,0.0
+P1630,Lucía Mendoza,0,,Encañada,Pediatría,2025-07-15,0.0
+P1631,Jorge Díaz,0,,Encañada,Medicina General,2024-05-27,0.0
+P1632,Carmen Flores,85,F,Encañada,Ginecología,2025-08-31,281.73
+P1633,María García,0,M,Matara,Medicina General,2024-02-25,0.0
+P1634,Ana Torres,0,M,Cajamarca,Odontología,2024-05-07,0.0
+P1635,Andrea Soto,86,F,Los Baños,General,2024-08-19,0.0
+P1636,Andrea Soto,0,,Desconocido,Medicina General,2023-01-17,327.65
+P1637,Carlos Ruiz,89,M,Chetilla,Traumatología,2024-04-15,0.0
+P1638,Andrea Soto,0,,Los Baños,Pediatría,2024-08-27,0.0
+P1639,Pedro León,0,F,Chetilla,Pediatría,2023-05-20,378.6
+P1640,Pedro León,54,M,Matara,Odontología,2025-07-01,0.0
+P1641,Luis Pérez,0,,Magdalena,Medicina General,2023-04-27,0.0
+P1642,Jorge Díaz,0,F,Desconocido,General,2025-03-05,660.88
+P1643,Andrea Soto,0,F,Desconocido,Ginecología,2025-01-02,0.0
+P1644,Carmen Flores,0,M,Magdalena,Medicina General,2025-05-06,672.28
+P1645,Andrea Soto,77,M,Chetilla,Pediatría,2024-03-26,0.0
+P1646,Ana Torres,0,F,Matara,Traumatología,2025-07-07,0.0
+P1647,María García,0,,Desconocido,Traumatología,2025-09-20,0.0
+P1648,Diego Ramos,2,,Los Baños,General,2023-05-16,0.0
+P1649,Andrea Soto,0,,Magdalena,Medicina General,2024-01-20,0.0
+P1650,María García,0,F,Chetilla,Ginecología,2024-11-10,0.0
+P1651,Pedro León,0,M,Baños del Inca,Pediatría,2024-03-16,0.0
+P1652,Luis Pérez,24,M,Encañada,Pediatría,2025-02-26,0.0
+P1653,Pedro León,44,M,Jesús,General,2023-06-17,0.0
+P1654,Carmen Flores,0,,Magdalena,Medicina General,2023-05-04,0.0
+P1655,Andrea Soto,57,F,Cajamarca,General,2023-03-21,202.62
+P1656,Ana Torres,0,,Jesús,Pediatría,2023-11-01,153.72
+P1657,Andrea Soto,71,,Magdalena,Traumatología,2023-10-29,363.71
+P1658,Diego Ramos,53,,Matara,Pediatría,2023-11-13,0.0
+P1659,Andrea Soto,22,,Jesús,Odontología,2023-10-28,0.0
+P1660,Andrea Soto,0,M,Cajamarca,Ginecología,2024-08-28,0.0
+P1661,Diego Ramos,0,M,Los Baños,Traumatología,2023-04-30,0.0
+P1662,Diego Ramos,0,,Desconocido,Pediatría,2024-08-10,0.0
+P1663,Carmen Flores,83,M,Magdalena,General,2024-09-13,0.0
+P1664,Ana Torres,0,M,Desconocido,General,2023-04-27,0.0
+P1665,Lucía Mendoza,0,,Magdalena,Medicina General,2025-02-20,0.0
+P1666,Pedro León,0,,Cajamarca,General,2024-08-27,0.0
+P1667,Carmen Flores,38,F,Cajamarca,Ginecología,2024-03-18,0.0
+P1668,Jorge Díaz,0,,Encañada,Ginecología,2025-09-17,0.0
+P1669,Andrea Soto,0,,Desconocido,General,2025-03-10,0.0
+P1670,Pedro León,0,M,Los Baños,Traumatología,2023-11-29,0.0
+P1671,Lucía Mendoza,0,F,Baños del Inca,Traumatología,2025-02-20,0.0
+P1672,Diego Ramos,12,F,Chetilla,Ginecología,2024-10-10,593.32
+P1673,Carlos Ruiz,36,,Los Baños,Odontología,2024-10-07,0.0
+P1674,Lucía Mendoza,0,,Los Baños,Traumatología,2023-07-24,0.0
+P1675,Pedro León,0,F,Encañada,Pediatría,2025-12-12,0.0
+P1676,Diego Ramos,0,M,Matara,Medicina General,2024-11-19,258.6
+P1677,Jorge Díaz,0,F,Magdalena,General,2024-02-17,281.42
+P1678,Andrea Soto,0,M,Matara,Traumatología,2023-05-15,684.27
+P1679,María García,0,F,Los Baños,Traumatología,2023-08-17,0.0
+P1680,Luis Pérez,0,,Chetilla,Odontología,2025-04-16,0.0
+P1681,María García,76,F,Jesús,Ginecología,2025-06-20,0.0
+P1682,Jorge Díaz,28,M,Desconocido,Medicina General,2025-02-25,0.0
+P1683,María García,0,F,Desconocido,Traumatología,2024-07-14,0.0
+P1684,Carlos Ruiz,0,F,Los Baños,General,2024-08-27,0.0
+P1685,Pedro León,89,F,Chetilla,General,2024-05-04,559.89
+P1686,Jorge Díaz,0,,Los Baños,Odontología,2023-10-11,0.0
+P1687,Luis Pérez,54,F,Matara,General,2025-01-19,0.0
+P1688,Andrea Soto,65,,Encañada,Pediatría,2024-09-09,0.0
+P1689,Luis Pérez,76,M,Chetilla,General,2025-07-20,616.57
+P1690,Andrea Soto,0,,Desconocido,Ginecología,2023-09-15,0.0
+P1691,Luis Pérez,0,M,Jesús,Medicina General,2023-03-09,0.0
+P1692,Lucía Mendoza,0,F,Matara,Traumatología,2025-10-12,270.38
+P1693,Luis Pérez,39,F,Matara,Traumatología,2023-07-25,0.0
+P1694,Luis Pérez,38,F,Chetilla,Odontología,2025-05-13,583.92
+P1695,Jorge Díaz,0,,Chetilla,General,2024-02-06,484.18
+P1696,Ana Torres,52,,Cajamarca,General,2024-12-23,0.0
+P1697,Ana Torres,0,,Chetilla,Odontología,2024-03-29,409.69
+P1698,Carlos Ruiz,56,F,Jesús,Ginecología,2024-05-03,0.0
+P1699,Pedro León,0,M,Desconocido,General,2025-11-07,0.0
+P1700,Ana Torres,0,,Desconocido,Medicina General,2024-05-15,0.0
+P1701,Carlos Ruiz,0,M,Chetilla,General,2025-12-13,0.0
+P1702,Lucía Mendoza,0,M,Cajamarca,Odontología,2023-09-20,0.0
+P1703,Carlos Ruiz,12,,Desconocido,General,2024-11-27,425.94
+P1704,Pedro León,37,F,Encañada,Medicina General,2025-09-21,179.13
+P1705,Andrea Soto,0,M,Chetilla,Odontología,2023-09-26,0.0
+P1706,Diego Ramos,3,M,Chetilla,Pediatría,2025-04-19,0.0
+P1707,Carlos Ruiz,70,,Desconocido,Pediatría,2024-10-29,0.0
+P1708,Jorge Díaz,0,,Desconocido,Odontología,2024-01-27,0.0
+P1709,Diego Ramos,0,M,Cajamarca,Medicina General,2024-06-03,0.0
+P1710,Pedro León,0,M,Baños del Inca,Odontología,2024-04-26,0.0
+P1711,Luis Pérez,0,M,Cajamarca,Medicina General,2023-09-01,790.94
+P1712,Luis Pérez,0,,Desconocido,Pediatría,2023-10-22,0.0
+P1713,Pedro León,27,M,Cajamarca,Traumatología,2025-10-18,0.0
+P1714,María García,0,M,Chetilla,General,2023-08-01,0.0
+P1715,Diego Ramos,76,,Jesús,Ginecología,2025-12-23,75.63
+P1716,María García,0,F,Jesús,General,2024-09-13,0.0
+P1717,María García,0,M,Baños del Inca,General,2025-06-24,0.0
+P1718,Pedro León,40,M,Cajamarca,General,2024-06-01,370.91
+P1719,Carlos Ruiz,0,M,Cajamarca,Pediatría,2025-10-11,0.0
+P1720,Pedro León,0,,Cajamarca,Pediatría,2023-03-07,0.0
+P1721,Luis Pérez,0,F,Chetilla,Medicina General,2023-12-19,0.0
+P1722,María García,17,,Los Baños,Ginecología,2023-09-11,0.0
+P1723,Jorge Díaz,29,M,Cajamarca,Odontología,2023-12-01,0.0
+P1724,Andrea Soto,0,F,Desconocido,Medicina General,2025-03-15,0.0
+P1725,Ana Torres,0,F,Los Baños,Odontología,2025-11-01,0.0
+P1726,Lucía Mendoza,0,F,Desconocido,Ginecología,2024-10-30,593.49
+P1727,Pedro León,0,M,Chetilla,Traumatología,2025-02-01,61.52
+P1728,María García,46,,Los Baños,Ginecología,2024-12-14,0.0
+P1729,Jorge Díaz,0,,Chetilla,Traumatología,2025-10-02,0.0
+P1730,Diego Ramos,44,F,Chetilla,General,2024-08-27,0.0
+P1731,Carlos Ruiz,12,F,Matara,General,2025-12-15,0.0
+P1732,Carlos Ruiz,0,,Jesús,Odontología,2023-11-13,174.27
+P1733,Pedro León,0,F,Magdalena,General,2025-09-06,0.0
+P1734,Andrea Soto,74,F,Desconocido,Pediatría,2024-11-05,86.74
+P1735,Pedro León,87,F,Jesús,Pediatría,2023-03-07,0.0
+P1736,María García,5,,Los Baños,General,2025-05-21,0.0
+P1737,Diego Ramos,47,F,Matara,Odontología,2024-09-18,0.0
+P1738,Lucía Mendoza,0,F,Jesús,General,2024-10-20,691.62
+P1739,Carlos Ruiz,0,M,Cajamarca,Ginecología,2025-06-12,0.0
+P1740,Diego Ramos,0,F,Cajamarca,Medicina General,2025-06-27,289.14
+P1741,Carlos Ruiz,0,,Encañada,Pediatría,2025-11-07,461.28
+P1742,Carmen Flores,79,M,Encañada,General,2025-03-20,466.54
+P1743,Luis Pérez,1,F,Baños del Inca,Medicina General,2023-06-16,0.0
+P1744,Ana Torres,35,M,Magdalena,Odontología,2024-05-05,630.19
+P1745,Lucía Mendoza,0,,Jesús,Pediatría,2024-05-26,0.0
+P1746,Lucía Mendoza,36,M,Chetilla,Pediatría,2025-12-21,0.0
+P1747,Carlos Ruiz,0,M,Baños del Inca,Pediatría,2025-06-02,0.0
+P1748,Carmen Flores,0,,Los Baños,Traumatología,2024-05-22,114.06
+P1749,Diego Ramos,0,M,Los Baños,General,2023-03-19,0.0
+P1750,Luis Pérez,0,F,Los Baños,General,2024-12-05,0.0
+P1751,Carlos Ruiz,0,,Encañada,Medicina General,2023-01-03,519.6
+P1752,María García,64,,Magdalena,Pediatría,2024-05-02,455.08
+P1753,Ana Torres,0,F,Jesús,Pediatría,2025-02-28,86.76
+P1754,Andrea Soto,0,M,Encañada,Pediatría,2025-07-19,0.0
+P1755,Diego Ramos,0,M,Matara,General,2024-12-04,665.89
+P1756,Diego Ramos,0,F,Baños del Inca,Medicina General,2024-09-16,128.06
+P1757,Luis Pérez,81,M,Baños del Inca,Traumatología,2023-08-25,0.0
+P1758,María García,0,F,Encañada,General,2024-12-17,451.18
+P1759,Ana Torres,87,M,Los Baños,Medicina General,2023-04-04,0.0
+P1760,Diego Ramos,0,,Chetilla,Traumatología,2023-06-05,0.0
+P1761,Ana Torres,0,M,Encañada,Medicina General,2024-06-22,0.0
+P1762,Diego Ramos,0,,Magdalena,Odontología,2024-07-28,0.0
+P1763,Andrea Soto,0,F,Los Baños,Pediatría,2025-03-17,0.0
+P1764,Jorge Díaz,89,M,Jesús,Odontología,2025-11-13,0.0
+P1765,Carmen Flores,0,M,Matara,Pediatría,2025-12-12,0.0
+P1766,María García,70,M,Jesús,Traumatología,2024-07-07,0.0
+P1767,Luis Pérez,0,F,Cajamarca,General,2025-03-18,0.0
+P1768,Pedro León,72,M,Cajamarca,Traumatología,2025-12-02,0.0
+P1769,Pedro León,0,,Cajamarca,Traumatología,2023-11-10,0.0
+P1770,Diego Ramos,20,,Encañada,General,2023-10-02,0.0
+P1771,Lucía Mendoza,29,M,Baños del Inca,Traumatología,2025-09-17,108.22
+P1772,Carlos Ruiz,0,F,Chetilla,Traumatología,2025-03-02,0.0
+P1773,Lucía Mendoza,0,F,Matara,Pediatría,2023-03-12,0.0
+P1774,Carmen Flores,0,F,Los Baños,Traumatología,2023-06-10,0.0
+P1775,Andrea Soto,82,F,Matara,Pediatría,2023-02-02,428.09
+P1776,Jorge Díaz,0,,Los Baños,Traumatología,2023-01-24,0.0
+P1777,Jorge Díaz,90,,Magdalena,Traumatología,2024-12-21,0.0
+P1778,Carlos Ruiz,0,,Cajamarca,Ginecología,2024-07-25,0.0
+P1779,Jorge Díaz,76,M,Chetilla,Traumatología,2025-04-20,0.0
+P1780,Lucía Mendoza,65,M,Desconocido,Ginecología,2023-09-22,428.6
+P1781,Carlos Ruiz,0,M,Jesús,Medicina General,2025-01-22,0.0
+P1782,Diego Ramos,0,,Los Baños,Odontología,2023-01-30,0.0
+P1783,Diego Ramos,0,M,Chetilla,Ginecología,2025-06-10,135.19
+P1784,Andrea Soto,50,F,Cajamarca,Pediatría,2023-01-28,678.24
+P1785,María García,0,F,Los Baños,Odontología,2024-07-01,94.39
+P1786,Carlos Ruiz,0,,Desconocido,Traumatología,2023-11-30,0.0
+P1787,Andrea Soto,0,F,Jesús,Ginecología,2025-04-10,187.69
+P1788,Lucía Mendoza,0,M,Jesús,General,2023-05-25,0.0
+P1789,Pedro León,0,,Jesús,Medicina General,2023-05-14,339.47
+P1790,Ana Torres,0,M,Baños del Inca,Traumatología,2024-09-03,0.0
+P1791,Diego Ramos,0,,Desconocido,General,2025-07-06,0.0
+P1792,Carlos Ruiz,0,,Chetilla,Pediatría,2025-12-29,652.25
+P1793,Jorge Díaz,0,,Jesús,Ginecología,2025-08-18,0.0
+P1794,Ana Torres,0,M,Chetilla,General,2025-03-02,0.0
+P1795,Diego Ramos,73,F,Desconocido,Medicina General,2025-11-16,366.36
+P1796,Ana Torres,0,F,Matara,General,2024-08-13,0.0
+P1797,Lucía Mendoza,68,M,Cajamarca,Ginecología,2023-08-16,0.0
+P1798,Diego Ramos,0,M,Magdalena,Medicina General,2024-10-30,56.46
+P1799,Diego Ramos,0,F,Desconocido,Pediatría,2025-07-09,0.0
+P1800,Jorge Díaz,0,M,Los Baños,Pediatría,2023-04-21,0.0
+P1801,Ana Torres,0,,Jesús,Medicina General,2025-11-09,245.68
+P1802,María García,0,,Magdalena,Pediatría,2025-07-31,0.0
+P1803,Carmen Flores,72,M,Matara,Ginecología,2024-06-18,0.0
+P1804,Jorge Díaz,0,F,Desconocido,Medicina General,2025-06-22,54.21
+P1805,Andrea Soto,42,M,Encañada,General,2025-04-16,0.0
+P1806,Jorge Díaz,64,,Magdalena,Ginecología,2023-09-17,0.0
+P1807,Ana Torres,0,F,Magdalena,Odontología,2023-10-07,0.0
+P1808,Ana Torres,67,F,Cajamarca,Traumatología,2025-08-05,0.0
+P1809,Ana Torres,0,F,Cajamarca,Odontología,2024-03-21,0.0
+P1810,Ana Torres,0,,Los Baños,Odontología,2025-05-14,0.0
+P1811,Pedro León,0,F,Baños del Inca,Traumatología,2023-04-17,0.0
+P1812,Luis Pérez,0,,Matara,Medicina General,2024-09-17,0.0
+P1813,Andrea Soto,0,,Matara,Medicina General,2025-04-27,0.0
+P1814,Ana Torres,0,,Los Baños,Ginecología,2025-09-15,772.2
+P1815,Carlos Ruiz,71,F,Los Baños,Odontología,2024-07-10,0.0
+P1816,Luis Pérez,0,F,Baños del Inca,Ginecología,2025-09-18,0.0
+P1817,Diego Ramos,0,,Cajamarca,Pediatría,2025-06-17,0.0
+P1818,Diego Ramos,76,M,Baños del Inca,Medicina General,2025-02-04,0.0
+P1819,Carmen Flores,87,M,Chetilla,Odontología,2024-05-10,0.0
+P1820,María García,0,,Chetilla,Pediatría,2023-12-27,0.0
+P1821,Carmen Flores,72,,Matara,Pediatría,2025-02-22,0.0
+P1822,Diego Ramos,0,F,Matara,Pediatría,2025-06-04,0.0
+P1823,Ana Torres,0,M,Desconocido,Ginecología,2025-06-28,0.0
+P1824,Pedro León,55,M,Encañada,Odontología,2025-02-10,0.0
+P1825,Pedro León,76,M,Chetilla,Odontología,2023-11-09,0.0
+P1826,María García,23,M,Baños del Inca,Traumatología,2024-11-22,0.0
+P1827,Andrea Soto,49,,Encañada,Odontología,2024-12-04,0.0
+P1828,Luis Pérez,0,,Los Baños,General,2024-10-13,100.13
+P1829,Jorge Díaz,77,,Jesús,Pediatría,2023-07-31,0.0
+P1830,Ana Torres,0,M,Baños del Inca,General,2025-07-10,0.0
+P1831,Andrea Soto,0,,Matara,Medicina General,2023-03-23,0.0
+P1832,Jorge Díaz,0,F,Matara,Medicina General,2025-06-11,0.0
+P1833,Andrea Soto,55,,Los Baños,Ginecología,2025-12-21,585.73
+P1834,Andrea Soto,0,,Magdalena,Ginecología,2024-08-11,0.0
+P1835,Pedro León,0,,Magdalena,General,2024-08-30,0.0
+P1836,Diego Ramos,45,F,Matara,Odontología,2025-09-13,0.0
+P1837,Andrea Soto,0,F,Chetilla,Pediatría,2025-04-16,0.0
+P1838,Luis Pérez,0,,Encañada,Medicina General,2025-09-24,0.0
+P1839,Carmen Flores,0,F,Magdalena,Ginecología,2025-08-11,0.0
+P1840,Luis Pérez,24,M,Matara,Odontología,2024-02-17,0.0
+P1841,Luis Pérez,0,F,Cajamarca,Traumatología,2025-12-30,258.33
+P1842,María García,83,,Matara,Pediatría,2025-09-08,385.16
+P1843,Pedro León,0,M,Desconocido,Odontología,2024-12-11,0.0
+P1844,Jorge Díaz,0,,Matara,Ginecología,2023-05-03,0.0
+P1845,Carlos Ruiz,41,,Magdalena,Pediatría,2024-06-09,0.0
+P1846,Andrea Soto,61,M,Chetilla,General,2025-01-20,235.28
+P1847,Ana Torres,0,,Cajamarca,Traumatología,2024-12-01,0.0
+P1848,Lucía Mendoza,10,M,Desconocido,Ginecología,2023-06-30,0.0
+P1849,Pedro León,0,M,Matara,Pediatría,2024-06-07,96.14
+P1850,María García,0,F,Encañada,Odontología,2024-06-27,0.0
+P1851,Jorge Díaz,70,M,Baños del Inca,Ginecología,2024-11-29,300.52
+P1852,Ana Torres,71,,Magdalena,Ginecología,2023-02-08,0.0
+P1853,María García,0,M,Magdalena,Odontología,2023-10-31,0.0
+P1854,Ana Torres,77,M,Los Baños,General,2025-11-29,200.17
+P1855,Carmen Flores,0,F,Chetilla,Traumatología,2023-07-19,779.96
+P1856,Pedro León,0,M,Cajamarca,Medicina General,2025-11-09,0.0
+P1857,Lucía Mendoza,0,,Desconocido,Odontología,2025-06-14,0.0
+P1858,Lucía Mendoza,0,,Baños del Inca,Pediatría,2024-08-09,0.0
+P1859,Andrea Soto,75,F,Baños del Inca,Odontología,2025-01-16,0.0
+P1860,Lucía Mendoza,54,F,Cajamarca,Medicina General,2025-02-14,560.28
+P1861,Andrea Soto,0,,Baños del Inca,Odontología,2025-09-20,0.0
+P1862,Luis Pérez,0,M,Cajamarca,Traumatología,2023-05-30,0.0
+P1863,Diego Ramos,0,M,Encañada,Medicina General,2025-10-16,0.0
+P1864,Carmen Flores,0,,Jesús,Odontología,2025-08-14,692.27
+P1865,Carlos Ruiz,46,M,Encañada,Odontología,2025-03-04,0.0
+P1866,Diego Ramos,88,,Encañada,Ginecología,2024-12-16,0.0
+P1867,Luis Pérez,0,M,Cajamarca,Odontología,2024-05-11,0.0
+P1868,Pedro León,60,M,Los Baños,Ginecología,2025-07-10,0.0
+P1869,Luis Pérez,35,,Baños del Inca,Odontología,2025-07-01,666.54
+P1870,Andrea Soto,26,F,Matara,General,2024-05-07,155.83
+P1871,Pedro León,0,F,Desconocido,Traumatología,2024-02-03,446.43
+P1872,María García,0,M,Chetilla,Ginecología,2023-10-24,613.53
+P1873,María García,30,,Los Baños,Medicina General,2024-05-16,0.0
+P1874,Jorge Díaz,7,M,Los Baños,Pediatría,2025-02-27,0.0
+P1875,Carlos Ruiz,28,,Los Baños,General,2024-06-12,0.0
+P1876,Lucía Mendoza,0,,Encañada,Odontología,2024-12-07,0.0
+P1877,Andrea Soto,0,M,Encañada,Odontología,2024-09-04,0.0
+P1878,Pedro León,0,,Los Baños,General,2023-01-03,0.0
+P1879,María García,0,,Chetilla,Medicina General,2023-02-09,0.0
+P1880,Pedro León,0,F,Magdalena,Traumatología,2023-03-05,0.0
+P1881,Carlos Ruiz,0,,Jesús,Odontología,2024-08-12,0.0
+P1882,Lucía Mendoza,0,,Magdalena,Medicina General,2023-09-29,0.0
+P1883,Pedro León,0,M,Matara,Medicina General,2023-06-09,0.0
+P1884,Pedro León,60,M,Los Baños,Odontología,2023-04-09,0.0
+P1885,Jorge Díaz,0,,Desconocido,Traumatología,2025-02-04,0.0
+P1886,María García,0,M,Matara,Ginecología,2025-10-10,0.0
+P1887,Pedro León,0,,Baños del Inca,Traumatología,2023-03-18,0.0
+P1888,Diego Ramos,71,M,Encañada,General,2025-03-18,0.0
+P1889,Pedro León,0,,Baños del Inca,Ginecología,2024-12-01,0.0
+P1890,Pedro León,0,,Desconocido,Odontología,2024-03-21,0.0
+P1891,Lucía Mendoza,0,F,Cajamarca,Medicina General,2024-06-01,0.0
+P1892,Carmen Flores,56,M,Baños del Inca,General,2024-02-23,0.0
+P1893,Ana Torres,36,,Jesús,Medicina General,2025-10-30,0.0
+P1894,Andrea Soto,21,,Los Baños,Pediatría,2023-02-16,0.0
+P1895,Carlos Ruiz,0,F,Desconocido,Medicina General,2025-07-04,0.0
+P1896,Luis Pérez,73,M,Cajamarca,General,2025-11-09,184.72
+P1897,Carmen Flores,7,F,Cajamarca,Pediatría,2025-10-11,0.0
+P1898,Lucía Mendoza,0,,Desconocido,Odontología,2024-01-11,0.0
+P1899,Ana Torres,53,,Desconocido,Medicina General,2023-06-25,0.0
+P1900,Andrea Soto,72,F,Matara,General,2025-01-13,0.0
+P1901,Andrea Soto,0,F,Matara,Ginecología,2023-02-15,0.0
+P1902,Andrea Soto,16,F,Desconocido,Traumatología,2023-12-22,378.77
+P1903,Luis Pérez,0,M,Magdalena,Medicina General,2023-07-04,686.6
+P1904,María García,0,F,Chetilla,General,2025-10-28,0.0
+P1905,Ana Torres,0,M,Magdalena,Medicina General,2023-08-17,0.0
+P1906,Pedro León,0,,Baños del Inca,Odontología,2025-03-18,0.0
+P1907,Carmen Flores,0,,Chetilla,Medicina General,2025-09-07,318.44
+P1908,Pedro León,0,F,Encañada,Pediatría,2023-04-22,0.0
+P1909,Jorge Díaz,51,M,Magdalena,Odontología,2025-06-09,657.49
+P1910,Luis Pérez,0,F,Chetilla,Ginecología,2023-05-16,449.88
+P1911,Luis Pérez,0,M,Jesús,Ginecología,2024-03-01,0.0
+P1912,Luis Pérez,48,M,Los Baños,Odontología,2024-07-14,0.0
+P1913,Luis Pérez,0,F,Cajamarca,General,2023-01-15,0.0
+P1914,Pedro León,0,F,Magdalena,Medicina General,2023-05-21,0.0
+P1915,Carmen Flores,50,F,Baños del Inca,Ginecología,2023-04-06,496.02
+P1916,Jorge Díaz,0,F,Desconocido,Ginecología,2024-03-12,0.0
+P1917,Lucía Mendoza,16,F,Desconocido,Odontología,2025-10-31,681.3
+P1918,Lucía Mendoza,0,,Encañada,Pediatría,2024-12-04,0.0
+P1919,Carlos Ruiz,64,,Magdalena,Medicina General,2025-03-12,0.0
+P1920,Jorge Díaz,0,,Encañada,General,2025-09-15,0.0
+P1921,Carlos Ruiz,0,,Cajamarca,Ginecología,2023-01-22,0.0
+P1922,Carlos Ruiz,0,,Chetilla,General,2023-02-08,0.0
+P1923,Andrea Soto,43,M,Cajamarca,General,2025-11-04,0.0
+P1924,Luis Pérez,0,M,Baños del Inca,General,2023-06-10,257.34
+P1925,Pedro León,0,,Baños del Inca,Ginecología,2025-06-24,0.0
+P1926,Pedro León,0,,Cajamarca,General,2025-03-05,0.0
+P1927,Pedro León,0,,Jesús,Traumatología,2025-10-21,0.0
+P1928,Luis Pérez,0,F,Chetilla,General,2023-12-10,0.0
+P1929,María García,6,F,Cajamarca,Odontología,2025-05-20,0.0
+P1930,Luis Pérez,0,M,Baños del Inca,Odontología,2024-08-02,0.0
+P1931,María García,0,M,Chetilla,Traumatología,2025-11-26,459.81
+P1932,María García,29,,Magdalena,Odontología,2025-07-12,0.0
+P1933,Carmen Flores,0,,Los Baños,Medicina General,2024-11-25,0.0
+P1934,María García,87,M,Magdalena,General,2024-09-01,0.0
+P1935,Pedro León,0,,Los Baños,Odontología,2023-04-11,450.72
+P1936,Ana Torres,0,,Encañada,Traumatología,2024-02-03,0.0
+P1937,Ana Torres,13,,Magdalena,Pediatría,2023-04-01,605.87
+P1938,Carlos Ruiz,0,F,Chetilla,Pediatría,2025-05-23,374.89
+P1939,Lucía Mendoza,0,M,Chetilla,Odontología,2023-12-06,0.0
+P1940,Diego Ramos,0,M,Baños del Inca,Odontología,2023-07-12,177.59
+P1941,Andrea Soto,0,,Jesús,Ginecología,2023-03-14,676.53
+P1942,Lucía Mendoza,0,,Baños del Inca,Odontología,2023-08-28,0.0
+P1943,Carmen Flores,82,,Chetilla,Odontología,2023-05-22,708.0
+P1944,Carlos Ruiz,0,F,Magdalena,Traumatología,2025-05-16,760.22
+P1945,Diego Ramos,0,F,Baños del Inca,Odontología,2025-09-24,0.0
+P1946,Andrea Soto,0,M,Chetilla,Ginecología,2025-03-24,407.98
+P1947,Jorge Díaz,53,F,Jesús,Odontología,2023-07-16,0.0
+P1948,Jorge Díaz,89,,Chetilla,Ginecología,2024-08-09,0.0
+P1949,Diego Ramos,18,F,Jesús,Traumatología,2023-04-03,0.0
+P1950,Carlos Ruiz,0,F,Los Baños,Pediatría,2025-04-30,0.0
+P1951,María García,0,,Matara,Traumatología,2024-04-18,490.89
+P1952,Carmen Flores,12,,Jesús,Traumatología,2024-07-12,0.0
+P1953,Carmen Flores,60,,Baños del Inca,Ginecología,2025-07-17,593.41
+P1954,Jorge Díaz,0,,Chetilla,Odontología,2023-05-17,0.0
+P1955,Luis Pérez,88,M,Matara,Traumatología,2024-02-02,130.46
+P1956,Luis Pérez,0,M,Chetilla,Odontología,2025-05-19,640.83
+P1957,Andrea Soto,0,M,Cajamarca,Pediatría,2023-12-06,317.66
+P1958,María García,0,,Cajamarca,Ginecología,2025-10-16,0.0
+P1959,Jorge Díaz,0,,Matara,Ginecología,2023-10-31,118.07
+P1960,Luis Pérez,24,,Cajamarca,Pediatría,2024-10-22,0.0
+P1961,María García,0,F,Cajamarca,Pediatría,2024-02-23,0.0
+P1962,Lucía Mendoza,0,M,Los Baños,General,2023-10-28,567.28
+P1963,Carmen Flores,51,F,Magdalena,Medicina General,2023-09-12,0.0
+P1964,Carmen Flores,0,,Encañada,Traumatología,2025-08-27,118.68
+P1965,Jorge Díaz,0,,Jesús,Traumatología,2025-01-05,0.0
+P1966,Lucía Mendoza,0,M,Encañada,General,2023-02-27,0.0
+P1967,Andrea Soto,34,M,Los Baños,Traumatología,2025-04-29,0.0
+P1968,Jorge Díaz,0,F,Magdalena,Traumatología,2024-07-16,620.61
+P1969,Luis Pérez,31,F,Magdalena,Pediatría,2024-07-11,624.4
+P1970,Carlos Ruiz,0,,Jesús,Pediatría,2024-03-30,180.22
+P1971,María García,81,F,Desconocido,Medicina General,2024-08-15,0.0
+P1972,María García,24,M,Matara,General,2024-07-08,0.0
+P1973,Andrea Soto,88,F,Encañada,Odontología,2023-05-24,0.0
+P1974,Andrea Soto,0,,Chetilla,Pediatría,2024-08-25,0.0
+P1975,Carlos Ruiz,0,F,Jesús,Medicina General,2025-03-08,268.24
+P1976,Carlos Ruiz,0,,Cajamarca,Ginecología,2025-08-13,0.0
+P1977,Carmen Flores,57,M,Desconocido,Traumatología,2025-03-19,0.0
+P1978,Carmen Flores,0,,Jesús,Traumatología,2024-07-14,0.0
+P1979,María García,44,,Encañada,Pediatría,2023-03-12,0.0
+P1980,Carlos Ruiz,0,F,Baños del Inca,General,2023-05-09,0.0
+P1981,Jorge Díaz,0,M,Encañada,General,2024-01-03,295.1
+P1982,Pedro León,73,F,Chetilla,Odontología,2025-08-03,655.84
+P1983,Diego Ramos,26,,Chetilla,Pediatría,2025-10-01,463.09
+P1984,Luis Pérez,0,F,Los Baños,Traumatología,2023-04-03,306.62
+P1985,Pedro León,0,F,Jesús,Ginecología,2024-01-06,536.44
+P1986,Diego Ramos,0,M,Chetilla,Pediatría,2025-08-04,337.44
+P1987,Jorge Díaz,45,,Cajamarca,Medicina General,2024-01-21,259.22
+P1988,Diego Ramos,48,,Encañada,Pediatría,2023-06-22,0.0
+P1989,Diego Ramos,8,M,Desconocido,Ginecología,2024-12-30,0.0
+P1990,Jorge Díaz,0,M,Matara,Traumatología,2025-08-29,475.67
+P1991,Andrea Soto,0,,Encañada,Pediatría,2023-02-08,199.95
+P1992,Jorge Díaz,27,M,Matara,Pediatría,2025-07-04,280.58
+P1993,Diego Ramos,0,,Los Baños,Ginecología,2023-12-14,0.0
+P1994,Carlos Ruiz,7,F,Desconocido,Odontología,2025-12-13,586.94
+P1995,Ana Torres,4,M,Desconocido,Medicina General,2024-11-23,0.0
+P1996,Ana Torres,0,M,Los Baños,Medicina General,2024-09-30,517.18
+P1997,María García,0,M,Jesús,General,2025-09-29,770.62
+P1998,Lucía Mendoza,19,,Matara,General,2023-07-21,0.0
+P1999,María García,11,,Baños del Inca,Odontología,2024-01-30,0.0
+P2000,Pedro León,0,F,Cajamarca,Ginecología,2025-01-22,0.0
+P2001,Carlos Ruiz,0,,Baños del Inca,Traumatología,2024-03-17,164.46
+P2002,María García,0,M,Chetilla,Medicina General,2023-09-27,0.0
+P2003,Andrea Soto,0,M,Matara,Ginecología,2025-11-02,249.88
+P2004,Carmen Flores,62,,Cajamarca,Medicina General,2024-12-11,0.0
+P2005,Carlos Ruiz,0,F,Chetilla,Ginecología,2023-09-04,0.0
+P2006,Ana Torres,0,,Magdalena,Odontología,2024-07-29,0.0
+P2007,María García,0,F,Matara,General,2025-04-04,568.85
+P2008,Carmen Flores,0,M,Los Baños,Ginecología,2024-09-26,0.0
+P2009,Ana Torres,0,,Cajamarca,Medicina General,2024-07-19,0.0
+P2010,Ana Torres,0,,Encañada,Medicina General,2023-08-07,0.0
+P2011,Carmen Flores,53,F,Cajamarca,Medicina General,2025-08-03,117.03
+P2012,Luis Pérez,0,,Cajamarca,Traumatología,2024-01-05,785.75
+P2013,Andrea Soto,0,,Chetilla,Traumatología,2024-05-09,0.0
+P2014,Diego Ramos,0,M,Encañada,Ginecología,2025-08-22,149.23
+P2015,Pedro León,0,M,Cajamarca,General,2025-12-19,688.78
+P2016,Pedro León,0,F,Encañada,Pediatría,2024-01-26,0.0
+P2017,Andrea Soto,0,,Matara,Traumatología,2023-02-03,0.0
+P2018,Diego Ramos,0,F,Cajamarca,Odontología,2025-07-04,0.0
+P2019,Luis Pérez,0,,Chetilla,Odontología,2023-10-01,438.62
+P2020,Diego Ramos,0,,Matara,Odontología,2024-12-22,0.0
+P2021,María García,0,F,Jesús,Ginecología,2023-06-18,395.48
+P2022,Andrea Soto,0,,Los Baños,Pediatría,2024-02-01,0.0
+P2023,Diego Ramos,0,F,Chetilla,General,2024-01-11,0.0
+P2024,Pedro León,37,,Chetilla,Odontología,2023-09-14,0.0
+P2025,Pedro León,0,F,Jesús,General,2023-08-12,0.0
+P2026,Luis Pérez,0,F,Encañada,Traumatología,2024-06-24,0.0
+P2027,Ana Torres,67,,Jesús,General,2023-07-13,0.0
+P2028,Pedro León,0,M,Los Baños,Pediatría,2023-07-20,0.0
+P2029,Carmen Flores,0,M,Jesús,Pediatría,2024-03-12,0.0
+P2030,Diego Ramos,0,F,Jesús,Pediatría,2023-07-16,0.0
+P2031,Diego Ramos,0,,Chetilla,Traumatología,2023-10-14,259.2
+P2032,Diego Ramos,67,M,Matara,Ginecología,2025-07-10,0.0
+P2033,Ana Torres,6,F,Cajamarca,Ginecología,2024-08-29,0.0
+P2034,Jorge Díaz,38,F,Chetilla,Odontología,2023-10-15,0.0
+P2035,Ana Torres,0,M,Jesús,General,2025-02-14,0.0
+P2036,María García,22,F,Baños del Inca,General,2024-12-09,0.0
+P2037,Jorge Díaz,15,M,Los Baños,Odontología,2023-03-05,0.0
+P2038,Ana Torres,0,,Jesús,Pediatría,2023-08-05,0.0
+P2039,Diego Ramos,0,F,Cajamarca,Odontología,2025-09-03,0.0
+P2040,María García,68,M,Chetilla,Odontología,2023-07-22,0.0
+P2041,Pedro León,0,F,Chetilla,Medicina General,2025-11-30,385.47
+P2042,Andrea Soto,0,M,Magdalena,Medicina General,2024-11-27,0.0
+P2043,Carmen Flores,0,,Encañada,Odontología,2024-08-04,0.0
+P2044,Pedro León,40,M,Los Baños,Traumatología,2024-06-01,0.0
+P2045,Jorge Díaz,0,M,Cajamarca,Odontología,2024-03-02,67.58
+P2046,Lucía Mendoza,0,,Matara,General,2025-09-15,577.44
+P2047,María García,0,F,Magdalena,Medicina General,2024-02-26,0.0
+P2048,Andrea Soto,71,,Encañada,Ginecología,2025-07-10,778.75
+P2049,Carmen Flores,0,F,Desconocido,Pediatría,2023-04-16,0.0
+P2050,María García,0,F,Encañada,Odontología,2023-07-18,0.0
+P2051,Carmen Flores,0,M,Matara,Ginecología,2023-09-14,295.7
+P2052,Jorge Díaz,0,M,Encañada,Medicina General,2024-02-14,77.58
+P2053,Pedro León,15,M,Magdalena,Ginecología,2023-02-03,0.0
+P2054,Ana Torres,0,M,Jesús,Pediatría,2025-06-02,0.0
+P2055,Lucía Mendoza,0,M,Baños del Inca,Ginecología,2023-11-26,0.0
+P2056,Carmen Flores,0,M,Chetilla,Medicina General,2023-04-07,0.0
+P2057,Jorge Díaz,0,,Chetilla,Ginecología,2023-08-31,0.0
+P2058,Luis Pérez,5,F,Desconocido,Traumatología,2024-05-19,127.71
+P2059,Andrea Soto,0,M,Baños del Inca,Traumatología,2024-10-21,0.0
+P2060,Pedro León,0,,Desconocido,General,2024-12-09,0.0
+P2061,María García,0,M,Cajamarca,Ginecología,2023-11-07,0.0
+P2062,Andrea Soto,80,M,Chetilla,Medicina General,2024-11-29,0.0
+P2063,Jorge Díaz,0,,Jesús,Traumatología,2023-01-16,0.0
+P2064,Carlos Ruiz,0,F,Desconocido,Ginecología,2024-02-01,310.51
+P2065,Pedro León,23,F,Cajamarca,Traumatología,2023-05-20,301.4
+P2066,Ana Torres,71,,Encañada,Traumatología,2025-07-27,153.81
+P2067,María García,0,,Chetilla,Pediatría,2024-04-28,0.0
+P2068,Lucía Mendoza,0,,Desconocido,General,2024-12-22,0.0
+P2069,Andrea Soto,0,M,Encañada,Pediatría,2024-04-10,0.0
+P2070,Carlos Ruiz,0,F,Cajamarca,Odontología,2023-08-13,351.14
+P2071,María García,85,M,Magdalena,Odontología,2024-03-15,632.33
+P2072,Lucía Mendoza,0,F,Desconocido,Odontología,2025-10-12,644.83
+P2073,María García,0,F,Chetilla,Ginecología,2025-05-12,0.0
+P2074,Pedro León,54,F,Jesús,Odontología,2025-11-03,711.66
+P2075,Carlos Ruiz,0,,Los Baños,Medicina General,2023-05-12,0.0
+P2076,Jorge Díaz,0,,Matara,Traumatología,2024-06-02,715.44
+P2077,Ana Torres,31,,Magdalena,Odontología,2023-01-08,0.0
+P2078,Carlos Ruiz,14,F,Los Baños,Medicina General,2025-12-20,667.97
+P2079,Diego Ramos,0,F,Encañada,Pediatría,2024-10-14,0.0
+P2080,Andrea Soto,0,,Baños del Inca,Ginecología,2024-07-03,0.0
+P2081,María García,0,F,Chetilla,General,2025-04-12,722.98
+P2082,Pedro León,0,M,Cajamarca,Odontología,2023-08-30,676.46
+P2083,Carmen Flores,0,F,Los Baños,Traumatología,2023-11-30,0.0
+P2084,Pedro León,0,F,Jesús,Ginecología,2024-05-01,56.84
+P2085,Lucía Mendoza,0,M,Desconocido,Ginecología,2025-01-05,427.06
+P2086,María García,0,F,Desconocido,Medicina General,2025-11-02,0.0
+P2087,María García,0,M,Matara,Pediatría,2024-04-22,0.0
+P2088,Diego Ramos,0,M,Matara,Traumatología,2023-07-19,0.0
+P2089,Diego Ramos,0,M,Jesús,Traumatología,2024-07-05,566.97
+P2090,María García,0,F,Chetilla,Odontología,2025-07-24,0.0
+P2091,Luis Pérez,0,M,Magdalena,General,2024-04-15,0.0
+P2092,Lucía Mendoza,0,F,Matara,General,2024-08-02,0.0
+P2093,Jorge Díaz,36,F,Baños del Inca,Pediatría,2025-11-20,554.42
+P2094,Carlos Ruiz,0,F,Matara,Traumatología,2023-04-28,0.0
+P2095,Lucía Mendoza,0,F,Cajamarca,Odontología,2024-03-05,0.0
+P2096,Lucía Mendoza,78,M,Baños del Inca,Traumatología,2023-03-16,549.65
+P2097,Andrea Soto,26,M,Desconocido,Odontología,2023-10-20,277.76
+P2098,María García,0,M,Encañada,General,2023-06-01,0.0
+P2099,Ana Torres,0,,Los Baños,General,2025-09-14,355.88
+P2100,Carlos Ruiz,64,,Encañada,General,2024-03-18,237.81
+P2101,María García,0,F,Magdalena,Pediatría,2025-04-12,0.0
+P2102,Diego Ramos,0,F,Los Baños,Ginecología,2023-01-17,0.0
+P2103,Luis Pérez,7,,Desconocido,Pediatría,2023-07-06,0.0
+P2104,Diego Ramos,32,F,Encañada,Medicina General,2024-09-07,0.0
+P2105,María García,0,F,Baños del Inca,Traumatología,2024-06-20,747.82
+P2106,Pedro León,21,,Cajamarca,Pediatría,2023-06-14,586.99
+P2107,Lucía Mendoza,0,F,Matara,Pediatría,2025-06-23,208.17
+P2108,María García,84,F,Cajamarca,Odontología,2025-01-18,688.49
+P2109,Jorge Díaz,0,M,Los Baños,Ginecología,2023-08-04,0.0
+P2110,Lucía Mendoza,73,M,Cajamarca,Odontología,2024-12-22,0.0
+P2111,Diego Ramos,0,F,Chetilla,Medicina General,2024-12-24,0.0
+P2112,Pedro León,74,F,Encañada,General,2024-11-27,639.66
+P2113,Pedro León,0,M,Chetilla,Medicina General,2024-03-24,398.77
+P2114,Ana Torres,0,F,Encañada,Ginecología,2025-06-12,0.0
+P2115,Jorge Díaz,0,F,Los Baños,Odontología,2023-11-02,0.0
+P2116,Diego Ramos,0,M,Magdalena,Ginecología,2024-10-04,0.0
+P2117,Lucía Mendoza,0,,Baños del Inca,Odontología,2024-01-21,0.0
+P2118,María García,37,,Chetilla,Ginecología,2024-05-16,0.0
+P2119,María García,66,,Encañada,Pediatría,2024-07-17,0.0
+P2120,Carlos Ruiz,0,,Desconocido,General,2024-03-25,259.74
+P2121,Pedro León,0,F,Chetilla,General,2025-12-04,78.84
+P2122,Luis Pérez,0,,Jesús,Pediatría,2025-06-25,62.82
+P2123,Pedro León,0,F,Baños del Inca,General,2024-01-01,0.0
+P2124,Diego Ramos,51,F,Magdalena,Pediatría,2024-12-05,0.0
+P2125,María García,0,M,Cajamarca,Ginecología,2024-01-09,405.49
+P2126,Carlos Ruiz,0,M,Los Baños,Ginecología,2024-04-11,0.0
+P2127,Pedro León,0,M,Desconocido,Ginecología,2025-03-24,0.0
+P2128,María García,0,M,Desconocido,Odontología,2023-03-22,0.0
+P2129,Luis Pérez,0,,Los Baños,General,2024-06-30,0.0
+P2130,Pedro León,0,F,Matara,Traumatología,2024-08-25,0.0
+P2131,Andrea Soto,0,F,Los Baños,General,2025-10-26,155.89
+P2132,Ana Torres,87,M,Encañada,Traumatología,2024-07-26,86.79
+P2133,Diego Ramos,0,,Baños del Inca,Pediatría,2023-01-10,141.57
+P2134,Carmen Flores,0,F,Cajamarca,Ginecología,2025-08-11,0.0
+P2135,Jorge Díaz,0,F,Los Baños,Ginecología,2024-06-18,469.97
+P2136,Luis Pérez,80,,Chetilla,Traumatología,2025-04-17,610.16
+P2137,Ana Torres,0,M,Magdalena,Medicina General,2023-10-10,0.0
+P2138,Pedro León,0,F,Desconocido,Ginecología,2023-04-02,0.0
+P2139,Jorge Díaz,17,M,Baños del Inca,Odontología,2024-07-26,262.46
+P2140,Pedro León,0,,Cajamarca,Ginecología,2024-06-29,0.0
+P2141,Carlos Ruiz,75,,Matara,Pediatría,2023-10-06,0.0
+P2142,Carmen Flores,0,F,Encañada,Odontología,2025-09-28,0.0
+P2143,Lucía Mendoza,0,,Cajamarca,Pediatría,2023-09-18,0.0
+P2144,Jorge Díaz,12,M,Chetilla,Traumatología,2023-04-20,0.0
+P2145,María García,3,M,Encañada,Pediatría,2023-12-18,123.88
+P2146,Andrea Soto,0,M,Baños del Inca,General,2023-12-18,736.34
+P2147,Luis Pérez,41,,Chetilla,General,2025-12-08,0.0
+P2148,Luis Pérez,2,M,Magdalena,General,2025-07-14,459.11
+P2149,Carlos Ruiz,0,M,Cajamarca,Ginecología,2023-12-23,0.0
+P2150,Carlos Ruiz,0,,Magdalena,Ginecología,2025-03-06,0.0
+P2151,Lucía Mendoza,0,,Los Baños,Medicina General,2024-05-20,0.0
+P2152,María García,54,M,Matara,Medicina General,2024-04-10,0.0
+P2153,Lucía Mendoza,0,,Baños del Inca,Medicina General,2025-03-07,0.0
+P2154,Ana Torres,0,M,Cajamarca,Medicina General,2023-11-25,0.0
+P2155,Andrea Soto,50,F,Encañada,Medicina General,2024-08-03,0.0
+P2156,Diego Ramos,0,,Cajamarca,General,2025-01-13,666.29
+P2157,Pedro León,47,,Jesús,Traumatología,2024-03-15,772.03
+P2158,Lucía Mendoza,86,M,Encañada,General,2025-04-20,0.0
+P2159,Jorge Díaz,0,F,Desconocido,General,2025-05-13,264.3
+P2160,María García,0,F,Desconocido,Medicina General,2025-12-21,0.0
+P2161,Jorge Díaz,0,M,Magdalena,Pediatría,2024-05-17,639.82
+P2162,Lucía Mendoza,71,,Matara,Pediatría,2025-09-07,0.0
+P2163,María García,0,M,Chetilla,Medicina General,2024-06-09,760.39
+P2164,María García,52,M,Chetilla,Medicina General,2023-01-30,320.3
+P2165,Jorge Díaz,69,,Desconocido,Traumatología,2023-01-23,0.0
+P2166,Ana Torres,0,F,Los Baños,Ginecología,2024-10-26,0.0
+P2167,María García,77,F,Encañada,Traumatología,2023-04-09,0.0
+P2168,Jorge Díaz,36,M,Cajamarca,Medicina General,2024-03-09,0.0
+P2169,Ana Torres,0,,Desconocido,Medicina General,2024-02-29,0.0
+P2170,Carlos Ruiz,0,,Matara,Medicina General,2023-04-30,0.0
+P2171,Lucía Mendoza,40,,Chetilla,General,2024-08-27,145.67
+P2172,María García,0,F,Cajamarca,General,2025-02-26,0.0
+P2173,Luis Pérez,0,,Magdalena,Odontología,2025-09-04,0.0
+P2174,Diego Ramos,0,M,Encañada,Ginecología,2024-08-27,531.33
+P2175,María García,0,M,Encañada,Odontología,2024-06-30,325.45
+P2176,Carlos Ruiz,0,M,Baños del Inca,Medicina General,2023-06-30,0.0
+P2177,Lucía Mendoza,0,,Desconocido,Odontología,2025-10-22,0.0
+P2178,Luis Pérez,48,F,Desconocido,Odontología,2023-03-16,0.0
+P2179,Andrea Soto,0,,Magdalena,General,2025-12-23,0.0
+P2180,Ana Torres,0,F,Desconocido,Ginecología,2023-12-12,0.0
+P2181,Andrea Soto,52,,Chetilla,Ginecología,2023-05-27,0.0
+P2182,Carmen Flores,0,M,Cajamarca,Pediatría,2023-08-16,91.73
+P2183,María García,0,F,Los Baños,Medicina General,2023-05-17,109.65
+P2184,Andrea Soto,37,F,Cajamarca,Odontología,2023-08-22,0.0
+P2185,Ana Torres,0,M,Encañada,Pediatría,2024-01-14,0.0
+P2186,María García,33,M,Matara,General,2024-09-08,164.11
+P2187,Luis Pérez,0,,Chetilla,Pediatría,2024-12-14,452.79
+P2188,Luis Pérez,0,F,Los Baños,Pediatría,2024-06-10,0.0
+P2189,Jorge Díaz,0,M,Jesús,Traumatología,2025-04-11,0.0
+P2190,Andrea Soto,89,M,Encañada,Ginecología,2025-12-04,0.0
+P2191,Diego Ramos,0,F,Magdalena,Pediatría,2023-06-13,86.84
+P2192,Ana Torres,0,M,Chetilla,Ginecología,2025-10-27,269.35
+P2193,Luis Pérez,0,F,Magdalena,Traumatología,2023-01-19,415.15
+P2194,María García,66,,Magdalena,Odontología,2025-10-07,0.0
+P2195,Jorge Díaz,89,,Encañada,Odontología,2023-05-22,0.0
+P2196,Lucía Mendoza,0,,Jesús,Odontología,2023-02-25,0.0
+P2197,Carlos Ruiz,0,,Baños del Inca,Traumatología,2025-07-24,0.0
+P2198,Pedro León,0,,Jesús,Traumatología,2025-08-03,111.45
+P2199,Jorge Díaz,45,F,Chetilla,General,2023-08-30,791.45
+P2200,Carlos Ruiz,77,M,Magdalena,Traumatología,2023-01-03,0.0
+P2201,Ana Torres,0,F,Cajamarca,Pediatría,2023-05-01,0.0
+P2202,Jorge Díaz,30,M,Jesús,Traumatología,2023-01-10,0.0
+P2203,Jorge Díaz,0,M,Baños del Inca,General,2025-12-13,0.0
+P2204,María García,0,M,Jesús,Medicina General,2024-06-28,0.0
+P2205,Carlos Ruiz,18,M,Jesús,Pediatría,2024-12-26,0.0
+P2206,Andrea Soto,0,M,Magdalena,Medicina General,2025-09-26,603.34
+P2207,Luis Pérez,43,,Matara,General,2025-05-20,788.14
+P2208,Carlos Ruiz,0,M,Cajamarca,Ginecología,2025-12-18,0.0
+P2209,Carmen Flores,0,,Baños del Inca,General,2025-08-12,0.0
+P2210,Andrea Soto,13,,Los Baños,Odontología,2023-02-21,0.0
+P2211,Carmen Flores,0,,Jesús,Pediatría,2025-06-11,0.0
+P2212,María García,0,M,Desconocido,General,2025-12-05,0.0
+P2213,Jorge Díaz,67,F,Baños del Inca,Odontología,2023-04-19,0.0
+P2214,Carmen Flores,0,,Baños del Inca,Pediatría,2025-12-17,0.0
+P2215,Lucía Mendoza,36,F,Matara,Medicina General,2023-08-31,0.0
+P2216,Diego Ramos,0,F,Desconocido,Medicina General,2024-09-05,0.0
+P2217,Carlos Ruiz,0,F,Baños del Inca,Odontología,2024-06-20,320.02
+P2218,María García,0,F,Cajamarca,Ginecología,2023-05-08,0.0
+P2219,María García,0,M,Matara,Medicina General,2025-01-09,783.44
+P2220,Ana Torres,0,M,Matara,Odontología,2023-07-07,162.0
+P2221,Pedro León,0,,Los Baños,Odontología,2025-07-19,146.05
+P2222,Pedro León,0,F,Los Baños,General,2025-01-04,0.0
+P2223,Carmen Flores,0,,Matara,Medicina General,2023-06-14,0.0
+P2224,Ana Torres,0,M,Jesús,General,2023-10-15,0.0
+P2225,Ana Torres,0,F,Cajamarca,Ginecología,2023-02-10,0.0
+P2226,Ana Torres,0,F,Cajamarca,Odontología,2023-09-19,104.72
+P2227,Andrea Soto,5,,Matara,General,2023-10-09,0.0
+P2228,Luis Pérez,0,M,Cajamarca,Pediatría,2025-01-02,297.44
+P2229,Ana Torres,0,,Jesús,Ginecología,2024-07-03,0.0
+P2230,Pedro León,0,F,Matara,Traumatología,2024-08-30,0.0
+P2231,María García,50,F,Desconocido,Traumatología,2023-02-09,0.0
+P2232,Carlos Ruiz,0,,Baños del Inca,Pediatría,2023-07-10,0.0
+P2233,Carlos Ruiz,0,F,Jesús,Ginecología,2024-07-25,105.35
+P2234,Carmen Flores,0,,Los Baños,Pediatría,2023-09-05,0.0
+P2235,Luis Pérez,17,F,Chetilla,Pediatría,2024-08-14,437.81
+P2236,Carmen Flores,88,F,Jesús,Pediatría,2024-05-23,307.18
+P2237,Pedro León,58,,Baños del Inca,Odontología,2024-04-20,0.0
+P2238,Lucía Mendoza,0,,Los Baños,Traumatología,2025-12-23,0.0
+P2239,Lucía Mendoza,0,,Desconocido,General,2025-04-21,0.0
+P2240,Ana Torres,38,F,Jesús,General,2023-01-12,0.0
+P2241,Luis Pérez,0,M,Jesús,Medicina General,2023-07-13,0.0
+P2242,Carlos Ruiz,0,F,Baños del Inca,Odontología,2025-02-11,117.19
+P2243,Pedro León,0,M,Los Baños,Pediatría,2025-04-11,193.33
+P2244,Pedro León,0,,Baños del Inca,Pediatría,2025-08-24,0.0
+P2245,Diego Ramos,2,M,Jesús,Pediatría,2023-09-24,0.0
+P2246,Ana Torres,27,M,Magdalena,Odontología,2024-03-10,432.65
+P2247,Jorge Díaz,0,,Matara,Medicina General,2024-11-14,0.0
+P2248,Luis Pérez,48,F,Cajamarca,General,2025-07-11,0.0
+P2249,Carmen Flores,17,,Desconocido,Odontología,2024-04-23,0.0
+P2250,Lucía Mendoza,2,M,Chetilla,Odontología,2025-07-10,0.0
+P2251,Carmen Flores,0,M,Jesús,Medicina General,2024-08-11,0.0
+P2252,Andrea Soto,74,M,Encañada,Pediatría,2023-08-12,399.04
+P2253,Carlos Ruiz,0,F,Desconocido,Pediatría,2025-10-30,0.0
+P2254,Carmen Flores,0,,Jesús,Traumatología,2024-09-19,0.0
+P2255,Andrea Soto,0,F,Matara,Pediatría,2023-03-25,0.0
+P2256,Jorge Díaz,0,M,Jesús,Pediatría,2023-11-06,474.15
+P2257,Diego Ramos,0,,Magdalena,Pediatría,2025-01-16,0.0
+P2258,Luis Pérez,0,F,Encañada,Ginecología,2024-03-29,0.0
+P2259,Andrea Soto,22,,Los Baños,Pediatría,2025-08-09,131.27
+P2260,Pedro León,89,M,Magdalena,Traumatología,2023-07-31,68.5
+P2261,Ana Torres,0,F,Chetilla,Ginecología,2023-09-09,0.0
+P2262,Carmen Flores,48,,Cajamarca,Medicina General,2024-09-30,0.0
+P2263,Carlos Ruiz,0,F,Magdalena,Ginecología,2025-01-31,596.91
+P2264,Lucía Mendoza,0,F,Cajamarca,Medicina General,2025-04-04,0.0
+P2265,Andrea Soto,0,F,Chetilla,Traumatología,2025-04-25,680.07
+P2266,Pedro León,0,F,Desconocido,Odontología,2025-06-08,0.0
+P2267,Luis Pérez,10,,Los Baños,Medicina General,2024-05-17,0.0
+P2268,Pedro León,0,M,Magdalena,Medicina General,2023-09-19,0.0
+P2269,Carlos Ruiz,0,F,Magdalena,Pediatría,2024-01-01,0.0
+P2270,Pedro León,0,,Los Baños,Pediatría,2023-12-05,0.0
+P2271,Lucía Mendoza,12,,Desconocido,Pediatría,2024-04-25,437.15
+P2272,Jorge Díaz,0,,Los Baños,Traumatología,2024-04-15,0.0
+P2273,Andrea Soto,0,M,Cajamarca,Pediatría,2025-05-06,0.0
+P2274,Pedro León,11,M,Cajamarca,Pediatría,2023-01-14,513.49
+P2275,María García,0,M,Cajamarca,Odontología,2023-06-02,0.0
+P2276,Andrea Soto,0,F,Cajamarca,Pediatría,2024-05-18,320.37
+P2277,Carmen Flores,0,M,Los Baños,Pediatría,2024-02-17,580.65
+P2278,Jorge Díaz,58,,Desconocido,Ginecología,2023-10-10,0.0
+P2279,Luis Pérez,36,,Matara,Pediatría,2025-01-21,370.85
+P2280,Andrea Soto,0,M,Magdalena,Medicina General,2025-06-21,0.0
+P2281,Carlos Ruiz,0,F,Chetilla,Traumatología,2025-09-27,749.78
+P2282,Pedro León,33,M,Matara,Traumatología,2025-02-19,0.0
+P2283,Ana Torres,0,M,Encañada,Odontología,2025-10-27,0.0
+P2284,Ana Torres,0,F,Encañada,Traumatología,2024-05-13,744.02
+P2285,Jorge Díaz,7,M,Baños del Inca,Odontología,2025-06-11,0.0
+P2286,Carlos Ruiz,0,M,Magdalena,Medicina General,2025-03-10,0.0
+P2287,Carmen Flores,0,M,Cajamarca,Medicina General,2024-09-09,0.0
+P2288,Ana Torres,65,,Matara,Ginecología,2023-11-28,0.0
+P2289,Carlos Ruiz,7,F,Baños del Inca,Odontología,2025-06-23,0.0
+P2290,María García,0,M,Magdalena,Odontología,2025-12-19,311.99
+P2291,Luis Pérez,0,M,Encañada,Odontología,2024-03-12,0.0
+P2292,Carlos Ruiz,7,F,Cajamarca,Ginecología,2023-09-07,63.71
+P2293,Pedro León,65,M,Matara,Odontología,2025-08-26,0.0
+P2294,Jorge Díaz,55,M,Matara,Pediatría,2024-12-09,0.0
+P2295,Lucía Mendoza,34,,Jesús,General,2025-02-15,0.0
+P2296,Jorge Díaz,75,F,Matara,General,2024-05-19,0.0
+P2297,Jorge Díaz,0,F,Matara,Odontología,2024-02-26,0.0
+P2298,Lucía Mendoza,0,M,Desconocido,Ginecología,2025-11-07,84.81
+P2299,Pedro León,0,F,Matara,Odontología,2025-08-03,0.0
+P2300,Andrea Soto,71,F,Encañada,Odontología,2024-12-29,291.35
+P2301,Andrea Soto,75,F,Cajamarca,Ginecología,2025-11-17,174.72
+P2302,María García,0,,Cajamarca,Odontología,2023-03-21,0.0
+P2303,Jorge Díaz,0,,Matara,Odontología,2023-08-09,0.0
+P2304,Lucía Mendoza,0,M,Baños del Inca,Traumatología,2025-06-26,0.0
+P2305,Luis Pérez,0,,Los Baños,Ginecología,2023-09-28,306.56
+P2306,Jorge Díaz,5,,Chetilla,Odontología,2023-06-27,0.0
+P2307,María García,0,F,Encañada,Pediatría,2024-03-13,0.0
+P2308,Jorge Díaz,0,F,Matara,Odontología,2023-02-27,0.0
+P2309,Luis Pérez,46,M,Los Baños,Medicina General,2024-11-09,443.97
+P2310,Andrea Soto,0,,Magdalena,Medicina General,2024-07-10,0.0
+P2311,Luis Pérez,0,M,Baños del Inca,General,2024-05-02,0.0
+P2312,María García,0,M,Los Baños,General,2025-04-08,0.0
+P2313,Diego Ramos,75,,Magdalena,Traumatología,2025-02-14,145.19
+P2314,Lucía Mendoza,24,M,Encañada,Medicina General,2024-04-08,0.0
+P2315,Ana Torres,0,F,Encañada,Odontología,2024-02-07,220.91
+P2316,Carmen Flores,0,F,Magdalena,Ginecología,2023-03-26,0.0
+P2317,Pedro León,0,F,Matara,Traumatología,2025-01-03,0.0
+P2318,María García,0,F,Magdalena,Traumatología,2025-06-09,0.0
+P2319,Diego Ramos,0,F,Baños del Inca,Traumatología,2024-06-22,0.0
+P2320,Jorge Díaz,82,M,Desconocido,Medicina General,2025-11-26,0.0
+P2321,Carmen Flores,0,M,Magdalena,Traumatología,2023-04-10,0.0
+P2322,Jorge Díaz,0,,Cajamarca,Ginecología,2024-06-09,547.19
+P2323,María García,63,,Cajamarca,Odontología,2024-04-21,0.0
+P2324,Carmen Flores,64,M,Chetilla,Ginecología,2023-02-03,0.0
+P2325,María García,0,,Desconocido,Medicina General,2024-03-11,0.0
+P2326,Diego Ramos,0,F,Encañada,Ginecología,2025-11-23,0.0
+P2327,Carmen Flores,0,F,Cajamarca,Pediatría,2023-03-24,0.0
+P2328,Carmen Flores,50,M,Jesús,Pediatría,2023-10-30,515.17
+P2329,Lucía Mendoza,0,,Chetilla,Ginecología,2024-12-15,0.0
+P2330,Luis Pérez,0,M,Encañada,General,2024-10-07,173.19
+P2331,Carlos Ruiz,45,,Cajamarca,Pediatría,2023-02-13,0.0
+P2332,Carlos Ruiz,46,F,Jesús,Odontología,2024-11-20,0.0
+P2333,Diego Ramos,0,,Baños del Inca,Pediatría,2025-03-31,0.0
+P2334,María García,23,F,Matara,Ginecología,2024-05-26,0.0
+P2335,Diego Ramos,0,,Magdalena,Traumatología,2025-08-17,168.55
+P2336,Carlos Ruiz,0,F,Chetilla,Pediatría,2025-07-21,0.0
+P2337,Ana Torres,54,M,Matara,General,2023-03-20,314.84
+P2338,Lucía Mendoza,0,F,Baños del Inca,Ginecología,2023-07-04,0.0
+P2339,Luis Pérez,22,,Chetilla,Odontología,2023-03-11,0.0
+P2340,Luis Pérez,0,,Encañada,Ginecología,2023-01-20,261.74
+P2341,Ana Torres,0,M,Cajamarca,Ginecología,2024-09-25,0.0
+P2342,Carlos Ruiz,0,M,Cajamarca,Odontología,2023-02-28,0.0
+P2343,María García,0,F,Desconocido,Ginecología,2023-02-04,369.74
+P2344,Carmen Flores,26,M,Baños del Inca,Medicina General,2023-04-27,0.0
+P2345,Jorge Díaz,0,,Jesús,Odontología,2023-12-22,173.26
+P2346,Andrea Soto,23,M,Magdalena,Pediatría,2024-03-14,0.0
+P2347,Andrea Soto,0,M,Matara,Pediatría,2024-01-19,0.0
+P2348,Lucía Mendoza,0,,Magdalena,Ginecología,2023-10-23,580.19
+P2349,Diego Ramos,0,F,Jesús,Medicina General,2023-07-05,0.0
+P2350,María García,59,F,Magdalena,Medicina General,2025-02-23,547.19
+P2351,Jorge Díaz,0,M,Matara,Odontología,2025-10-30,0.0
+P2352,Pedro León,73,M,Baños del Inca,Odontología,2025-08-28,423.81
+P2353,Carlos Ruiz,0,,Desconocido,Traumatología,2023-09-11,302.63
+P2354,Diego Ramos,0,F,Baños del Inca,Medicina General,2023-10-28,0.0
+P2355,Pedro León,0,M,Magdalena,Pediatría,2025-11-29,486.73
+P2356,Luis Pérez,0,F,Los Baños,Traumatología,2023-03-11,332.53
+P2357,Luis Pérez,87,F,Chetilla,Pediatría,2025-12-05,0.0
+P2358,Luis Pérez,0,,Desconocido,Pediatría,2025-06-19,0.0
+P2359,Andrea Soto,0,F,Magdalena,Ginecología,2023-11-08,0.0
+P2360,Ana Torres,0,F,Chetilla,Pediatría,2024-03-16,0.0
+P2361,Pedro León,0,F,Desconocido,Odontología,2023-07-23,0.0
+P2362,Carlos Ruiz,0,,Matara,Traumatología,2025-06-14,0.0
+P2363,Carlos Ruiz,0,,Chetilla,Traumatología,2023-07-03,0.0
+P2364,Pedro León,0,M,Jesús,Pediatría,2025-11-19,0.0
+P2365,Ana Torres,0,,Baños del Inca,Odontología,2023-05-15,315.48
+P2366,Carlos Ruiz,25,,Encañada,Medicina General,2024-08-13,0.0
+P2367,Luis Pérez,0,,Matara,General,2024-08-20,0.0
+P2368,Diego Ramos,0,,Desconocido,Pediatría,2023-11-09,0.0
+P2369,Carmen Flores,0,F,Jesús,Odontología,2023-03-24,472.26
+P2370,Pedro León,0,M,Chetilla,Ginecología,2024-09-09,186.12
+P2371,Diego Ramos,0,F,Matara,Traumatología,2024-12-07,341.1
+P2372,Lucía Mendoza,0,M,Matara,Odontología,2025-02-22,0.0
+P2373,María García,18,M,Desconocido,General,2024-03-15,347.76
+P2374,Andrea Soto,0,,Encañada,Pediatría,2023-09-18,0.0
+P2375,Jorge Díaz,78,F,Cajamarca,Pediatría,2025-09-18,0.0
+P2376,Ana Torres,0,F,Cajamarca,Ginecología,2025-07-23,0.0
+P2377,Ana Torres,0,F,Desconocido,General,2024-03-08,620.83
+P2378,María García,53,M,Desconocido,Ginecología,2025-02-19,0.0
+P2379,Pedro León,83,,Encañada,General,2025-12-06,0.0
+P2380,Carmen Flores,54,,Baños del Inca,Medicina General,2024-03-22,0.0
+P2381,Andrea Soto,0,F,Jesús,Pediatría,2024-12-04,0.0
+P2382,Ana Torres,0,M,Los Baños,General,2025-07-08,0.0
+P2383,Ana Torres,0,M,Jesús,Medicina General,2024-05-02,0.0
+P2384,Diego Ramos,0,F,Cajamarca,Ginecología,2025-03-12,0.0
+P2385,María García,0,M,Chetilla,Odontología,2025-05-26,0.0
+P2386,Diego Ramos,0,,Encañada,Traumatología,2023-08-17,0.0
+P2387,Luis Pérez,0,F,Baños del Inca,Ginecología,2024-03-04,0.0
+P2388,Diego Ramos,0,,Magdalena,Pediatría,2023-03-18,0.0
+P2389,Ana Torres,0,,Matara,Traumatología,2025-07-03,0.0
+P2390,Lucía Mendoza,0,,Magdalena,Odontología,2025-06-08,332.77
+P2391,María García,0,F,Magdalena,Pediatría,2025-03-24,0.0
+P2392,Carmen Flores,16,,Chetilla,Traumatología,2025-04-30,0.0
+P2393,Luis Pérez,0,M,Jesús,Odontología,2023-07-22,52.59
+P2394,Pedro León,0,,Encañada,Ginecología,2025-05-20,0.0
+P2395,Lucía Mendoza,0,F,Encañada,Traumatología,2023-04-12,556.49
+P2396,Carlos Ruiz,0,,Encañada,General,2025-06-20,0.0
+P2397,Ana Torres,0,M,Matara,General,2024-07-18,0.0
+P2398,Carlos Ruiz,0,,Chetilla,General,2025-10-17,0.0
+P2399,Pedro León,49,M,Los Baños,Traumatología,2023-11-24,647.74
+P2400,Pedro León,83,F,Magdalena,Odontología,2025-10-15,0.0
+P2401,Diego Ramos,66,,Los Baños,Medicina General,2024-06-10,0.0
+P2402,Diego Ramos,65,,Magdalena,Odontología,2024-02-14,0.0
+P2403,Ana Torres,0,,Matara,Pediatría,2023-02-11,0.0
+P2404,Carlos Ruiz,0,M,Jesús,Ginecología,2024-10-27,0.0
+P2405,Jorge Díaz,0,M,Chetilla,Odontología,2024-01-19,0.0
+P2406,Andrea Soto,0,F,Baños del Inca,Odontología,2023-02-13,0.0
+P2407,Lucía Mendoza,0,M,Matara,Pediatría,2025-08-02,0.0
+P2408,Lucía Mendoza,0,F,Los Baños,General,2025-03-24,348.58
+P2409,Luis Pérez,0,,Matara,Medicina General,2025-06-30,599.93
+P2410,Ana Torres,56,M,Los Baños,Traumatología,2024-03-15,0.0
+P2411,Pedro León,85,,Encañada,Traumatología,2024-03-26,0.0
+P2412,Ana Torres,0,F,Baños del Inca,General,2024-11-13,258.83
+P2413,Carmen Flores,27,F,Matara,Pediatría,2024-07-07,290.37
+P2414,Andrea Soto,0,,Matara,Odontología,2025-01-01,0.0
+P2415,Ana Torres,0,M,Jesús,Traumatología,2025-09-10,0.0
+P2416,Jorge Díaz,0,F,Jesús,Ginecología,2024-05-07,0.0
+P2417,Andrea Soto,0,F,Los Baños,Ginecología,2025-05-02,0.0
+P2418,Lucía Mendoza,0,F,Los Baños,Traumatología,2024-02-07,0.0
+P2419,Andrea Soto,0,,Baños del Inca,Traumatología,2023-07-18,409.85
+P2420,Pedro León,74,,Matara,General,2023-09-28,0.0
+P2421,Carmen Flores,0,F,Los Baños,Medicina General,2025-10-19,0.0
+P2422,Diego Ramos,22,M,Chetilla,General,2025-09-18,0.0
+P2423,María García,0,F,Los Baños,Traumatología,2025-09-02,0.0
+P2424,Luis Pérez,11,F,Baños del Inca,Medicina General,2023-07-05,0.0
+P2425,Ana Torres,0,M,Baños del Inca,Ginecología,2025-09-19,0.0
+P2426,María García,31,F,Los Baños,Traumatología,2023-01-20,0.0
+P2427,Luis Pérez,81,F,Magdalena,Traumatología,2023-04-30,549.67
+P2428,Pedro León,0,,Cajamarca,General,2024-02-20,0.0
+P2429,Diego Ramos,0,F,Matara,Traumatología,2023-09-18,0.0
+P2430,Diego Ramos,0,M,Desconocido,Ginecología,2025-06-05,0.0
+P2431,María García,5,F,Matara,Odontología,2024-05-27,0.0
+P2432,Carlos Ruiz,0,M,Jesús,Traumatología,2025-01-22,0.0
+P2433,Jorge Díaz,51,M,Baños del Inca,Odontología,2025-07-18,212.34
+P2434,Carlos Ruiz,22,,Baños del Inca,General,2024-03-14,0.0
+P2435,Andrea Soto,0,F,Jesús,Ginecología,2025-01-02,0.0
+P2436,Ana Torres,0,M,Encañada,Medicina General,2023-02-08,716.18
+P2437,Ana Torres,0,,Baños del Inca,Odontología,2025-04-21,0.0
+P2438,Lucía Mendoza,0,F,Desconocido,Traumatología,2024-05-22,0.0
+P2439,Lucía Mendoza,68,,Los Baños,Medicina General,2025-02-17,316.71
+P2440,Lucía Mendoza,11,F,Chetilla,Medicina General,2025-07-24,0.0
+P2441,Lucía Mendoza,11,F,Encañada,General,2023-08-27,0.0
+P2442,Diego Ramos,0,F,Desconocido,Odontología,2023-10-30,605.7
+P2443,María García,0,M,Encañada,Traumatología,2025-10-07,104.37
+P2444,Pedro León,0,,Desconocido,General,2025-10-13,0.0
+P2445,Lucía Mendoza,0,M,Magdalena,Odontología,2023-11-06,579.74
+P2446,Luis Pérez,82,F,Magdalena,Traumatología,2023-10-13,0.0
+P2447,Lucía Mendoza,0,M,Los Baños,General,2025-04-04,82.62
+P2448,Luis Pérez,17,F,Matara,General,2023-01-12,0.0
+P2449,Carmen Flores,0,F,Chetilla,Medicina General,2023-11-20,610.79
+P2450,Pedro León,87,F,Jesús,General,2024-05-04,718.81
+P2451,Ana Torres,13,,Matara,Pediatría,2024-12-04,0.0
+P2452,María García,56,F,Los Baños,Ginecología,2025-02-27,0.0
+P2453,Carmen Flores,0,F,Encañada,Odontología,2024-03-19,286.97
+P2454,María García,23,F,Jesús,Traumatología,2025-05-25,0.0
+P2455,Lucía Mendoza,0,M,Magdalena,Odontología,2024-09-06,574.57
+P2456,Luis Pérez,0,F,Desconocido,Pediatría,2024-07-24,0.0
+P2457,Carlos Ruiz,52,M,Matara,Traumatología,2024-07-30,0.0
+P2458,Carmen Flores,79,M,Magdalena,Medicina General,2023-08-02,0.0
+P2459,Andrea Soto,0,F,Jesús,Medicina General,2023-10-31,0.0
+P2460,Carmen Flores,83,M,Encañada,Ginecología,2023-09-10,0.0
+P2461,Carmen Flores,0,F,Chetilla,Traumatología,2025-05-07,0.0
+P2462,Lucía Mendoza,0,F,Encañada,Odontología,2024-09-25,0.0
+P2463,Luis Pérez,0,F,Baños del Inca,General,2024-04-26,0.0
+P2464,Jorge Díaz,50,F,Jesús,Medicina General,2024-03-26,429.17
+P2465,Pedro León,57,,Cajamarca,General,2025-05-23,0.0
+P2466,Carlos Ruiz,0,M,Jesús,Medicina General,2025-02-18,595.48
+P2467,María García,0,M,Matara,Medicina General,2025-12-21,0.0
+P2468,Ana Torres,0,M,Matara,Medicina General,2025-01-10,0.0
+P2469,Pedro León,0,M,Baños del Inca,Odontología,2024-03-11,756.57
+P2470,Luis Pérez,0,,Baños del Inca,General,2024-11-01,0.0
+P2471,Carlos Ruiz,0,,Baños del Inca,General,2023-06-15,0.0
+P2472,Jorge Díaz,0,F,Los Baños,Ginecología,2024-02-14,0.0
+P2473,Carlos Ruiz,0,M,Cajamarca,Ginecología,2023-11-30,0.0
+P2474,Lucía Mendoza,0,M,Cajamarca,Odontología,2024-03-17,401.22
+P2475,María García,0,F,Magdalena,Odontología,2025-01-18,0.0
+P2476,Jorge Díaz,0,M,Chetilla,Pediatría,2023-05-26,0.0
+P2477,Ana Torres,0,F,Baños del Inca,Ginecología,2024-08-02,0.0
+P2478,Andrea Soto,89,,Matara,Pediatría,2024-05-24,0.0
+P2479,Lucía Mendoza,0,F,Cajamarca,General,2025-04-13,0.0
+P2480,Carlos Ruiz,0,F,Jesús,Medicina General,2025-12-22,0.0
+P2481,Jorge Díaz,32,F,Baños del Inca,Medicina General,2025-12-11,0.0
+P2482,Pedro León,22,M,Encañada,General,2025-03-16,631.95
+P2483,María García,0,F,Desconocido,General,2023-05-29,0.0
+P2484,Andrea Soto,58,F,Jesús,Pediatría,2023-12-10,0.0
+P2485,Luis Pérez,0,,Desconocido,Pediatría,2025-05-04,581.95
+P2486,María García,0,M,Desconocido,Pediatría,2025-06-20,0.0
+P2487,Carmen Flores,76,M,Desconocido,Traumatología,2025-10-09,0.0
+P2488,Lucía Mendoza,0,,Los Baños,Traumatología,2025-11-02,0.0
+P2489,Carmen Flores,0,,Encañada,Traumatología,2025-12-11,0.0
+P2490,Luis Pérez,0,,Cajamarca,General,2025-06-28,190.35
+P2491,Lucía Mendoza,0,,Magdalena,Odontología,2023-04-16,0.0
+P2492,Andrea Soto,0,F,Baños del Inca,Pediatría,2025-02-22,577.87
+P2493,Lucía Mendoza,0,F,Los Baños,Ginecología,2025-03-31,274.45
+P2494,Andrea Soto,14,F,Jesús,Pediatría,2023-06-30,0.0
+P2495,María García,0,M,Encañada,Traumatología,2023-03-29,180.94
+P2496,Luis Pérez,77,M,Cajamarca,Traumatología,2025-10-05,0.0
+P2497,Jorge Díaz,90,,Desconocido,Ginecología,2023-10-03,185.34
+P2498,Pedro León,0,,Chetilla,Pediatría,2024-01-04,0.0
+P2499,Luis Pérez,2,F,Chetilla,General,2023-07-03,0.0
+P2500,Jorge Díaz,83,F,Encañada,Medicina General,2023-10-10,0.0
+P2501,Diego Ramos,0,F,Magdalena,Pediatría,2024-10-30,202.33
+P2502,Andrea Soto,0,,Encañada,Medicina General,2024-05-04,142.8
+P2503,Luis Pérez,0,,Magdalena,Medicina General,2024-04-28,0.0
+P2504,María García,0,F,Desconocido,General,2024-04-18,695.62
+P2505,Luis Pérez,0,,Baños del Inca,General,2025-02-18,0.0
+P2506,Carlos Ruiz,0,M,Matara,General,2025-03-16,0.0
+P2507,Pedro León,0,M,Magdalena,Traumatología,2023-06-04,608.01
+P2508,María García,0,M,Baños del Inca,Odontología,2023-01-27,0.0
+P2509,Lucía Mendoza,85,F,Desconocido,Medicina General,2024-04-03,0.0
+P2510,María García,0,M,Los Baños,Traumatología,2023-06-13,0.0
+P2511,Diego Ramos,0,M,Magdalena,Odontología,2023-07-09,0.0
+P2512,Diego Ramos,31,M,Magdalena,General,2024-11-08,92.73
+P2513,María García,71,M,Matara,Traumatología,2024-10-17,0.0
+P2514,Luis Pérez,0,F,Baños del Inca,General,2024-03-17,670.16
+P2515,Luis Pérez,16,M,Baños del Inca,Medicina General,2025-10-11,613.65
+P2516,Jorge Díaz,0,,Los Baños,General,2023-05-14,235.98
+P2517,Diego Ramos,0,M,Desconocido,Odontología,2024-01-12,0.0
+P2518,Diego Ramos,10,M,Matara,Ginecología,2025-12-18,616.92
+P2519,Jorge Díaz,30,,Baños del Inca,Pediatría,2024-05-17,590.88
+P2520,Ana Torres,0,M,Matara,Odontología,2025-06-14,0.0
+P2521,Carmen Flores,0,F,Baños del Inca,Pediatría,2024-04-27,0.0
+P2522,María García,0,M,Jesús,Ginecología,2024-11-16,177.88
+P2523,Carmen Flores,0,,Magdalena,Odontología,2023-11-13,0.0
+P2524,Lucía Mendoza,0,F,Encañada,General,2023-01-11,0.0
+P2525,Diego Ramos,79,F,Baños del Inca,Pediatría,2025-09-15,664.11
+P2526,Carmen Flores,0,M,Cajamarca,Odontología,2025-07-13,329.41
+P2527,Carlos Ruiz,3,,Matara,Odontología,2024-10-02,235.18
+P2528,María García,2,F,Matara,Ginecología,2023-07-26,494.84
+P2529,Luis Pérez,2,M,Chetilla,Odontología,2023-12-27,511.93
+P2530,Diego Ramos,8,F,Cajamarca,Pediatría,2025-07-13,0.0
+P2531,Ana Torres,0,,Desconocido,Ginecología,2023-07-06,0.0
+P2532,Jorge Díaz,1,,Matara,Odontología,2023-01-21,0.0
+P2533,Carmen Flores,75,F,Matara,General,2024-12-22,0.0
+P2534,Ana Torres,0,,Los Baños,Traumatología,2025-11-01,0.0
+P2535,Diego Ramos,0,F,Matara,Traumatología,2025-11-24,0.0
+P2536,Luis Pérez,12,,Magdalena,Odontología,2024-09-20,0.0
+P2537,Pedro León,0,M,Magdalena,Pediatría,2023-06-16,691.13
+P2538,Carlos Ruiz,0,,Los Baños,Odontología,2024-08-12,675.97
+P2539,Ana Torres,0,M,Matara,Medicina General,2025-07-28,0.0
+P2540,Ana Torres,0,,Desconocido,Pediatría,2024-12-04,0.0
+P2541,Jorge Díaz,0,,Cajamarca,Odontología,2025-09-25,0.0
+P2542,Diego Ramos,0,M,Baños del Inca,Medicina General,2025-08-03,0.0
+P2543,Andrea Soto,0,,Cajamarca,Medicina General,2025-12-13,193.92
+P2544,Carmen Flores,0,,Matara,Medicina General,2025-01-16,0.0
+P2545,María García,0,F,Encañada,Ginecología,2024-07-26,470.27
+P2546,Lucía Mendoza,0,,Magdalena,Pediatría,2024-09-01,0.0
+P2547,Ana Torres,0,M,Magdalena,Medicina General,2023-04-14,0.0
+P2548,Pedro León,0,F,Baños del Inca,General,2024-04-26,0.0
+P2549,Ana Torres,0,M,Encañada,Medicina General,2024-10-14,0.0
+P2550,Carmen Flores,0,,Baños del Inca,Odontología,2025-04-08,0.0
+P2551,Luis Pérez,0,,Encañada,Odontología,2024-01-27,0.0
+P2552,Luis Pérez,0,M,Magdalena,Pediatría,2025-05-12,0.0
+P2553,Ana Torres,90,M,Baños del Inca,Ginecología,2023-07-04,0.0
+P2554,Pedro León,41,M,Magdalena,Medicina General,2024-11-25,116.45
+P2555,Carlos Ruiz,0,F,Los Baños,General,2023-10-03,599.59
+P2556,Luis Pérez,74,,Chetilla,Medicina General,2024-11-25,0.0
+P2557,Carmen Flores,0,M,Matara,Traumatología,2024-04-03,0.0
+P2558,Lucía Mendoza,43,M,Desconocido,Pediatría,2024-09-08,0.0
+P2559,Carlos Ruiz,0,M,Encañada,General,2023-10-04,0.0
+P2560,Luis Pérez,57,M,Jesús,Traumatología,2025-06-30,0.0
+P2561,Pedro León,0,M,Magdalena,Ginecología,2024-04-24,0.0
+P2562,Ana Torres,0,F,Cajamarca,Traumatología,2023-02-08,578.7
+P2563,María García,22,M,Baños del Inca,Pediatría,2025-11-16,0.0
+P2564,Carmen Flores,46,,Chetilla,Ginecología,2024-06-23,0.0
+P2565,Luis Pérez,0,M,Cajamarca,Odontología,2025-03-25,0.0
+P2566,Carlos Ruiz,0,F,Los Baños,Traumatología,2023-09-20,0.0
+P2567,Ana Torres,28,,Jesús,Odontología,2024-03-13,0.0
+P2568,Andrea Soto,0,M,Jesús,General,2024-10-14,0.0
+P2569,Carmen Flores,0,M,Encañada,Medicina General,2025-06-15,0.0
+P2570,Pedro León,0,,Los Baños,Traumatología,2024-01-31,193.91
+P2571,Luis Pérez,57,F,Desconocido,Traumatología,2024-08-06,0.0
+P2572,Ana Torres,0,M,Chetilla,Odontología,2024-09-09,0.0
+P2573,Carmen Flores,51,F,Encañada,Medicina General,2024-05-15,0.0
+P2574,Pedro León,0,M,Desconocido,Ginecología,2025-11-04,495.37
+P2575,Jorge Díaz,0,F,Los Baños,General,2025-01-30,0.0
+P2576,Lucía Mendoza,0,,Magdalena,Odontología,2025-08-05,0.0
+P2577,Carmen Flores,0,F,Chetilla,Odontología,2025-11-25,0.0
+P2578,Carlos Ruiz,52,,Los Baños,Odontología,2023-02-23,0.0
+P2579,Lucía Mendoza,0,F,Encañada,Ginecología,2024-09-17,356.97
+P2580,Luis Pérez,0,F,Desconocido,Odontología,2024-06-07,381.55
+P2581,Lucía Mendoza,80,M,Baños del Inca,Ginecología,2023-07-02,0.0
+P2582,Pedro León,0,M,Desconocido,Odontología,2024-04-03,0.0
+P2583,Carmen Flores,0,F,Encañada,Ginecología,2024-06-05,0.0
+P2584,Pedro León,0,,Magdalena,Ginecología,2023-03-09,0.0
+P2585,Lucía Mendoza,61,F,Magdalena,Ginecología,2023-03-11,579.23
+P2586,Diego Ramos,0,F,Baños del Inca,Odontología,2024-06-22,0.0
+P2587,Jorge Díaz,0,M,Cajamarca,Traumatología,2025-04-24,0.0
+P2588,Diego Ramos,85,F,Baños del Inca,Pediatría,2023-01-02,225.31
+P2589,Ana Torres,0,M,Encañada,Medicina General,2024-02-28,793.84
+P2590,Diego Ramos,0,,Matara,General,2024-06-25,793.98
+P2591,María García,0,F,Desconocido,Odontología,2025-08-26,0.0
+P2592,Diego Ramos,0,M,Magdalena,Medicina General,2024-12-26,0.0
+P2593,Carmen Flores,0,M,Encañada,Odontología,2023-02-12,790.04
+P2594,Lucía Mendoza,0,,Los Baños,Ginecología,2024-02-09,0.0
+P2595,Carlos Ruiz,0,F,Baños del Inca,Medicina General,2023-12-22,0.0
+P2596,Carmen Flores,0,,Encañada,Odontología,2024-11-07,577.29
+P2597,María García,83,,Encañada,Odontología,2023-10-24,81.2
+P2598,María García,61,F,Chetilla,Traumatología,2025-03-08,0.0
+P2599,María García,87,F,Desconocido,Traumatología,2024-02-06,0.0
+P2600,Carmen Flores,0,,Baños del Inca,Traumatología,2023-12-23,0.0
+P2601,Jorge Díaz,0,M,Magdalena,Pediatría,2023-05-27,790.6
+P2602,Ana Torres,26,,Los Baños,Pediatría,2023-08-11,0.0
+P2603,Diego Ramos,36,F,Encañada,Ginecología,2025-01-03,0.0
+P2604,Ana Torres,0,,Magdalena,Ginecología,2024-03-08,0.0
+P2605,María García,0,F,Matara,Ginecología,2024-05-10,0.0
+P2606,Jorge Díaz,0,,Desconocido,Odontología,2025-07-22,0.0
+P2607,Diego Ramos,50,,Encañada,Pediatría,2023-02-20,0.0
+P2608,Jorge Díaz,0,M,Chetilla,Traumatología,2024-10-01,593.94
+P2609,María García,0,M,Los Baños,Ginecología,2024-01-08,0.0
+P2610,Jorge Díaz,65,,Magdalena,Ginecología,2024-11-06,242.02
+P2611,Luis Pérez,32,F,Los Baños,General,2023-01-12,50.05
+P2612,Ana Torres,7,,Desconocido,Traumatología,2025-02-28,107.99
+P2613,Luis Pérez,0,M,Magdalena,Traumatología,2023-02-25,133.44
+P2614,Diego Ramos,19,,Matara,Odontología,2023-08-11,118.62
+P2615,Diego Ramos,0,,Encañada,Ginecología,2023-11-14,0.0
+P2616,María García,36,,Magdalena,Ginecología,2025-09-06,424.15
+P2617,Ana Torres,0,,Magdalena,Odontología,2024-02-05,105.04
+P2618,Ana Torres,0,,Desconocido,Medicina General,2025-01-18,774.13
+P2619,Pedro León,0,M,Los Baños,Traumatología,2024-03-13,0.0
+P2620,Lucía Mendoza,0,F,Cajamarca,Medicina General,2024-02-21,168.5
+P2621,Pedro León,0,F,Baños del Inca,Medicina General,2025-09-08,89.29
+P2622,Lucía Mendoza,36,F,Magdalena,Ginecología,2025-01-11,0.0
+P2623,Lucía Mendoza,0,M,Cajamarca,Medicina General,2025-06-14,0.0
+P2624,Ana Torres,81,M,Jesús,Ginecología,2025-04-06,0.0
+P2625,Andrea Soto,88,M,Los Baños,Traumatología,2025-04-26,0.0
+P2626,Jorge Díaz,53,M,Jesús,Traumatología,2024-02-28,797.6
+P2627,Andrea Soto,0,M,Matara,Traumatología,2024-07-21,0.0
+P2628,Diego Ramos,86,F,Jesús,General,2023-09-02,0.0
+P2629,Carmen Flores,82,F,Los Baños,Pediatría,2025-10-23,0.0
+P2630,Andrea Soto,0,,Matara,Ginecología,2023-06-03,512.12
+P2631,Andrea Soto,25,F,Cajamarca,General,2024-08-23,0.0
+P2632,Andrea Soto,0,,Magdalena,General,2025-03-15,0.0
+P2633,Andrea Soto,0,,Encañada,Pediatría,2025-11-21,0.0
+P2634,Pedro León,88,M,Chetilla,Medicina General,2023-08-10,289.68
+P2635,Luis Pérez,21,,Cajamarca,Pediatría,2025-08-22,741.61
+P2636,Carlos Ruiz,0,M,Baños del Inca,Traumatología,2024-08-12,0.0
+P2637,María García,76,,Desconocido,Odontología,2024-11-11,0.0
+P2638,Pedro León,0,M,Encañada,Odontología,2025-12-13,0.0
+P2639,Jorge Díaz,0,,Los Baños,Ginecología,2025-07-27,372.84
+P2640,Lucía Mendoza,60,,Jesús,Pediatría,2023-12-07,0.0
+P2641,Lucía Mendoza,38,,Magdalena,General,2023-06-03,0.0
+P2642,Carmen Flores,0,,Encañada,Traumatología,2023-09-01,0.0
+P2643,Diego Ramos,0,,Desconocido,Ginecología,2024-08-23,389.49
+P2644,Luis Pérez,0,,Chetilla,Ginecología,2025-07-13,393.62
+P2645,Pedro León,4,F,Cajamarca,General,2023-03-04,0.0
+P2646,Carlos Ruiz,14,,Jesús,Odontología,2023-01-27,0.0
+P2647,Pedro León,5,,Cajamarca,Odontología,2023-08-02,0.0
+P2648,Ana Torres,0,M,Magdalena,Medicina General,2023-05-22,140.07
+P2649,Ana Torres,22,F,Los Baños,Pediatría,2023-12-19,653.53
+P2650,Luis Pérez,0,F,Cajamarca,General,2023-05-12,0.0
+P2651,Ana Torres,0,,Baños del Inca,Ginecología,2023-03-27,342.85
+P2652,Diego Ramos,0,,Los Baños,Traumatología,2024-02-26,0.0
+P2653,Diego Ramos,43,M,Baños del Inca,Odontología,2025-06-14,0.0
+P2654,Carmen Flores,0,,Cajamarca,Medicina General,2023-09-16,0.0
+P2655,Ana Torres,0,,Magdalena,Odontología,2023-10-23,307.73
+P2656,Lucía Mendoza,44,F,Jesús,General,2024-03-07,0.0
+P2657,Ana Torres,0,M,Baños del Inca,Odontología,2025-05-21,459.99
+P2658,Ana Torres,0,M,Jesús,Traumatología,2025-12-15,0.0
+P2659,Luis Pérez,82,M,Desconocido,Pediatría,2025-09-18,129.12
+P2660,Diego Ramos,0,,Matara,Ginecología,2024-02-09,0.0
+P2661,Diego Ramos,0,F,Matara,Pediatría,2023-07-23,0.0
+P2662,Andrea Soto,0,,Los Baños,Medicina General,2025-04-22,192.22
+P2663,Andrea Soto,0,F,Magdalena,Ginecología,2025-12-08,248.75
+P2664,Jorge Díaz,0,M,Cajamarca,Medicina General,2025-10-29,0.0
+P2665,María García,0,,Baños del Inca,Ginecología,2025-03-08,0.0
+P2666,Pedro León,0,M,Encañada,General,2025-03-01,0.0
+P2667,Luis Pérez,0,,Magdalena,General,2024-08-23,0.0
+P2668,Carmen Flores,39,M,Encañada,Medicina General,2024-06-11,708.12
+P2669,Jorge Díaz,0,F,Jesús,Pediatría,2025-05-22,0.0
+P2670,Andrea Soto,47,F,Matara,Traumatología,2025-11-26,0.0
+P2671,Jorge Díaz,0,M,Chetilla,General,2024-12-07,0.0
+P2672,Lucía Mendoza,44,F,Jesús,Pediatría,2024-01-04,0.0
+P2673,Carlos Ruiz,18,F,Chetilla,Traumatología,2024-01-11,112.64
+P2674,Carlos Ruiz,48,M,Cajamarca,Pediatría,2024-04-20,0.0
+P2675,María García,0,M,Baños del Inca,Pediatría,2024-09-01,0.0
+P2676,Luis Pérez,43,F,Matara,General,2023-03-26,590.95
+P2677,Carlos Ruiz,0,M,Magdalena,Traumatología,2024-12-24,0.0
+P2678,Jorge Díaz,86,,Los Baños,Traumatología,2023-07-12,95.79
+P2679,Andrea Soto,47,F,Magdalena,Pediatría,2023-01-16,0.0
+P2680,Luis Pérez,86,,Baños del Inca,Odontología,2025-02-14,717.02
+P2681,Ana Torres,0,,Baños del Inca,General,2025-02-24,94.41
+P2682,Diego Ramos,69,F,Chetilla,Odontología,2024-04-12,0.0
+P2683,Carmen Flores,0,,Encañada,Ginecología,2023-09-22,0.0
+P2684,Andrea Soto,0,F,Magdalena,General,2024-10-06,0.0
+P2685,Andrea Soto,0,M,Baños del Inca,Ginecología,2024-02-26,0.0
+P2686,Jorge Díaz,0,,Chetilla,Traumatología,2024-10-04,357.24
+P2687,Jorge Díaz,0,,Encañada,Traumatología,2024-04-03,564.67
+P2688,Diego Ramos,0,,Chetilla,Odontología,2023-02-20,0.0
+P2689,Pedro León,76,F,Matara,Traumatología,2024-07-20,262.78
+P2690,Luis Pérez,0,,Desconocido,Medicina General,2023-04-17,0.0
+P2691,Luis Pérez,0,,Baños del Inca,Medicina General,2023-01-17,0.0
+P2692,Lucía Mendoza,0,F,Chetilla,Odontología,2023-06-27,0.0
+P2693,Lucía Mendoza,0,M,Jesús,Odontología,2023-12-13,637.49
+P2694,Pedro León,0,F,Encañada,General,2023-05-11,295.89
+P2695,Carmen Flores,0,F,Encañada,Ginecología,2025-07-19,115.5
+P2696,María García,20,F,Encañada,Ginecología,2025-08-09,0.0
+P2697,Lucía Mendoza,0,M,Los Baños,Traumatología,2024-06-27,0.0
+P2698,Ana Torres,0,M,Los Baños,Odontología,2023-11-20,0.0
+P2699,Carlos Ruiz,0,,Cajamarca,Traumatología,2023-07-19,0.0
+P2700,Carmen Flores,0,,Jesús,Ginecología,2025-03-18,0.0
+P2701,Ana Torres,0,M,Baños del Inca,Pediatría,2024-06-25,0.0
+P2702,Jorge Díaz,0,M,Chetilla,Ginecología,2024-01-17,776.77
+P2703,Luis Pérez,0,F,Matara,Ginecología,2025-10-19,0.0
+P2704,Andrea Soto,4,F,Encañada,Pediatría,2024-02-18,0.0
+P2705,Carlos Ruiz,0,M,Encañada,Medicina General,2023-04-15,0.0
+P2706,María García,0,,Encañada,General,2024-12-28,0.0
+P2707,Andrea Soto,85,F,Cajamarca,Pediatría,2023-12-29,0.0
+P2708,Luis Pérez,0,M,Cajamarca,Ginecología,2024-12-09,0.0
+P2709,Diego Ramos,0,M,Jesús,General,2023-01-21,0.0
+P2710,Jorge Díaz,0,M,Encañada,Odontología,2025-05-10,0.0
+P2711,Carlos Ruiz,73,,Baños del Inca,Pediatría,2024-06-20,650.81
+P2712,Carlos Ruiz,0,F,Matara,Medicina General,2024-05-20,0.0
+P2713,Carmen Flores,20,M,Magdalena,Ginecología,2024-04-17,569.07
+P2714,Diego Ramos,8,F,Magdalena,Traumatología,2024-01-13,0.0
+P2715,Ana Torres,0,M,Cajamarca,Traumatología,2023-01-04,0.0
+P2716,Carlos Ruiz,0,M,Cajamarca,General,2024-01-12,563.75
+P2717,Carlos Ruiz,62,,Desconocido,Traumatología,2025-01-24,251.03
+P2718,Andrea Soto,0,F,Jesús,General,2023-01-29,0.0
+P2719,Pedro León,0,M,Jesús,Ginecología,2024-01-17,0.0
+P2720,María García,31,M,Magdalena,Ginecología,2024-12-11,0.0
+P2721,Pedro León,0,,Desconocido,Pediatría,2025-07-03,0.0
+P2722,Carmen Flores,0,,Jesús,Pediatría,2024-02-05,0.0
+P2723,Carmen Flores,0,F,Cajamarca,Ginecología,2023-01-03,744.29
+P2724,Pedro León,0,M,Baños del Inca,Odontología,2024-07-16,0.0
+P2725,Andrea Soto,6,,Desconocido,Odontología,2023-01-05,455.98
+P2726,Ana Torres,0,F,Encañada,Odontología,2023-07-27,246.05
+P2727,Diego Ramos,0,M,Chetilla,Pediatría,2023-03-05,0.0
+P2728,María García,0,F,Jesús,Medicina General,2024-05-07,0.0
+P2729,Ana Torres,0,M,Magdalena,General,2024-10-10,0.0
+P2730,Carmen Flores,57,F,Chetilla,Ginecología,2024-05-11,0.0
+P2731,Pedro León,17,M,Encañada,Pediatría,2024-07-07,0.0
+P2732,Andrea Soto,0,,Jesús,Pediatría,2023-11-30,0.0
+P2733,Diego Ramos,0,,Desconocido,Traumatología,2023-03-05,0.0
+P2734,Andrea Soto,0,F,Jesús,Ginecología,2025-06-09,0.0
+P2735,Pedro León,0,F,Cajamarca,Ginecología,2025-11-21,0.0
+P2736,Diego Ramos,0,F,Magdalena,Medicina General,2024-08-17,0.0
+P2737,Ana Torres,0,F,Los Baños,General,2023-06-15,0.0
+P2738,María García,0,,Los Baños,Odontología,2024-09-04,0.0
+P2739,Lucía Mendoza,0,F,Encañada,Odontología,2024-06-08,0.0
+P2740,Luis Pérez,18,M,Baños del Inca,Traumatología,2023-09-07,64.08
+P2741,Carlos Ruiz,0,F,Magdalena,Ginecología,2023-10-11,522.36
+P2742,Pedro León,0,F,Cajamarca,Medicina General,2023-10-23,0.0
+P2743,Jorge Díaz,80,F,Encañada,Pediatría,2023-04-20,0.0
+P2744,Andrea Soto,0,F,Encañada,General,2025-09-19,0.0
+P2745,Lucía Mendoza,24,F,Chetilla,Medicina General,2023-10-14,0.0
+P2746,Ana Torres,0,F,Encañada,Traumatología,2025-08-13,0.0
+P2747,Diego Ramos,0,,Baños del Inca,General,2024-09-08,365.86
+P2748,Carmen Flores,19,M,Baños del Inca,Pediatría,2023-09-06,442.09
+P2749,Jorge Díaz,4,F,Magdalena,Medicina General,2025-12-08,765.09
+P2750,Jorge Díaz,0,M,Cajamarca,Odontología,2024-03-30,0.0
+P2751,María García,33,,Magdalena,Traumatología,2024-04-15,0.0
+P2752,Andrea Soto,0,M,Matara,Odontología,2025-09-26,0.0
+P2753,Carlos Ruiz,0,,Magdalena,Odontología,2023-05-03,0.0
+P2754,Jorge Díaz,0,F,Magdalena,General,2025-03-23,0.0
+P2755,Lucía Mendoza,1,F,Los Baños,Pediatría,2025-02-11,78.1
+P2756,Jorge Díaz,0,M,Jesús,Pediatría,2023-01-17,760.94
+P2757,Luis Pérez,0,F,Los Baños,Ginecología,2023-04-30,0.0
+P2758,Jorge Díaz,39,,Matara,Pediatría,2025-08-23,0.0
+P2759,Luis Pérez,0,F,Desconocido,Pediatría,2023-04-29,725.59
+P2760,Pedro León,0,M,Los Baños,Ginecología,2025-12-14,0.0
+P2761,Lucía Mendoza,56,M,Jesús,Ginecología,2024-01-31,0.0
+P2762,Andrea Soto,0,,Magdalena,Odontología,2025-04-04,0.0
+P2763,Luis Pérez,0,M,Magdalena,Medicina General,2024-04-23,162.25
+P2764,María García,0,,Jesús,Ginecología,2025-05-11,0.0
+P2765,Andrea Soto,72,F,Magdalena,General,2025-03-06,0.0
+P2766,María García,40,,Chetilla,Pediatría,2025-02-15,0.0
+P2767,Jorge Díaz,12,,Encañada,General,2024-03-20,0.0
+P2768,Luis Pérez,0,M,Matara,Odontología,2023-07-06,0.0
+P2769,Lucía Mendoza,67,,Desconocido,Traumatología,2025-03-26,0.0
+P2770,María García,0,F,Matara,Pediatría,2024-10-05,0.0
+P2771,Andrea Soto,50,F,Jesús,Pediatría,2024-06-19,0.0
+P2772,María García,0,M,Baños del Inca,Ginecología,2025-03-09,0.0
+P2773,Luis Pérez,79,M,Los Baños,Pediatría,2023-10-02,0.0
+P2774,Jorge Díaz,0,F,Baños del Inca,Medicina General,2024-03-21,0.0
+P2775,Lucía Mendoza,70,,Magdalena,Traumatología,2023-02-11,451.51
+P2776,Diego Ramos,74,M,Los Baños,Odontología,2023-10-10,0.0
+P2777,Carlos Ruiz,0,M,Chetilla,Traumatología,2024-05-27,0.0
+P2778,Carlos Ruiz,30,,Jesús,Traumatología,2023-03-30,793.04
+P2779,Pedro León,0,M,Desconocido,Medicina General,2024-04-09,0.0
+P2780,Andrea Soto,63,,Baños del Inca,Medicina General,2024-02-23,0.0
+P2781,Jorge Díaz,0,,Encañada,Ginecología,2025-03-07,324.68
+P2782,Ana Torres,61,M,Baños del Inca,Medicina General,2023-03-11,0.0
+P2783,Jorge Díaz,0,,Los Baños,Pediatría,2025-07-01,0.0
+P2784,Andrea Soto,3,,Encañada,General,2025-10-25,0.0
+P2785,Pedro León,89,,Matara,Pediatría,2025-05-18,92.02
+P2786,Luis Pérez,0,F,Baños del Inca,Traumatología,2023-05-02,154.4
+P2787,Carlos Ruiz,0,,Matara,Pediatría,2024-01-13,505.95
+P2788,María García,0,,Desconocido,Odontología,2025-12-23,0.0
+P2789,Carlos Ruiz,75,M,Baños del Inca,Traumatología,2024-12-19,0.0
+P2790,Luis Pérez,0,F,Cajamarca,Traumatología,2023-03-08,0.0
+P2791,Luis Pérez,0,M,Baños del Inca,General,2024-10-16,60.13
+P2792,Ana Torres,0,,Encañada,Ginecología,2024-04-09,0.0
+P2793,Diego Ramos,84,M,Encañada,Medicina General,2025-05-01,395.92
+P2794,Jorge Díaz,6,F,Encañada,Ginecología,2025-01-04,0.0
+P2795,Luis Pérez,66,,Chetilla,General,2023-12-09,0.0
+P2796,Diego Ramos,0,M,Jesús,Odontología,2024-01-01,0.0
+P2797,Luis Pérez,39,,Chetilla,Medicina General,2024-05-22,0.0
+P2798,Diego Ramos,1,,Chetilla,General,2025-08-29,301.3
+P2799,Pedro León,0,,Encañada,Odontología,2024-04-12,522.85
+P2800,Luis Pérez,0,M,Matara,General,2025-11-16,252.5
+P2801,Andrea Soto,18,,Chetilla,Ginecología,2023-05-08,0.0
+P2802,Diego Ramos,62,,Magdalena,Pediatría,2025-01-10,0.0
+P2803,Diego Ramos,2,M,Baños del Inca,Pediatría,2023-01-04,0.0
+P2804,Ana Torres,0,F,Los Baños,Odontología,2024-05-25,68.1
+P2805,Jorge Díaz,35,,Cajamarca,Traumatología,2025-12-22,0.0
+P2806,Luis Pérez,22,,Jesús,General,2023-08-15,489.01
+P2807,Diego Ramos,0,F,Magdalena,Traumatología,2023-05-02,308.77
+P2808,Jorge Díaz,0,F,Matara,Pediatría,2023-12-04,223.89
+P2809,Ana Torres,0,M,Matara,Ginecología,2025-02-26,0.0
+P2810,Carmen Flores,0,,Cajamarca,Ginecología,2025-03-18,0.0
+P2811,Andrea Soto,0,,Los Baños,Ginecología,2023-05-20,0.0
+P2812,Lucía Mendoza,0,,Los Baños,Pediatría,2024-02-22,0.0
+P2813,Lucía Mendoza,0,F,Magdalena,Traumatología,2024-06-09,338.28
+P2814,Luis Pérez,0,,Chetilla,Traumatología,2024-12-19,116.2
+P2815,Pedro León,0,F,Chetilla,Odontología,2025-02-05,0.0
+P2816,Carlos Ruiz,52,M,Magdalena,Pediatría,2023-10-12,0.0
+P2817,Andrea Soto,55,F,Chetilla,Pediatría,2023-01-03,275.28
+P2818,Pedro León,0,,Chetilla,Pediatría,2024-09-21,0.0
+P2819,Diego Ramos,0,F,Encañada,Medicina General,2024-04-05,0.0
+P2820,Diego Ramos,0,,Matara,Traumatología,2025-11-19,0.0
+P2821,Ana Torres,16,,Encañada,Ginecología,2024-05-07,0.0
+P2822,Andrea Soto,2,,Encañada,General,2024-05-10,535.77
+P2823,Luis Pérez,75,F,Encañada,Pediatría,2025-06-28,0.0
+P2824,Carmen Flores,0,F,Matara,Ginecología,2024-05-22,389.54
+P2825,Pedro León,37,,Encañada,Odontología,2025-05-18,0.0
+P2826,Carlos Ruiz,0,F,Magdalena,General,2024-12-01,0.0
+P2827,Andrea Soto,0,M,Magdalena,Medicina General,2024-05-02,0.0
+P2828,Diego Ramos,0,M,Chetilla,Ginecología,2023-11-23,0.0
+P2829,María García,0,F,Matara,Medicina General,2023-05-09,326.39
+P2830,María García,87,,Desconocido,Medicina General,2023-11-03,603.85
+P2831,Jorge Díaz,0,M,Magdalena,Odontología,2025-09-26,0.0
+P2832,Luis Pérez,0,M,Chetilla,Odontología,2025-05-09,0.0
+P2833,Luis Pérez,0,M,Jesús,Traumatología,2024-11-29,0.0
+P2834,Carlos Ruiz,55,M,Cajamarca,Pediatría,2023-09-11,0.0
+P2835,Pedro León,0,,Baños del Inca,Traumatología,2023-08-21,0.0
+P2836,Carlos Ruiz,89,M,Baños del Inca,Odontología,2024-09-05,0.0
+P2837,Pedro León,0,M,Chetilla,Ginecología,2023-11-26,0.0
+P2838,Jorge Díaz,0,M,Jesús,Pediatría,2024-01-23,592.38
+P2839,Diego Ramos,13,M,Cajamarca,Pediatría,2023-01-24,749.98
+P2840,Pedro León,0,M,Desconocido,Traumatología,2025-12-01,632.09
+P2841,Luis Pérez,47,M,Encañada,General,2024-01-19,0.0
+P2842,Carmen Flores,0,F,Jesús,General,2025-03-11,292.8
+P2843,Carlos Ruiz,0,,Jesús,General,2024-01-09,0.0
+P2844,Carmen Flores,0,M,Cajamarca,Medicina General,2023-11-02,68.16
+P2845,Diego Ramos,0,M,Magdalena,Medicina General,2023-12-21,0.0
+P2846,Pedro León,29,,Desconocido,Ginecología,2024-11-28,0.0
+P2847,Pedro León,0,,Los Baños,General,2025-02-20,0.0
+P2848,María García,3,M,Encañada,Odontología,2025-02-04,397.53
+P2849,Luis Pérez,17,,Matara,Traumatología,2025-02-17,0.0
+P2850,Pedro León,88,F,Encañada,Traumatología,2025-05-16,655.1
+P2851,Jorge Díaz,0,F,Magdalena,Medicina General,2023-08-05,723.48
+P2852,Ana Torres,0,,Matara,Odontología,2025-10-05,487.04
+P2853,Jorge Díaz,0,,Jesús,Odontología,2023-01-26,0.0
+P2854,María García,48,F,Chetilla,Pediatría,2024-06-27,0.0
+P2855,Ana Torres,36,F,Baños del Inca,Medicina General,2025-05-10,0.0
+P2856,María García,0,M,Matara,Pediatría,2025-09-02,238.88
+P2857,Ana Torres,0,,Chetilla,Pediatría,2025-08-06,660.35
+P2858,Pedro León,0,F,Baños del Inca,General,2025-03-03,0.0
+P2859,Andrea Soto,0,,Encañada,Medicina General,2023-05-26,0.0
+P2860,Ana Torres,68,M,Cajamarca,General,2025-12-25,0.0
+P2861,Pedro León,89,F,Encañada,Pediatría,2024-06-03,564.84
+P2862,Ana Torres,0,M,Los Baños,General,2023-10-04,0.0
+P2863,Diego Ramos,0,,Los Baños,Ginecología,2024-01-10,222.34
+P2864,Diego Ramos,42,M,Desconocido,General,2024-03-03,0.0
+P2865,Jorge Díaz,47,,Matara,Pediatría,2025-12-07,591.67
+P2866,Ana Torres,0,F,Encañada,General,2025-11-16,0.0
+P2867,María García,0,F,Desconocido,Odontología,2025-04-22,0.0
+P2868,Lucía Mendoza,0,,Cajamarca,General,2025-12-19,0.0
+P2869,Carlos Ruiz,0,F,Baños del Inca,General,2023-09-28,0.0
+P2870,Carlos Ruiz,39,,Jesús,Pediatría,2023-10-23,0.0
+P2871,María García,74,M,Cajamarca,Ginecología,2025-10-29,0.0
+P2872,Ana Torres,0,,Chetilla,Medicina General,2023-05-09,397.85
+P2873,Pedro León,0,,Baños del Inca,General,2024-09-05,0.0
+P2874,María García,0,M,Desconocido,Odontología,2025-09-07,75.88
+P2875,Diego Ramos,69,F,Baños del Inca,Traumatología,2025-07-21,0.0
+P2876,Carmen Flores,0,,Jesús,Odontología,2024-03-12,0.0
+P2877,Lucía Mendoza,0,,Jesús,Odontología,2025-03-09,0.0
+P2878,Luis Pérez,60,F,Baños del Inca,Odontología,2025-04-03,792.91
+P2879,Luis Pérez,0,F,Desconocido,Medicina General,2025-08-16,0.0
+P2880,Jorge Díaz,12,,Chetilla,Odontología,2025-03-05,0.0
+P2881,María García,0,M,Chetilla,General,2024-12-01,0.0
+P2882,Andrea Soto,77,F,Matara,Odontología,2024-11-28,306.97
+P2883,Ana Torres,86,,Desconocido,General,2024-04-02,0.0
+P2884,Luis Pérez,0,,Chetilla,Ginecología,2025-06-27,0.0
+P2885,Andrea Soto,0,M,Chetilla,Medicina General,2023-11-08,0.0
+P2886,Carlos Ruiz,1,M,Chetilla,General,2024-04-04,0.0
+P2887,Diego Ramos,83,,Baños del Inca,Odontología,2023-12-30,0.0
+P2888,Jorge Díaz,23,,Magdalena,Traumatología,2024-08-05,0.0
+P2889,Pedro León,0,M,Chetilla,Odontología,2024-11-20,459.08
+P2890,Diego Ramos,75,,Matara,Ginecología,2025-04-28,174.16
+P2891,Pedro León,0,F,Matara,Odontología,2024-05-13,0.0
+P2892,María García,0,,Chetilla,Odontología,2024-01-10,527.52
+P2893,Carmen Flores,0,,Desconocido,Pediatría,2025-08-02,0.0
+P2894,Pedro León,32,,Matara,Ginecología,2024-02-06,0.0
+P2895,Ana Torres,0,M,Desconocido,Pediatría,2023-05-03,0.0
+P2896,Lucía Mendoza,0,,Los Baños,Traumatología,2025-03-30,506.65
+P2897,Lucía Mendoza,0,F,Los Baños,General,2023-03-09,0.0
+P2898,Lucía Mendoza,0,M,Chetilla,Traumatología,2024-01-10,0.0
+P2899,Andrea Soto,89,,Encañada,Ginecología,2025-05-04,0.0
+P2900,Ana Torres,22,,Los Baños,Traumatología,2024-08-19,473.82
+P2901,Carlos Ruiz,0,F,Los Baños,General,2023-01-18,0.0
+P2902,Carlos Ruiz,0,,Los Baños,Odontología,2025-09-10,251.52
+P2903,Luis Pérez,11,,Desconocido,Pediatría,2023-09-11,0.0
+P2904,María García,0,,Encañada,Ginecología,2023-10-06,0.0
+P2905,María García,0,F,Cajamarca,Pediatría,2023-12-29,0.0
+P2906,Luis Pérez,60,M,Chetilla,Ginecología,2025-09-28,0.0
+P2907,María García,0,,Los Baños,Ginecología,2023-08-18,0.0
+P2908,Diego Ramos,0,M,Jesús,Pediatría,2024-06-28,0.0
+P2909,Luis Pérez,45,,Magdalena,Medicina General,2023-03-11,0.0
+P2910,Pedro León,77,F,Magdalena,General,2025-05-02,0.0
+P2911,Luis Pérez,0,M,Chetilla,Odontología,2025-07-22,0.0
+P2912,Jorge Díaz,46,F,Cajamarca,Pediatría,2024-04-28,698.34
+P2913,Jorge Díaz,30,,Desconocido,Pediatría,2024-07-15,397.33
+P2914,Lucía Mendoza,41,,Baños del Inca,Traumatología,2023-01-23,0.0
+P2915,Carmen Flores,32,,Cajamarca,Medicina General,2023-01-19,685.48
+P2916,María García,83,,Magdalena,Odontología,2024-04-02,766.31
+P2917,Andrea Soto,25,,Chetilla,General,2024-11-03,0.0
+P2918,Diego Ramos,58,,Matara,Medicina General,2024-10-20,405.78
+P2919,María García,0,F,Desconocido,Ginecología,2024-11-09,0.0
+P2920,Diego Ramos,11,F,Chetilla,Pediatría,2025-07-28,289.98
+P2921,Carlos Ruiz,0,F,Cajamarca,Traumatología,2023-12-22,0.0
+P2922,Carlos Ruiz,0,M,Chetilla,General,2024-11-02,0.0
+P2923,Diego Ramos,29,F,Desconocido,Pediatría,2023-05-01,0.0
+P2924,Diego Ramos,0,F,Desconocido,Ginecología,2025-01-23,0.0
+P2925,Pedro León,51,M,Encañada,General,2024-06-05,0.0
+P2926,Andrea Soto,42,F,Encañada,Odontología,2023-07-28,591.74
+P2927,Diego Ramos,59,F,Desconocido,Traumatología,2024-03-15,93.05
+P2928,Andrea Soto,0,F,Desconocido,Medicina General,2023-01-21,0.0
+P2929,Diego Ramos,0,M,Encañada,Ginecología,2023-01-27,0.0
+P2930,Jorge Díaz,0,M,Magdalena,Odontología,2023-03-07,313.83
+P2931,María García,0,M,Chetilla,Pediatría,2023-10-23,0.0
+P2932,Carmen Flores,20,F,Los Baños,Odontología,2024-07-08,135.84
+P2933,Luis Pérez,0,,Chetilla,Pediatría,2023-05-17,0.0
+P2934,Carmen Flores,0,F,Baños del Inca,Medicina General,2024-03-07,188.26
+P2935,Pedro León,0,F,Jesús,General,2025-01-04,0.0
+P2936,María García,0,,Baños del Inca,Pediatría,2024-05-29,0.0
+P2937,Diego Ramos,0,F,Desconocido,Medicina General,2025-12-07,0.0
+P2938,Carlos Ruiz,0,F,Cajamarca,Medicina General,2023-09-29,518.88
+P2939,Diego Ramos,0,,Desconocido,Traumatología,2023-11-23,226.16
+P2940,Diego Ramos,0,,Los Baños,Medicina General,2025-11-03,251.95
+P2941,Carlos Ruiz,16,F,Jesús,Odontología,2023-07-29,0.0
+P2942,Carmen Flores,0,M,Desconocido,General,2025-12-26,546.7
+P2943,Diego Ramos,0,F,Cajamarca,Odontología,2024-02-19,213.65
+P2944,Carlos Ruiz,0,F,Jesús,General,2025-11-10,0.0
+P2945,María García,0,F,Magdalena,General,2024-09-18,655.7
+P2946,Luis Pérez,0,,Desconocido,Traumatología,2025-08-07,353.06
+P2947,Diego Ramos,81,F,Chetilla,General,2025-01-21,0.0
+P2948,Carlos Ruiz,0,,Baños del Inca,Odontología,2024-01-21,0.0
+P2949,María García,10,M,Matara,Odontología,2025-12-15,637.64
+P2950,Diego Ramos,90,F,Baños del Inca,General,2025-04-30,433.35
+P2951,Jorge Díaz,0,,Chetilla,Medicina General,2023-10-12,0.0
+P2952,Jorge Díaz,0,,Los Baños,Medicina General,2024-05-25,0.0
+P2953,Jorge Díaz,0,F,Jesús,Pediatría,2023-08-31,474.66
+P2954,Carmen Flores,0,M,Magdalena,Medicina General,2024-11-07,0.0
+P2955,Diego Ramos,0,,Jesús,Traumatología,2024-09-12,0.0
+P2956,María García,0,M,Encañada,Traumatología,2025-01-14,0.0
+P2957,María García,40,F,Encañada,Odontología,2024-08-25,0.0
+P2958,Lucía Mendoza,0,F,Desconocido,Traumatología,2024-04-12,0.0
+P2959,Ana Torres,0,,Magdalena,General,2024-06-10,0.0
+P2960,Andrea Soto,0,F,Los Baños,Traumatología,2024-04-08,0.0
+P2961,María García,0,F,Baños del Inca,Traumatología,2023-06-24,0.0
+P2962,María García,0,F,Chetilla,Ginecología,2023-08-17,0.0
+P2963,Andrea Soto,0,,Matara,General,2024-02-06,0.0
+P2964,Luis Pérez,78,F,Los Baños,Traumatología,2023-04-21,601.61
+P2965,Andrea Soto,0,M,Los Baños,Medicina General,2025-07-08,0.0
+P2966,Carlos Ruiz,0,F,Encañada,Traumatología,2023-11-15,101.29
+P2967,Luis Pérez,46,,Los Baños,Traumatología,2023-06-23,261.93
+P2968,Luis Pérez,0,M,Jesús,Odontología,2025-04-09,0.0
+P2969,Jorge Díaz,0,,Matara,Odontología,2024-05-13,0.0
+P2970,Carlos Ruiz,0,,Los Baños,Traumatología,2025-11-06,462.64
+P2971,Pedro León,43,M,Matara,Ginecología,2024-12-18,0.0
+P2972,Carlos Ruiz,60,M,Chetilla,Ginecología,2023-03-31,0.0
+P2973,Pedro León,0,F,Encañada,General,2025-05-16,0.0
+P2974,María García,0,,Magdalena,Pediatría,2025-11-27,0.0
+P2975,Carmen Flores,0,M,Baños del Inca,Pediatría,2025-10-04,0.0
+P2976,Pedro León,78,,Cajamarca,Medicina General,2024-12-01,0.0
+P2977,Carmen Flores,43,,Jesús,Ginecología,2023-12-06,0.0
+P2978,María García,83,F,Encañada,Traumatología,2024-12-21,0.0
+P2979,Luis Pérez,22,F,Encañada,Medicina General,2025-07-22,232.47
+P2980,Diego Ramos,0,,Cajamarca,Traumatología,2024-11-08,452.47
+P2981,Ana Torres,0,,Jesús,Odontología,2025-08-21,0.0
+P2982,Pedro León,0,,Jesús,General,2024-02-27,0.0
+P2983,Andrea Soto,0,,Desconocido,Ginecología,2024-02-26,777.84
+P2984,Ana Torres,0,,Magdalena,Traumatología,2025-12-13,0.0
+P2985,Ana Torres,0,M,Encañada,Traumatología,2023-03-31,377.45
+P2986,Carlos Ruiz,0,M,Matara,Traumatología,2023-01-30,0.0
+P2987,Carmen Flores,0,,Matara,Medicina General,2024-11-21,144.13
+P2988,Carmen Flores,0,F,Magdalena,General,2025-09-21,0.0
+P2989,Luis Pérez,85,,Los Baños,General,2024-05-24,789.77
+P2990,Andrea Soto,52,M,Encañada,Ginecología,2025-01-19,0.0
+P2991,María García,0,F,Jesús,Ginecología,2023-08-04,0.0
+P2992,Ana Torres,36,M,Chetilla,Traumatología,2025-05-05,0.0
+P2993,Ana Torres,0,M,Jesús,General,2025-10-09,0.0
+P2994,Pedro León,0,,Chetilla,Medicina General,2024-12-23,0.0
+P2995,Andrea Soto,0,M,Baños del Inca,Traumatología,2024-12-15,720.56
+P2996,Carlos Ruiz,0,,Desconocido,Pediatría,2025-10-16,352.08
+P2997,Diego Ramos,0,M,Matara,Odontología,2024-08-18,0.0
+P2998,Lucía Mendoza,23,F,Cajamarca,Medicina General,2024-10-10,0.0
+P2999,Andrea Soto,0,M,Chetilla,Odontología,2025-08-14,0.0
+P3000,Andrea Soto,0,M,Desconocido,Medicina General,2023-08-12,385.38
